@@ -5,6 +5,25 @@ permalink: news
 
 Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
+## Spring 2021
+
+We are happy to announce that Matt Cope from California State University San Marcos accepted a position in the Plant Pathology graduate group and our lab! Matt has research experience in several microbial ecosystems ranging from marine microbiology to the tooth microbiome. Matt will matriculate in Fall 2021!
+
+## Winter 2021
+
+Several updates this quarter:
+
+1. Two GDB undergraduate students joined the lab as remote researchers.  Welcome Grace Lankford and Hang Le!
+
+1. Our lab's X-ray MicroCT preprint is available on BioRxiv: [B. Ingel *et al.* "Revisiting the source of wilt symptoms: X-ray microcomputed tomography provides direct evidence that Ralstonia biomass clogs xylem vessels"](https://www.biorxiv.org/content/10.1101/2021.03.19.436187v1.full)
+
+2. Jason Avalos and Maria Charco Munoz finalized their data entry and curation for the [Ralstonia Global Diversity project](https://github.com/lowepowerlab/Ralstonia_Global_Diversity). We updated the [preprint](https://www.biorxiv.org/content/10.1101/2020.07.13.189936v2.full) to reflect their contributions to the preprint.  This project was featured on the [Open Plant Pathology blog](https://openplantpathology.org/posts/2021-03-24-rsscdb-a-database-for-tracking-the-global-spread-of-ralstonia-solanacearum-sequevars-and-strains/)
+
+3. We gave the [lab protocols a new look](http://lowepowerlab.ucdavis.edu/protocols/)! They are now view-able as a GitHub Jekyll site, which is a printer-friendly format. 
+
+4. Dr. Tiffany Lowe-Power gave a seminar at NCSU in March!  It was great to meet new colleagues and catch up with old colleagues!
+
+
 ## Fall 2020
 
 **October 2020**

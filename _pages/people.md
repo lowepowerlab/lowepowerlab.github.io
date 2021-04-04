@@ -87,8 +87,9 @@ UC Davis Major: **Global Disease Biology**  <br>
 **Elva Xian** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 
+<br><br><br><br><br>
 
-![Hang Le](/assets/people/portrait_tbd.png){: .align-left height="200px"}
+<img src="/assets/people/portrait_tbd.png" alt="Hang Le" height="200">
 **Hang Le** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 

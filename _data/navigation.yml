@@ -3,7 +3,7 @@ main:
   - title: "People"
     url: /people
   - title: "Protocols"
-    url: /protocols     
+    url: http://lowepowerlab.ucdavis.edu/protocols/  
   - title: "News"
     url: /news
   - title: "Publications"

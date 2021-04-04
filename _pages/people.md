@@ -89,8 +89,7 @@ UC Davis Major: **Global Disease Biology**  <br>
 
 <br><br><br><br><br>
 
-<img src="/assets/people/portrait_tbd.png" alt="Hang Le" height="200">
-**Hang Le** <br> 
+![Hang Le](/assets/people/portrait_le.jpg){: .align-left width="200px"}**Hang Le** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 
 

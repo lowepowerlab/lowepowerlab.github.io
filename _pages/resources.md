@@ -3,6 +3,9 @@ title: Resources
 permalink: /resources/
 ---
 
+# General Advice for Navigating the Hidden Curriculum of Academia
+* [Academic Secret Menu google doc](https://docs.google.com/document/d/1Cl_u8Qq4DD6ROKH4SNThxyLF7UWTWuWKEaVhrKCJqOw/edit)
+
 # Inclusion, Diversity, and Equity resources
 
 ## Imposter Syndrome and Mental Health Resources

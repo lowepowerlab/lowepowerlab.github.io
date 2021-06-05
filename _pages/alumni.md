@@ -3,7 +3,26 @@ title: Lowe-Power Lab Alumni
 permalink: /alumni/
 ---
 
-## #wUndergrads
+## #wUndergrads and Visiting Researchers
+
+![](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
+**Jason Avalos** <br> 
+UC Davis Major: **Global Disease Biology**  <br>
+Research Project: Jason was mentored by Tiffany on the Global Ralstonia Diversity meta-analysis. Jason taught himself to use MEGAX and reconstruct phylogenies using Ralstonia gene sequences from NCBI.  
+<br><br><br><br><br><br>
+
+![](/assets/people/portrait_lankford.jpg){: .align-left width="200px"}
+**Grace Lankford** <br> 
+UC Davis Major: **Global Disease Biology**  <br>
+Research Project: Grace was mentored by Tiffany on a meta-analysis of hospital-acquired infections with Ralstonia spp. Grace taught us a lot about how cousins of our wilt pathogens cause infections in humans.  
+<br><br><br><br><br>
+
+![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
+**Elva Xian** <br> 
+UC Davis Major: **Global Disease Biology**  <br>
+Research Project: Elva was mentored by Stratton to develop an assay that will allow us to investigate inter-bacterial competition, cloned several knockout plasmids, and uses BLAST to compare genomic content of Ralstonia genomes. 
+
+<br><br><br><br><br>
 
 ![Dayna Denver](/assets/people/portrait_denver.jpg){: .align-left width="200px"}
 
@@ -12,15 +31,16 @@ Summer 2020
 **A.A. Natural Science** Mt. San Antonio College
 Major: **B.Sc. Microbiology** at Cal Poly Pomona
 
-Dayna is a research student from Cal Poly Pomona joining the lab through the National Summer Undergraduate Research Project (NSURP).
+Dayna is a research student from Cal Poly Pomona joining the lab through the National Summer Undergraduate Research Project (NSURP). Dayna was mentored by Stratton to use BLAST to compare genomic content of Ralstonia genomes. 
 
 **For fun:** photography, kayaking, hiking, providing unsolicited science fun facts, getting overly excited about microbes
+**What she did after graduating**: Dayna is a M.S. student at CSU San Marcos.
 
 ![Kyle Chipman](/assets/people/portrait_chipman.jpg){: .align-left width="200px"}
 **Kyle Chipman** <br> 
 Winter - Spring 2020 <br>
 UC Davis Major: **Global Disease Biology** <br> 
-
+Research Project: Kyle was first mentored by Stratton to create knockout plasmids to make mutant bacteria. Then the covid-19 pandemic hit and Kyle and Tiffany devised a remote research project, called the Global Ralstonia Diversity meta-analysis. 
 <br><br><br><br><br><br>
 
 ![Amanda Eulano](/assets/people/portrait_eulano.jpg){: .align-left width="200px"}

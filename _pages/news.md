@@ -6,15 +6,23 @@ permalink: news
 Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
 ## Spring 2021
-**May**
-It has been an exciting quarter for the lab wUndergrads! Elva Xian, Jason Avalos, Maria Charco Munoz, Grace Lankford, and Hang Le all presented research posters at the Undergrad Research Conference (URC). Also, Jason was awarded the [Global Disease Biology student of the Month Award!](https://gdb.ucdavis.edu/news/may-student-month-jason-avalos?fbclid=IwAR1OvlAt6XElxgkE-dt7Ko_OlsvJ38SY_IBsdbu174MP9aPJZgel1OP8acc)!
+**June**<br>
 
-This month also marked pay-offs for the Lowe-Power lab!  We received our first research grants!  They're small Seed grants that will set the stage for exciting findings to come.
+* We're so proud of our McNair Scholar, Hang Le, who received the President's Undergraduate Fellowship (PUF) for her research project to characterize how Ralstonia evolution after years of persistence in water. Congrats, Hang!
 
-**April**
-We are happy to announce that Matt Cope from California State University San Marcos accepted a position in the Plant Pathology graduate group and our lab! Matt has research experience in several microbial ecosystems ranging from marine microbiology to the tooth microbiome. Matt will matriculate in Fall 2021!
+* Three of our GDB #wUndergrads graduated this quarter!  Jason Avalos, Grace Lankford, and Elva Xian are heading off to improve the world through public health, practicing medicine, and researching plant diseases. Congrats y'all!
 
-We are preparing to host Darrielle Williams and Darrell Sparks for [PABGAP](https://pabgap.ucdavis.edu/) summer research projects on Ralstonia genomics. We can't wait to work with y'all!  
+* Stratton, Jonathan, and Becca have had talks accepted at APS Pacific Division and/or APS Plant Health. We're looking forward to sharing our research with colleagues this month and in August. 
+
+**May** <br>
+* It has been an exciting quarter for the lab wUndergrads! Elva Xian, Jason Avalos, Maria Charco Munoz, Grace Lankford, and Hang Le all presented research posters at the Undergrad Research Conference (URC). Also, Jason was awarded the [Global Disease Biology student of the Month Award!](https://gdb.ucdavis.edu/news/may-student-month-jason-avalos?fbclid=IwAR1OvlAt6XElxgkE-dt7Ko_OlsvJ38SY_IBsdbu174MP9aPJZgel1OP8acc)!
+
+* This month also marked pay-offs for the Lowe-Power lab!  We received our first research grants!  They're small Seed grants that will set the stage for exciting findings to come.
+
+**April**<br>
+* We are happy to announce that Matt Cope from California State University San Marcos accepted a position in the Plant Pathology graduate group and our lab! Matt has research experience in several microbial ecosystems ranging from marine microbiology to the tooth microbiome. Matt will matriculate in Fall 2021!
+
+* We are preparing to host Darrielle Williams and Darrell Sparks for [PABGAP](https://pabgap.ucdavis.edu/) summer research projects on Ralstonia genomics. We can't wait to work with y'all!  
 
 
 ## Winter 2021

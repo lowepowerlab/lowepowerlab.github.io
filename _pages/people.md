@@ -60,31 +60,16 @@ Co-Mentored by Dr. Becky Parales
 **Plant Pathology Graduate Group** UC Davis
 
 <br><br><br><br>
-## #wUndergrads
-![](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
-**Jason Avalos** <br> 
-UC Davis Major: **Global Disease Biology**  <br>
+## #wUndergrads and Visiting Researchers
 
-<br><br><br><br><br><br>
+![Yali Bai](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Yali Bai** <br> 
+UC Davis Major: **Statistics** and **Mathematics** dual major  <br>
+
+<br><br><br><br><br>
 
 ![](/assets/people/portrait_charco_munoz.jpg){: .align-left width="200px"}
 **Maria Charco Munoz** <br> 
-UC Davis Major: **Global Disease Biology**  <br>
-
-
-
-<br><br><br><br><br>
-
-
-
-![](/assets/people/portrait_lankford.jpg){: .align-left width="200px"}
-**Grace Lankford** <br> 
-UC Davis Major: **Global Disease Biology**  <br>
-
-<br><br><br><br><br>
-
-![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
-**Elva Xian** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 
 <br><br><br><br><br>
@@ -92,9 +77,18 @@ UC Davis Major: **Global Disease Biology**  <br>
 ![Hang Le](/assets/people/portrait_le.jpg){: .align-left width="200px"}**Hang Le** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 
+<br><br><br><br><br><br>
 
+![Darrell Sparks](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}**Darrell Sparks** <br> 
+<br>
 
 <br><br><br><br><br><br>
+
+![Darrielle Williams](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}**Darrielle Williams** <br> 
+**B.S. in Animal, Poultry, and Veterinary Sciences**  Tuskegee University<br>
+
+<br><br><br><br><br><br>
+
 ## Alumni
 
 Lab alumni are represented on the [Alumni page](/alumni).

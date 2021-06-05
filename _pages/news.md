@@ -9,6 +9,9 @@ Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
 We are happy to announce that Matt Cope from California State University San Marcos accepted a position in the Plant Pathology graduate group and our lab! Matt has research experience in several microbial ecosystems ranging from marine microbiology to the tooth microbiome. Matt will matriculate in Fall 2021!
 
+We are preparing to host Darrielle Williams and Darrell Sparks for [PABGAP](https://pabgap.ucdavis.edu/) summer research projects on Ralstonia genomics. We can't wait to work with y'all!  
+
+
 ## Winter 2021
 
 Several updates this quarter:

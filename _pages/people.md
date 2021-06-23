@@ -62,9 +62,11 @@ Co-Mentored by Dr. Becky Parales
 <br><br><br><br>
 ## #wUndergrads and Visiting Researchers
 
-![Yali Bai](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Yali Bai** <br> 
-UC Davis Major: **Statistics** and **Mathematics** dual major  <br>
+![Yali Bai](/assets/people/portrait_bai.jpg){: .align-left width="200px"}
+**Yali Bai** <br>
+**Email:** abcbai@ucdavis.edu <br>
+UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
+**For fun:** cooking, reading, playing Lego, and spending time with children<br>
 
 <br><br><br><br><br>
 
@@ -77,7 +79,7 @@ UC Davis Major: **Global Disease Biology**  <br>
 ![Hang Le](/assets/people/portrait_le.jpg){: .align-left width="200px"}**Hang Le** <br> 
 UC Davis Major: **Global Disease Biology**  <br>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![Darrell Sparks](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}**Darrell Sparks** <br> 
 <br>

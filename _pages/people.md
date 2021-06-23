@@ -86,9 +86,9 @@ UC Davis Major: **Global Disease Biology**  <br>
 
 <br><br><br><br><br><br>
 
-![Darrielle Williams](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}**Darrielle Williams** <br> 
+![Darrielle Williams](/assets/people/portrait_williams.jpg){: .align-left width="200px"}**Darrielle Williams** <br> 
 **B.S. in Animal, Poultry, and Veterinary Sciences**  Tuskegee University<br>
-
+**For Fun:** Make acrylic paintings, Read Sci-Fi/Fantasy, and Finding Good Vegan Spots.
 <br><br><br><br><br><br>
 
 ## Alumni

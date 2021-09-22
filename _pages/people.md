@@ -28,7 +28,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **PhD Plants-Microorganisms Interactions**, LIPME-INRAE (Toulouse, France)
 **Twitter:** [@Nat_Aoun](https://twitter.com/nat_aoun)
 For fun: hiking, biking and exploring new places. 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
 **Brian Ingel** <br> 
@@ -36,22 +36,21 @@ For fun: hiking, biking and exploring new places.
 **PhD Plant Pathology** UC-Riverside <br>
 **B.S. Biochemistry & Molecular Biology** UC-Davis <br>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Becca Schomer](/assets/people/portrait_schomer.jpg){: .align-left width="200px"}
 **Becca Schomer** <br> 
-Co-Mentored by Dr. Becky Parales 
+Co-Mentored by Dr. Becky Parales <br>
 **Email:** raschomer@ucdavis.edu  <br>
 **Twitter**: [@becA_recA](https://twitter.com/becA_recA) <br>
 **PhD Microbiology** UW-Madison <br>
 **B.S. Bacteriology** UW-Madison <br>
-[**Google Scholar**](https://scholar.google.com/citations?user=dkiS81YAAAAJ&hl=en) <br><br><br>
-
+[**Google Scholar**](https://scholar.google.com/citations?user=dkiS81YAAAAJ&hl=en) <br><br>
 <br><br><br>
 ## Graduate Student Researchers
 
-![Matt Cope-Arguello](/assets/people/portrait_cope.jpg){: .align-left width="200px"}
-**Matt Cope** <br> 
+![Matt Cope-Arguello](/assets/people/portrait_cope-arguello.jpg){: .align-left width="200px"}
+**Matt Cope-Arguello** <br> 
 **Email:** mcope@ucdavis.edu <br>
 **B.S. Biology** California State University-San Marcos <br>
 **A.A. Liberal Arts with Emphasis in Mathematics and Sciences** MiraCosta College <br>

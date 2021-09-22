@@ -21,10 +21,17 @@ Assistant Professor <br>
 For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 
 ## Postdocs
+![Nathalie Aoun](/assets/people/portrait_aoun.jpg){: .align-left width="200px"}
+**Nathalie Aoun** <br> 
+**Email:** naoun@ucdavis.edu <br>
+**PhD Plant-Microbe Interactions** INRA-Toulouse, France <br>
+**M.S. Plant-Microbe Interactions** INRA-Toulouse, France <br>
+**B.S. Agricultural Engineering** Lebanese University <br>
+<br><br><br>
+
 ![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
 **Brian Ingel** <br> 
 **Email:** bmingel@ucdavis.edu <br>
-**Office:** 113 Robbins Hall<br>
 **PhD Plant Pathology** UC-Riverside <br>
 **B.S. Biochemistry & Molecular Biology** UC-Davis <br>
 
@@ -39,27 +46,36 @@ Co-Mentored by Dr. Becky Parales
 **B.S. Bacteriology** UW-Madison <br>
 [**Google Scholar**](https://scholar.google.com/citations?user=dkiS81YAAAAJ&hl=en) <br><br><br>
 
-
 <br><br><br>
 ## Graduate Student Researchers
-![Jonathan Beutler](/assets/people/portrait_beutler.jpg){: .align-left width="200px"}
-**Jonathan Beutler** <br> 
-**Email:** jdbeutler@ucdavis.edu@ucdavis.edu <br>
-**Office:** 113 Robbins Hall<br>
-**B.S. Environmental Science, Policy, and Management** University of Minnesota, Twin Cities <br>
-**International Agricultural Development Graduate Group**, UC Davis
-<br><br><br>
-**For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his 7-yr old Papillon
 
+![Matt Cope-Arguello](/assets/people/portrait_cope.jpg){: .align-left width="200px"}
+**Matt Cope** <br> 
+**Email:** mcope@ucdavis.edu <br>
+**B.S. Biology** California State University-San Marcos <br>
+**A.A. Liberal Arts with Emphasis in Mathematics and Sciences** MiraCosta College <br>
+**Plant Pathology Graduate Group** UC Davis<br>
+For fun: video games, bouldering, gardening, and more!
+<br><br><br><br>
 
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
-**Office:** 113 Robbins Hall<br>
-**BS Biochemistry** University of Texas-Austin <br>
+**B.S. Biochemistry** University of Texas-Austin <br>
 **Plant Pathology Graduate Group** UC Davis
 
 <br><br><br><br>
+
+## Junior Specialists
+![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
+**Jason Avalos** <br> 
+**B.S.  Global Disease Biology** 
+Fall 2020-Spring 2021 <br>
+UC Davis Major: **Global Disease Biology**  <br>
+Jason is working under Becca Schomer (technically in the Parales lab on a collaborative project)
+<br><br>
+
+
 ## #wUndergrads and Visiting Researchers
 
 ![Yali Bai](/assets/people/portrait_bai.jpg){: .align-left width="200px"}
@@ -68,28 +84,8 @@ Co-Mentored by Dr. Becky Parales
 UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 **For fun:** cooking, reading, playing Lego, and spending time with children<br>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
-![](/assets/people/portrait_charco_munoz.jpg){: .align-left width="200px"}
-**Maria Charco Munoz** <br> 
-UC Davis Major: **Global Disease Biology**  <br>
-
-<br><br><br><br><br>
-
-![Hang Le](/assets/people/portrait_le.jpg){: .align-left width="200px"}**Hang Le** <br> 
-UC Davis Major: **Global Disease Biology**  <br>
-
-<br><br><br><br><br><br><br>
-
-![Darrell Sparks](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}**Darrell Sparks** <br> 
-<br>
-
-<br><br><br><br><br><br>
-
-![Darrielle Williams](/assets/people/portrait_williams.jpg){: .align-left width="200px"}**Darrielle Williams** <br> 
-**B.S. in Animal, Poultry, and Veterinary Sciences**  Tuskegee University<br>
-**For Fun:** Make acrylic paintings, Read Sci-Fi/Fantasy, and Finding Good Vegan Spots.
-<br><br><br><br><br><br>
 
 ## Alumni
 

@@ -96,6 +96,7 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 * [Advice on how to get the most out of a conference and maintain your sanity](https://www.nature.com/articles/d41586-019-01631-7)
 
 ### Talks
+* [Workshop on Scientific Talks](https://drive.google.com/file/d/13efH6iA6toPtJ91KBt_QCeAyQBcSN7SA/view) by Dan Larremore
 * [Guide to preparing a research talk](https://luispedro.github.io/talk-scientific-communication) by Luis Pedro Coelho
 
 ### Posters

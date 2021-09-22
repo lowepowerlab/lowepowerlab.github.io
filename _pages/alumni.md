@@ -3,16 +3,45 @@ title: Lowe-Power Lab Alumni
 permalink: /alumni/
 ---
 
+## Graduate Student Researchers
+![Jonathan Beutler](/assets/people/portrait_beutler.jpg){: .align-left width="200px"}
+**Jonathan Beutler** <br> 
+**Email:** jdbeutler@ucdavis.edu@ucdavis.edu <br>
+**B.S. Environmental Science, Policy, and Management** University of Minnesota, Twin Cities <br>
+**International Agricultural Development Graduate Group**, UC Davis
+<br><br><br>
+**For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his 7-yr old Papillon
+
 ## #wUndergrads and Visiting Researchers
 
-![](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
+![Maria Charco Munoz](/assets/people/portrait_charco_munoz.jpg){: .align-left width="200px"}
+**Maria Charco Munoz** <br> 
+Fall 2020 - Summer 2021 <br>
+UC Davis Major: **Global Disease Biology**  <br>
+Research Project: Maria worked on the global Ralstonia project
+<br><br>
+
+![Darrell Sparks](/assets/people/portrait_sparks.jpg){: .align-left width="200px"}**Darrell Sparks** <br> 
+Summer 2021 <br>
+**B.S. in Animal Science**  Fort Valley State University<br>
+**M.S. in Biotechnology**  Fort Valley State University<br>
+Research Project: Darrell worked on the global Ralstonia project
+<br><br><br><br><br><br>
+
+![Darrielle Williams](/assets/people/portrait_williams.jpg){: .align-left width="200px"}**Darrielle Williams** <br> 
+Summer 2021 <br>
+**B.S. in Animal, Poultry, and Veterinary Sciences**  Tuskegee University<br>
+**For Fun:** Make acrylic paintings, Read Sci-Fi/Fantasy, and Finding Good Vegan Spots. <br>
+Research Project: Darrielle worked on the global Ralstonia project and on data analysis under Jonathan Beutler and Stratton Georgoulis. 
+<br><br><br><br><br><br>
+![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
 **Jason Avalos** <br> 
 Fall 2020-Spring 2021 <br>
 UC Davis Major: **Global Disease Biology**  <br>
 Research Project: Jason was mentored by Tiffany on the Global Ralstonia Diversity meta-analysis. Jason taught himself to use MEGAX and reconstruct phylogenies using Ralstonia gene sequences from NCBI.  
 <br><br>
 
-![](/assets/people/portrait_lankford.jpg){: .align-left width="200px"}
+![Grace Lankford](/assets/people/portrait_lankford.jpg){: .align-left width="200px"}
 **Grace Lankford** <br> 
 Winter - Spring 2021 <br>
 UC Davis Major: **Global Disease Biology**  <br>
@@ -27,12 +56,18 @@ Research Project: Elva was mentored by Stratton to develop an assay that will al
 
 <br><br>
 
+![Hang Le](/assets/people/portrait_le.jpg){: .align-left width="200px"}**Hang Le** <br> 
+Winter 2021<br>
+UC Davis Major: **Global Disease Biology**  <br>
+
+<br><br><br><br><br><br><br>
+
 ![Dayna Denver](/assets/people/portrait_denver.jpg){: .align-left width="200px"}
 
 **Dayna Alyse Denver**<br>
 Summer 2020<br>
-**A.A. Natural Science** Mt. San Antonio College
-Major: **B.Sc. Microbiology** at Cal Poly Pomona
+**A.A. Natural Science** Mt. San Antonio College<br>
+**B.Sc. Microbiology** at Cal Poly Pomona
 
 Dayna is a research student from Cal Poly Pomona joining the lab through the National Summer Undergraduate Research Project (NSURP). Dayna was mentored by Stratton to use BLAST to compare genomic content of Ralstonia genomes. 
 

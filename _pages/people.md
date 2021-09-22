@@ -28,7 +28,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **PhD Plants-Microorganisms Interactions**, LIPME-INRAE (Toulouse, France)
 **Twitter:** [@Nat_Aoun](https://twitter.com/nat_aoun)
 For fun: hiking, biking and exploring new places. 
-
+<br><br><br><br>
 
 ![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
 **Brian Ingel** <br> 
@@ -74,7 +74,7 @@ For fun: video games, bouldering, gardening, and more!
 Fall 2020-Spring 2021 <br>
 UC Davis Major: **Global Disease Biology**  <br>
 Jason is working under Becca Schomer (technically in the Parales lab on a collaborative project)
-<br><br>
+<br><br><br><br>
 
 
 ## #wUndergrads and Visiting Researchers

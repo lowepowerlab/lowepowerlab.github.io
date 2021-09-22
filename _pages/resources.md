@@ -62,18 +62,6 @@ permalink: /resources/
 
 # Science Communication (#SciComm) Resources
 
-## Tiffany's Advice for Grant and Paper writing (Currently down, but will be uploaded at a new location after Fall 2020)
-
-Curated from diverse sources that are hopefully cited properly.
-* Lecture 1: [**The Human Context of Grantsmanship**](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000)
-* Lecture 2: [**High Impact Writing (Word Choice)**](https://zoom.us/rec/play/6JF_I7yqrm43SNHEtgSDC6N_W46_J62s1HNN__VczUfnVXRWZgCuNOFBY-Z8chB5Ko9Gcm1V9kkw8IYR?autoplay=true&startTime=1586545007000)
-* Lecture 3: [**High Impact Writing: Building Sentences**](https://zoom.us/rec/play/vZ0rduigqjk3GtbHsQSDAP5xW468LPishHIY_PsLzBy2AiEGZAWmYLpGN7O-xIbo2dMV_Jg8Xqfi36n-)
-* Lecture 4: [**Writing Strategies**](
-https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7MnG6owzJlY?startTime=1587754603000)
-
-## Stats and Data Visualization
-(see section above)
-
 ## Scientific Writing
 * [Bacterial genetics: A how-to guide to notation on naming bacterial genotypes and phenotypes ](/assets/resources/Common_notations_in_bacterial_genetics.docx) by Tiffany Lowe-Power
 * Getting started: [An Ode to the Shitty First Draft](https://writingcooperative.com/an-ode-to-all-of-my-shitty-first-drafts-8312e86130c8?gi=dec43175b8e7) by Angely Mercado. 
@@ -84,8 +72,16 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 ### Grant Writing
 * [Advice on applying for the NSF Graduate Research Fellowship Program (GRFP)](https://www.youtube.com/watch?v=gI7c_gTftAo&feature=youtu.be) Webinar by Kelsey Wood. (Released in 2020, so details will change. But Kelsey provides timeless advice about the program) 
   * [Additional advice for NSF GRFPs that involve pathogens of plants](https://kelseywooddotcom.wordpress.com/2019/09/30/changing-times-and-rolling-the-dice-the-new-nsf-grfp-rules-and-how-you-can-maximize-your-odds-for-success/)
+  * [A database of funded NSF GFRP grants](https://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
 * [Advice for a Strong NSF Standard proposal](/assets/resources/nsf_grants_allen.pdf) by Caitilyn Allen
 * [The Human Context of Granstsmanship](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000) 1 hr lecture by Tiffany Lowe-Power with materials adapted from Gary Roberts and JD Sauer at UW-Madison and John Boothroyd at Stanford.
+* Curated from diverse sources that are hopefully cited properly.
+* Tiffany's Advice for Grant and Paper writing (Currently down, but will be uploaded at a new location after Fall 2020)
+ * Lecture 1: [**The Human Context of Grantsmanship**](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000)
+ * Lecture 2: [**High Impact Writing (Word Choice)**](https://zoom.us/rec/play/6JF_I7yqrm43SNHEtgSDC6N_W46_J62s1HNN__VczUfnVXRWZgCuNOFBY-Z8chB5Ko9Gcm1V9kkw8IYR?autoplay=true&startTime=1586545007000)
+ * Lecture 3: [**High Impact Writing: Building Sentences**](https://zoom.us/rec/play/vZ0rduigqjk3GtbHsQSDAP5xW468LPishHIY_PsLzBy2AiEGZAWmYLpGN7O-xIbo2dMV_Jg8Xqfi36n-)
+ * Lecture 4: [**Writing Strategies**](
+https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7MnG6owzJlY?startTime=1587754603000)
 
 ### Peer-Review
 * [Peer-Reviewing Scientific Manuscripts](/assets/resources/peer_review_allen.pdf) by Caitilyn Allen
@@ -103,5 +99,7 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 * Guides to printing scientific posters on wrinkle-free cloth through Spoonflower.com. [Guide 1](https://www.ascb.org/careers/how-to-print-a-fabric-poster/) and [Guide 2](https://support.spoonflower.com/hc/en-us/articles/204266984-How-to-Create-a-Fabric-Presentation-Poster-from-a-PowerPoint-or-PDF).  Plan for 10 business for printing & shipping.
 * [Better Poster Blog](http://betterposters.blogspot.com/). Although I don't perfectly agree with this authors' opinions, they have suggestions on how to improve scientific poster design. 
 
+## Stats and Data Visualization
+(see section above)
 ---
  

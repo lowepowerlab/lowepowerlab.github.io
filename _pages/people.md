@@ -24,10 +24,11 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 ![Nathalie Aoun](/assets/people/portrait_aoun.jpg){: .align-left width="200px"}
 **Nathalie Aoun** <br> 
 **Email:** naoun@ucdavis.edu <br>
-**PhD Plant-Microbe Interactions** INRA-Toulouse, France <br>
-**M.S. Plant-Microbe Interactions** INRA-Toulouse, France <br>
-**B.S. Agricultural Engineering** Lebanese University <br>
-<br><br><br>
+**M.S. Agricultural Engineering**, INP-ENSAT (Toulouse, France)
+**PhD Plants-Microorganisms Interactions**, LIPME-INRAE (Toulouse, France)
+**Twitter:** [@Nat_Aoun](https://twitter.com/nat_aoun)
+For fun: hiking, biking and exploring new places. 
+
 
 ![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
 **Brian Ingel** <br> 
@@ -35,7 +36,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **PhD Plant Pathology** UC-Riverside <br>
 **B.S. Biochemistry & Molecular Biology** UC-Davis <br>
 
-<br><br><br>
+<br><br><br><br><br>
 
 ![Becca Schomer](/assets/people/portrait_schomer.jpg){: .align-left width="200px"}
 **Becca Schomer** <br> 
@@ -56,7 +57,7 @@ Co-Mentored by Dr. Becky Parales
 **A.A. Liberal Arts with Emphasis in Mathematics and Sciences** MiraCosta College <br>
 **Plant Pathology Graduate Group** UC Davis<br>
 For fun: video games, bouldering, gardening, and more!
-<br><br><br><br>
+<br><br><br>
 
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 

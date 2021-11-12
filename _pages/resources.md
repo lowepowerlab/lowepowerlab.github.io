@@ -47,6 +47,7 @@ permalink: /resources/
 * [Plant Illustrations Figshare Group](https://figshare.com/authors/Plant_Illustrations/3773596)
 * [BioRender platform for biological figure design](https://biorender.com/) Note: The free version exports with watermarks. 
 * [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodesk.com/research/publications/same-stats-different-graphs)
+* [Why scientists need to be better at data visualization](https://knowablemagazine.org/article/mind/2019/science-data-visualization)
 * ["If your P value looks too good to be true, it probably is: Communicating reproducibility and variability in cell biology"](https://arxiv.org/abs/1911.03509). A humorous guide to common pitfalls in statistical analysis. The PDF is in the upper right corner. This guide was also published in a journal, but the editor removed the jokes. 
 * **Graphpad Prism's guide to statistics**. Google for this and find the recent version.  This guide is written for research biologists and uses a lot of common examples that we are familiar with.  It will help you verify that your data fit the assumptions for the statistcal tests that you want to perform. 
 

@@ -3,6 +3,15 @@ title: Lowe-Power Lab Alumni
 permalink: /alumni/
 ---
 
+## Postdoctoral Scientists
+![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
+**Brian Ingel** <br> 
+**Email:** bmingel@ucdavis.edu <br>
+**PhD Plant Pathology** UC-Riverside <br>
+**B.S. Biochemistry & Molecular Biology** UC-Davis <br>
+
+<br><br><br><br>
+
 ## Graduate Student Researchers
 ![Jonathan Beutler](/assets/people/portrait_beutler.jpg){: .align-left width="200px"}
 **Jonathan Beutler** <br> 

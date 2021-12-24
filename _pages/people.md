@@ -30,14 +30,6 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 For fun: hiking, biking and exploring new places. 
 <br><br><br><br><br>
 
-![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
-**Brian Ingel** <br> 
-**Email:** bmingel@ucdavis.edu <br>
-**PhD Plant Pathology** UC-Riverside <br>
-**B.S. Biochemistry & Molecular Biology** UC-Davis <br>
-
-<br><br><br><br>
-
 ![Becca Schomer](/assets/people/portrait_schomer.jpg){: .align-left width="200px"}
 **Becca Schomer** <br> 
 Co-Mentored by Dr. Becky Parales <br>

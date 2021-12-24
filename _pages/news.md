@@ -5,6 +5,46 @@ permalink: news
 
 Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
+## 2021 in Review
+
+We had two papers accepted to society journals: Phytofrontiers (the new American Phytopathological Society journal) and mSystems (American Society for Microbiology)
+
+* Revisiting the source of wilt symptoms: X-ray microcomputed tomography provides direct evidence that Ralstonia biomass clogs xylem vessels [https://doi.org/10.1094/PHYTOFR-06-21-0041-R](https://doi.org/10.1094/PHYTOFR-06-21-0041-R)
+
+* Genome-Wide Identification of Tomato Xylem Sap Fitness Factors for Three Plant-Pathogenic Ralstonia Species [https://doi.org/10.1128/mSystems.01229-21](https://doi.org/10.1128/mSystems.01229-21)
+
+We have another pre-print under peer-review:
+* Meta Analysis of the Ralstonia solanacearum species complex (RSSC) based on comparative evolutionary genomics and reverse ecology [https://doi.org/10.1101/2021.12.05.471342](https://doi.org/10.1101/2021.12.05.471342)
+
+We had several grants funded:
+
+* USDA NIFA grant at the Pests and Beneficial Species program (PI: Lowe-Power)
+* JGI CSP Functional Genomics Grant (PI: Lowe-Power, Co-PI: Georgoulis)
+* Helmann Fellows grant (PI: Lowe-Power)
+* UC Davis Academic Senate grant (equal Co-PIs: Lowe-Power and Hari Manikantan)
+* Jastro Shields grant (PI: Georgoulis)
+
+## Fall 2021
+
+We welcomed three new full time researchers to the team:
+
+* Dr. Nathalie Aoun is a new postdoctoral fellow in the lab. Nathalie earned her PhD with Richard Berthomé and Fabrice Roux in Laurent Deslandes's group at LIPME (Toulouse, France). Nathalie is a statistics wizard who honed her experimental design and analysis skills through a highly productive 3 year PhD. Nathalie carried out GWAS screens to identify Arabidopsis resistance mechanisms that functioned at cool and tropical temperatures. Several of her PhD papers are published, and more are on their way. 
+
+* Matt Cope-Arguello is a new PLP graduate student who joins us from California State University-San Marcos. Matt had a diverse array of undergraduate research experiences that involved exploring microbial ecology and engineering: FISH visualization of dental plaque communities, coastal microbial ecology, and more. 
+
+* Jason Avalos joined the Parales lab as a Junior Specialist, but we consider him an honorary member of the Lowe-Power lab. Jason was an undergraduate researcher on the Global Ralstonia diversity project. Now he is working with Dr. Becca Schomer on the molecular biology of Ralstonia chemotaxis. 
+
+We had two scientists move on:
+
+* Jonathan Beutler completed an excellent M.S. thesis, and he moved to University of British Columbia to work in Gurcharn Brar's cereal pathology lab. 
+
+* Dr. Brian Ingel secured a career position at the California Department of Pesticide Regulation as an Environmental Scientist.
+
+## Summer 2021
+
+* We hosted two remote researchers, Darrielle Williams and Darrell Sparks. They joined our lab this summer through the Plant Agricultural Biology Graduate Admissions Pathways Program [(PABGAP)](https://pabgap.ucdavis.edu/program). Darrielle and Darrell both contributed to the Global Ralstonia Diversity project. Darrielle also explored Jonathan's disease progress data by calculating AUDPCs for over 3,000 individual plants and visualizing the distributions. Darrielle's artistic side shone in her color choices for the plots. 
+
+
 ## Spring 2021
 **June**<br>
 

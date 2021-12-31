@@ -19,6 +19,7 @@ Assistant Professor <br>
 <br> **Postdoc Plant and Microbial Biology**, University of California, Berkeley 
 
 For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
+<br> [The Global Disease Biology students interviewed Dr. Lowe-Power about her career path, hobbies, and advice](https://gdb.ucdavis.edu/news/professor-spotlight-tiffany-lowe-power)
 
 ## Postdocs
 ![Nathalie Aoun](/assets/people/portrait_aoun.jpg){: .align-left width="200px"}

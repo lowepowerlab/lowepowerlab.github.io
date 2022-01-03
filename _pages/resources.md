@@ -50,6 +50,7 @@ permalink: /resources/
 * [Why scientists need to be better at data visualization](https://knowablemagazine.org/article/mind/2019/science-data-visualization)
 * ["If your P value looks too good to be true, it probably is: Communicating reproducibility and variability in cell biology"](https://arxiv.org/abs/1911.03509). A humorous guide to common pitfalls in statistical analysis. The PDF is in the upper right corner. This guide was also published in a journal, but the editor removed the jokes. 
 * **Graphpad Prism's guide to statistics**. Google for this and find the recent version.  This guide is written for research biologists and uses a lot of common examples that we are familiar with.  It will help you verify that your data fit the assumptions for the statistcal tests that you want to perform. 
+* [Color palletes](https://github.com/BlakeRMills/MetBrewer/tree/main) inspired by works at the Metropolitan Museum of Art in New York. By Blake Mills
 
 ## Bioinformatics
 * Stratton's [bioinformatics course webpage](http://www.marcottelab.org/index.php/BCH339N_2018) with useful bioinformatics information, articles, databases, etc. compiled and created by Dr. Edward Marcotte of UT--Austin

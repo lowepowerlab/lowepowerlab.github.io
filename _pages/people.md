@@ -79,6 +79,21 @@ UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 
 <br><br><br><br>
 
+![Liz Jiang](/assets/people/portrait_jiang.jpg){: .align-left width="200px"}
+**Elizabeth (Liz) Jiang** <br>
+**Email:**  lizjiang@ucdavis.edu <br>
+UC Davis Major: **Microbiology** with a **Statistics** minor <br>
+**For fun:** digital art, baking, gaming, skiing <br>
+
+<br><br><br><br>
+
+![Cloe Tom](/assets/people/portrait_tom.jpg){: .align-left width="200px"}
+**Cloe Tom** <br>
+**Email:**  cetom@ucdavis.edu <br>
+UC Davis Major:  **Plant Biology** 🌱  <br>
+**For fun:** sewing, cooking, baking, gardening, wishing I had a cat <br>
+
+<br><br><br><br>
 
 ## Alumni
 

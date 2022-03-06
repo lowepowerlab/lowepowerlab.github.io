@@ -70,6 +70,14 @@ Jason is working under Becca Schomer (technically in the Parales lab on a collab
 
 
 ## #wUndergrads and Visiting Researchers
+![Aamna Ahmed](/assets/people/portrait_ahmed.jpg){: .align-left width="200px"}
+**Aahmna Ahmed** <br>
+**Email:** aaaahmed@ucdavis.edu <br>
+UC Davis Major:  **Global Disease Biology** 🦠 with a minor in **Public Health**   <br>
+**For fun:** binging shows, cooking, hiking, finding new places to eat, laying in the sun ☀️<br>
+
+<br><br><br><br>
+
 
 ![Yali Bai](/assets/people/portrait_bai.jpg){: .align-left width="200px"}
 **Yali Bai** <br>

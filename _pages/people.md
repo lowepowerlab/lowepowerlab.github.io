@@ -101,7 +101,7 @@ UC Davis Major: **Microbiology** with a **Statistics** minor <br>
 UC Davis Major:  **Plant Biology** 🌱  <br>
 **For fun:** sewing, cooking, baking, gardening, wishing I had a cat <br>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ## Alumni
 

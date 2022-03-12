@@ -76,7 +76,7 @@ Jason is working under Becca Schomer (technically in the Parales lab on a collab
 Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 **For fun:** knitting, pottery, food culture, Zumba & cats (love them, but highly allergic)<br>
 
-<br><br><br><br>
+<br><br>
 
 ## #wUndergrads 
 ![Aamna Ahmed](/assets/people/portrait_ahmed.jpg){: .align-left width="200px"}

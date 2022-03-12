@@ -105,3 +105,7 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 (see section above)
 ---
  
+# Teaching
+
+## Scientific Teaching
+[Repository of Plant Pathology papers that are well-suited to classroom teaching](https://forms.gle/fn8BDPqk1EhArurM7) 

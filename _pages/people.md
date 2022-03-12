@@ -63,13 +63,22 @@ For fun: video games, bouldering, gardening, and more!
 ![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
 **Jason Avalos** <br> 
 **B.S.  Global Disease Biology** 
-Fall 2020-Spring 2021 <br>
 UC Davis Major: **Global Disease Biology**  <br>
 Jason is working under Becca Schomer (technically in the Parales lab on a collaborative project)
 <br><br><br><br>
 
+## Visiting Researchers
+![Mari Carter](/assets/people/portrait_carter.jpg){: .align-left width="200px"}
+**Mariama Carter** <br>
+**Twitter:** [@themaricart](https://twitter.com/themaricart)<br>
+**Email:** mdcarter3@wisc.edu <br>
+**B.S.  Microbiology** Iowa State University<br>
+Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
+**For fun:** knitting, pottery, food culture, Zumba & cats (love them, but highly allergic)<br>
 
-## #wUndergrads and Visiting Researchers
+<br><br><br><br>
+
+## #wUndergrads 
 ![Aamna Ahmed](/assets/people/portrait_ahmed.jpg){: .align-left width="200px"}
 **Aamna Ahmed** <br>
 **Email:** aaaahmed@ucdavis.edu <br>

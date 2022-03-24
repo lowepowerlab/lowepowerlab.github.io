@@ -34,6 +34,7 @@ permalink: /resources/
   * From American Institute of Physics [(Appendix 8 in the Task Force Report)](https://www.aip.org/diversity-initiatives/team-up-task-force)
 * Funding opportunities for graduate fellowships to support underrepresented trainees
   * [USDA National Needs Fellowships](https://nifa.usda.gov/program/national-needs-graduate-and-postgraduate-fellowship-grants-program-funding-opportunity-nnf)
+* [Anti-Racism Resources from the American Phytopathological Society](https://www.apsnet.org/members/community/AntiRacismResources/Pages/default.aspx)
 
 # Science resources
 

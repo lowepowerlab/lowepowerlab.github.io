@@ -65,9 +65,20 @@ For fun: video games, bouldering, gardening, and more!
 **B.S.  Global Disease Biology** 
 UC Davis Major: **Global Disease Biology**  <br>
 Jason is working under Becca Schomer (technically in the Parales lab on a collaborative project)
-<br><br><br><br>
+<br><br><br><br><br>
 
 ## Visiting Researchers
+![Ofir Bahar](/assets/people/portrait_bahar.jpg){: .align-left width="200px"}
+**Ofir Bahar, PhD ** <br>
+**Twitter:** [@ofirbahar](https://twitter.com/ofirbahar)<br>
+Principal Investigator from **Volcani Institute**, Israel (currently on Sabbatical leave)
+<br>**Interests:** Phytobacteriology, insect-vectored bacterial pathogens, plant-microbe interactions, Extracellular vesicles
+**Website:** [Bahar lab](https://ofirb7.wix.com/bahar-lab)
+
+<br><br><br><br>
+
+
+<br>
 ![Mari Carter](/assets/people/portrait_carter.jpg){: .align-left width="200px"}
 **Mariama Carter** <br>
 **Twitter:** [@themaricart](https://twitter.com/themaricart)<br>
@@ -75,19 +86,9 @@ Jason is working under Becca Schomer (technically in the Parales lab on a collab
 **B.S.  Microbiology** Iowa State University<br>
 Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 **For fun:** knitting, pottery, food culture, Zumba & cats (love them, but highly allergic)<br>
-
-<br><br>
+<br>
 
 ## #wUndergrads 
-![Aamna Ahmed](/assets/people/portrait_ahmed.jpg){: .align-left width="200px"}
-**Aamna Ahmed** <br>
-**Email:** aaaahmed@ucdavis.edu <br>
-UC Davis Major:  **Global Disease Biology** 🦠 with a minor in **Public Health**   <br>
-**For fun:** binging shows, cooking, hiking, finding new places to eat, laying in the sun ☀️<br>
-
-<br><br><br><br>
-
-
 ![Yali Bai](/assets/people/portrait_bai.jpg){: .align-left width="200px"}
 **Yali Bai** <br>
 **Email:** abcbai@ucdavis.edu <br>

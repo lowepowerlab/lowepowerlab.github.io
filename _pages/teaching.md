@@ -2,29 +2,60 @@
 title: Teaching
 permalink: teaching
 ---
-My teaching goal is to activate students’ enthusiasm and curiosity about science and to inspire the next generation of plant pathologists and microbiologists to solve emerging problems in agriculture and food security caused by a changing climate and the world’s growing population. 
 
----
+In the lab, we build our experiments from established protocols. To make it easier for colleagues to build courses, I am sharing the teaching materials I developed for a new class at UC Davis. 
 
-**Teaching in the Classroom**
+# PLP100 Biology of Plant Pathogens Curriculum (undergraduate course) 
 
-I approach teaching like I approach research: with alternating phases of planning and optimization. I develop a climate of mutual respect by communicating high expectations and by practicing student-centered instruction. My two years as a Microbiology Teaching Fellow at UW-Madison helped me develop this teaching philosophy. 
+This course uses a modular structure to provide students with deep understanding of 8 diverse plant pathogens. Each week, the instructor gives a lecture that covers the evolutionary neighborhood, ecology, life cycle, infection process, and specific molecular biology mechanisms of the pathogen/pathogen group. Students they read papers through the collaborative [Perusall website](https://www.Perusall.com) for homework. Then students work in small groups to describe the motivation, approach, and how the figures/table convey results of a subset of figures. 
 
-As a Teaching Fellow, I co-designed curriculum and was the sole instructor for two sections of a keystone undergrad course, Micro 305: Critical Analyses in Microbiology. This highly structured journal-club style class met weekly to train microbiology majors in critical thinking and public speaking. Studies overwhelmingly show the effectiveness of active, student-engaged learning (as opposed to passive absorption and memorization of lecture/reading content) (1). Pedagogy research also shows that less is more—courses and major curriculum cannot and should not merely teach an encyclopedic knowledge of biology anymore. In an era where technology is quickly changing, students are better served by classes with carefully selected content through which they are trained to become independent lifelong learners able to locate, critically assess, synthesize, and apply information. 
+# Documents
 
-In Micro 305, each week followed the same modular structure to discuss and learn from a current paper. After I framed the research topic in the broader microbiological and/or social context with a mini-lecture, students divided into peer-learning groups to identify the paper’s hypotheses and discuss the supporting or conflicting data. In synthesis, the class regrouped and shared their analyses. I implemented several strategies to increase student engagement and learning in my second year teaching Micro 305. Each strategy emerged when I observed a specific problem and devised and evaluated a solution. Some examples: Problem 1: Student attention was low during the mini-lecture. Solution: I hypothesized that students did not value the high-level information after they had already struggled to read the paper on their own. I reorganized the course structure to present the mini-lecture as a preview for the next paper they would read. Result: I observed fewer distracted student behaviors during the mini-lecture. Problem 2: Certain students often monopolized group discussions. Solution: I hypothesized that groups became stuck in a “follow the leader” rut when students self-sorted into the same groups. Result: when I randomized groups, student participation was more balanced during the peer discussions. Applying these feedback-driven teaching techniques improved student engagement and learning and convinced me in a practical way that a reflective, experimental mindset improves teaching like it improves bench research.
+* [Course Administration document (Syllabus)](assets/teaching/plp100/admin.docx)
+* [Perusall Scoring Settings](assets/teaching/plp100/PLP100_Perusall_scoring_settings.docx)
+* [Guidelines for Paper Discussions](assets/teaching/plp100/PLP100_PaperDiscussions_Guidelines.docx)
+* [Guidelines for Partner Presentations](assets/teaching/plp100/PLP100_Presentation_Guidelines.docx)
 
-Evidence of effective curriculum development: I enjoyed developing new curriculum for Micro 305. My module, “Cloudy with a chance of microbes” has been retained as the first module for six consecutive semesters. Centering around simple and elegant experiments to quantify microbial and abiotic activity in harvested clouds, this module was effective because it presented a clear scientific story about environmental microbiology in an exciting and interesting way. Being a Teaching Fellow cemented my confidence that I both wanted to teach and could teach effectively. 	
+# Lectures
 
----
- 
-**Teaching through Mentoring**
+Lectures are designed such that I teach the material at the rate that students can learn it. Instead of using a chalkboard/white board, I design powerpoint slide decks that are partial outlines. Students are advised to bring a digital or printed copy of the notes. In class, I use a stylus + touchscreen laptop to annotate the slides while I teach the concepts. 
 
-Mentoring undergraduate, graduate, and post-doctoral scientists at the bench is an integral element of a strong research program and the most rewarding aspects of an academic career. I have been fortunate to have excellent mentors who fostered my passion for biological inquiry and taught me the importance of intellectual teamwork. I plan to similarly train students to think independently by experimentally testing hypotheses in collaborative research groups to achieve our goals.
+Example of a slide:
 
-Listening is a key first step in good mentoring because mentoring is not a one-size-fits all exercise. My own mentees taught me that an effective strategy must be tailored to the mentee’s strengths, needs, and career stage. I will train my students and postdocs to be their “own best mentor,” as we collaborate to find the best ways to support their growth as scientists and professionals. My ideal research group should be small enough for weekly one-on-one meetings with each member, but large enough to maintain a vibrant intellectual and collaborative environment where lab members peer-mentor and support each other. As my students gain confidence and intellectual independence, I plan to take a back seat and allow them to drive their projects in the direction of their interests. In addition to developing technical skills, I will encourage them to develop their own leadership and mentoring skills through workshops. 
 
-I have directly advised and collaborated with four undergraduate researchers. Undergraduate researchers initially demand a lot of hands-on time as they master specific technical research skills. As their skills develop, I transition them to greater independence in planning, conducting, and presenting their research. Additionally, I formally supervised four rotation students and trained two visiting graduate students. I peer-mentored junior graduate students in writing, presentation, experimental design, and research planning. 
+![Slides](/assets/teaching/plp100/Slide_Annotation.png){: .align-left width="600px"}
 
-I am always looking for opportunities to incorporate ideas and pedagogical techniques into my teaching and mentoring—for example, I took a leadership workshop on managing scientists. I believe my mentoring and teaching experience will transfer seamlessly to teaching diverse students in the classroom and advising students in their research.
+This repository only includes the Student Handouts. I am willing to share the Instructor Note versions by email. 
 
+* [Ralstonia](assets/teaching/plp100/Lecture_Ralstonia.pptx)
+* [Xylella](assets/teaching/plp100/Lecture_Xylella.pptx)
+* [Xanthomonas](assets/teaching/plp100/Lecture_Xanthomonas.pptx)
+* [Aspergillus](assets/teaching/plp100/Lecture_Aspergillus.pptx). This was a weaker lecture than the others. I wanted to improve it before teaching it, but it was the first lecture in "hybrid" mode after 3 weeks of online class. 
+* [Fusarium graminearum](assets/teaching/plp100/Lecture_Fusarium_graminearum.pptx)
+* [Phytophthora](assets/teaching/plp100/Lecture_Phytophthora.pptx)
+* [Banana Streak virus](assets/teaching/plp100/Lecture_Banana_Streak_virus.pptx)
+* [Cassava Brown streak virus](assets/teaching/plp100/Lecture_Cassava_Brown_Streak_virus.pptx). Note: I think that I included outdated & inaccurate information about the specifics of the vector transmission biology. 
+
+# Paper discussions
+
+To prepare students to adopt a Growth Mindset / Beginner's Creed and introduce them to best practices in reading papers, I assign 3 readings in the first week:
+* [The Beginner's Creed By Peter J. Denning](https://cacm.acm.org/magazines/2017/7/218869-the-beginners-creed/fulltext)
+* [Ten simple rules for reading a scientific paper. Carey et al. 2020](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
+* [Fixed Mindset vs. Growth Mindset Examples By Ashley Cullin](https://biglifejournal.com/blogs/blog/fixed-mindset-vs-growth-mindset-examples)
+
+Then, each pathogen lecture was paired with a scientific paper on the topic. I tried to select papers that seemed accessible (i.e. ones that I thought I could understand by skimming the figures) and that reflected the breadth of the field of plant pathology (basic, applied, epidemiology/management, population genetics/genomics, functional genomics, cell biology, genetics, physical/chemical interfaces of pathology, etc.).
+
+## Papers 
+
+I created a [Crowd-Sourcing Plant Pathology Papers for Teaching database](https://docs.google.com/spreadsheets/d/1ATgqp_Nl_woXHtSSIHc4hKDI0LML4DGpmo0ftcGYZvI/edit?usp=sharing), which includes the 8 papers that were discussed in PLP100 in Winter 2022. If you have suggestions for papers to teach in plant pathology classrooms, [plase add them to the database via this Google Form](https://forms.gle/4fCCby8NzuoeaGQC8)
+
+## Approach
+
+Students read the research papers on the Perusall platform. In class, I divided them into groups of 3-4 and assigned each group a subset of figure panels to understand. They were tasked with identifying the "motivation", the "experimental approach", and "how the figures convey the results". I provided a skeleton "Google Presentation" that each group could annotate. After ~40 minutes, I would bring the class back together and each group would present their figure to the class. 
+
+* [Example of the skeleton Google Presentation to guide paper discussions](https://docs.google.com/presentation/d/1jFkSUTTFeVdwOcSxLZyryBpDHI3hFdKvhXD6CoiA2m0/edit?usp=sharing)
+
+
+
+# Credits
+ Inspiration for class format came from Cameron Tyson's Organic Chemistry course (Georgia Tech) and the Microbiology Teaching Fellows Mic305 curriculum. Additionaly ideas came from Cooper Battle at Willamette University and Shawna Reed at Quinnipiac University. 

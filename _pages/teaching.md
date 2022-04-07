@@ -25,7 +25,7 @@ Example of a slide:
 
 ![Slides](/assets/teaching/plp100/Slide_Annotation.png){: .align-left width="600px"}
 
-This repository only includes the Student Handouts. I am willing to share the Instructor Note versions by email. 
+<br>This repository only includes the Student Handouts. I am willing to share the Instructor Note versions by email. 
 
 * [Ralstonia](assets/teaching/plp100/Lecture_Ralstonia.pptx)
 * [Xylella](assets/teaching/plp100/Lecture_Xylella.pptx)

@@ -12,4 +12,6 @@ main:
     url: /join_us
   - title: "Resources"
     url: /resources     
+  - title: "Teaching"
+    url: /teaching   
 

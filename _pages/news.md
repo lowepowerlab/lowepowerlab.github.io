@@ -5,22 +5,31 @@ permalink: news
 
 Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
+## Winter 2022
+
+* Nathalie mentored a dynamic duo (Liz Jiang and Yali Bai) on a bacterial GWAS analysis. 
+
+* Tiffany taught a newly developed course, Biology of Plant Pathogens. [Read about it here](/teaching). 
+
+Publications:
+* Meta-Analysis of the Ralstonia solanacearum species complex (RSSC) based on comparative evolutionary genomics and reverse ecology [https://doi.org/10.1099/mgen.0.000791](https://doi.org/10.1099/mgen.0.000791). A Tweet-storm describing the significance can be found [here](https://twitter.com/TLowePower/status/1468315296607846406).
+
 ## 2021 in Review
 
 We had two papers accepted to society journals: Phytofrontiers (the new American Phytopathological Society journal) and mSystems (American Society for Microbiology)
 
-* Revisiting the source of wilt symptoms: X-ray microcomputed tomography provides direct evidence that Ralstonia biomass clogs xylem vessels [https://doi.org/10.1094/PHYTOFR-06-21-0041-R](https://doi.org/10.1094/PHYTOFR-06-21-0041-R)
+* Revisiting the source of wilt symptoms: X-ray microcomputed tomography provides direct evidence that Ralstonia biomass clogs xylem vessels [https://doi.org/10.1094/PHYTOFR-06-21-0041-R](https://doi.org/10.1094/PHYTOFR-06-21-0041-R) A Tweet-storm describing the significance can be found [here](https://twitter.com/TLowePower/status/1374373028964958218).
 
-* Genome-Wide Identification of Tomato Xylem Sap Fitness Factors for Three Plant-Pathogenic Ralstonia Species [https://doi.org/10.1128/mSystems.01229-21](https://doi.org/10.1128/mSystems.01229-21)
+* Genome-Wide Identification of Tomato Xylem Sap Fitness Factors for Three Plant-Pathogenic Ralstonia Species [https://doi.org/10.1128/mSystems.01229-21](https://doi.org/10.1128/mSystems.01229-21). A Tweet-storm describing the significance can be found [here](https://twitter.com/TLowePower/status/1455625444317753348).
 
 We have another pre-print under peer-review:
-* Meta Analysis of the Ralstonia solanacearum species complex (RSSC) based on comparative evolutionary genomics and reverse ecology [https://doi.org/10.1101/2021.12.05.471342](https://doi.org/10.1101/2021.12.05.471342)
+* Meta Analysis of the Ralstonia solanacearum species complex (RSSC) based on comparative evolutionary genomics and reverse ecology [https://doi.org/10.1101/2021.12.05.471342](https://doi.org/10.1101/2021.12.05.471342). A Tweet-storm describing the significance can be found [here](https://twitter.com/TLowePower/status/1468315296607846406).
 
 We had several grants funded:
 
 * USDA NIFA grant at the Pests and Beneficial Species program (PI: Lowe-Power)
 * JGI CSP Functional Genomics Grant (PI: Lowe-Power, Co-PI: Georgoulis)
-* Helmann Fellows grant (PI: Lowe-Power)
+* Hellman Fellows grant (PI: Lowe-Power)
 * UC Davis Academic Senate grant (equal Co-PIs: Lowe-Power and Hari Manikantan)
 * Jastro Shields grant (PI: Georgoulis)
 

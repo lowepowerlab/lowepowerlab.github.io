@@ -102,21 +102,21 @@ UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 **Email:** cpenriquez@ucdavis.edu <br>
 UC Davis Major: **Microbiology** <br>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Trung-Hieu Nguyen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Trung-Hieu Nguyen** <br>
 **Email:** detnguyen@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology** <br>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Alexandra Olyushinetsn](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Alexandra Olyushinets** <br>
 **Email:**  asolyushinets@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology** <br>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 
 ![Cloe Tom](/assets/people/portrait_tom.jpg){: .align-left width="200px"}

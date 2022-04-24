@@ -23,6 +23,14 @@ permalink: /alumni/
 
 ## #wUndergrads and Visiting Researchers
 
+![Liz Jiang](/assets/people/portrait_jiang.jpg){: .align-left width="200px"}
+**Elizabeth (Liz) Jiang** <br>
+**Email:**  lizjiang@ucdavis.edu <br>
+UC Davis Major: **Microbiology** with a **Statistics** minor <br>
+**For fun:** digital art, baking, gaming, skiing <br>
+
+<br><br><br><br>
+
 ![Maria Charco Munoz](/assets/people/portrait_charco_munoz.jpg){: .align-left width="200px"}
 **Maria Charco Munoz** <br> 
 Fall 2020 - Summer 2021 <br>

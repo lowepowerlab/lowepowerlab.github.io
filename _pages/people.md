@@ -97,13 +97,27 @@ UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 
 <br><br><br><br>
 
-![Liz Jiang](/assets/people/portrait_jiang.jpg){: .align-left width="200px"}
-**Elizabeth (Liz) Jiang** <br>
-**Email:**  lizjiang@ucdavis.edu <br>
-UC Davis Major: **Microbiology** with a **Statistics** minor <br>
-**For fun:** digital art, baking, gaming, skiing <br>
+![Claudia Enriquez](/assets/people/portrait_enriquez.jpg){: .align-left width="200px"}
+**Claudia Enriquez** <br>
+**Email:** cpenriquez@ucdavis.edu <br>
+UC Davis Major: **Microbiology** <br>
 
 <br><br><br><br>
+
+![Trung-Hieu Nguyen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Trung-Hieu Nguyen** <br>
+**Email:** detnguyen@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology** <br>
+
+<br><br><br><br>
+
+![Alexandra Olyushinetsn](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Alexandra Olyushinets** <br>
+**Email:**  asolyushinets@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology** <br>
+
+<br><br><br><br>
+
 
 ![Cloe Tom](/assets/people/portrait_tom.jpg){: .align-left width="200px"}
 **Cloe Tom** <br>

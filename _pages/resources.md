@@ -103,6 +103,7 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 * [Better Poster Blog](http://betterposters.blogspot.com/). Although I don't perfectly agree with this authors' opinions, they have suggestions on how to improve scientific poster design. 
 
 ## Stats and Data Visualization
+
 (see section above)
 ---
  

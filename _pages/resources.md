@@ -109,4 +109,5 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 # Teaching
 
 ## Scientific Teaching
-[Repository of Plant Pathology papers that are well-suited to classroom teaching](https://forms.gle/fn8BDPqk1EhArurM7) 
+* [Repository of Plant Pathology papers that are well-suited to classroom teaching](https://forms.gle/fn8BDPqk1EhArurM7) 
+* UC Davis Center for Educational Effectiveness has a repository of [books on effective teaching](https://www.library.ucdavis.edu/guide/center-for-educational-effectiveness-cee-resources/). UC Davis folks can log in and read them for free. Most are pretty cheap used on Amazon if you want a hard copy. 

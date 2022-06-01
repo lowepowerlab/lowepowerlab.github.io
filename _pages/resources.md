@@ -89,7 +89,7 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 ### Peer-Review
 * [Peer-Reviewing Scientific Manuscripts](/assets/resources/peer_review_allen.pdf) by Caitilyn Allen
 
-## Conferences / Talks / Posters
+## Conferences 
 
 * [Why and how to write abstracts for conferences](/assets/resources/Gadoury_abstract_advice.pdf) by David Gadoury
 * [Advice on how to get the most out of a conference and maintain your sanity](https://www.nature.com/articles/d41586-019-01631-7)
@@ -97,6 +97,8 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 ### Talks
 * [Workshop on Scientific Talks](https://drive.google.com/file/d/13efH6iA6toPtJ91KBt_QCeAyQBcSN7SA/view) by Dan Larremore
 * [Guide to preparing a research talk](https://luispedro.github.io/talk-scientific-communication) by Luis Pedro Coelho
+* [Science commmunication through typography](https://twitter.com/iamscicomm/status/1531766604626857989). Twitter thread by Matt Carter
+* [Communication with color](https://twitter.com/iamscicomm/status/1531652061338664960). Twitter thread by Matt Carter
 
 ### Posters
 * Guides to printing scientific posters on wrinkle-free cloth through Spoonflower.com. [Guide 1](https://www.ascb.org/careers/how-to-print-a-fabric-poster/) and [Guide 2](https://support.spoonflower.com/hc/en-us/articles/204266984-How-to-Create-a-Fabric-Presentation-Poster-from-a-PowerPoint-or-PDF).  Plan for 10 business for printing & shipping.

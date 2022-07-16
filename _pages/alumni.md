@@ -3,6 +3,27 @@ title: Lowe-Power Lab Alumni
 permalink: /alumni/
 ---
 
+## Visiting Researchers
+![Ofir Bahar](/assets/people/portrait_bahar.jpg){: .align-left width="200px"}
+**Ofir Bahar, PhD ** <br>
+**Twitter:** [@ofirbahar](https://twitter.com/ofirbahar)<br>
+Principal Investigator from **Volcani Institute**, Israel (currently on Sabbatical leave)
+<br>**Interests:** Phytobacteriology, insect-vectored bacterial pathogens, plant-microbe interactions, Extracellular vesicles
+**Website:** [Bahar lab](https://ofirb7.wix.com/bahar-lab)
+
+<br><br><br><br>
+
+
+<br>
+![Mari Carter](/assets/people/portrait_carter.jpg){: .align-left width="200px"}
+**Mariama Carter** <br>
+**Twitter:** [@themaricart](https://twitter.com/themaricart)<br>
+**Email:** mdcarter3@wisc.edu <br>
+**B.S.  Microbiology** Iowa State University<br>
+Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
+**For fun:** knitting, pottery, food culture, Zumba & cats (love them, but highly allergic)<br>
+<br>
+
 ## Postdoctoral Scientists
 ![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
 **Brian Ingel** <br> 
@@ -23,6 +44,13 @@ permalink: /alumni/
 
 ## #wUndergrads and Visiting Researchers
 
+![Alexandra Olyushinets](/assets/people/portrait_olyushinets.jpg){: .align-left width="200px"}
+**Alexandra Olyushinets** <br>
+**Email:**  asolyushinets@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology** <br>
+
+<br><br><br><br><br>
+
 ![Liz Jiang](/assets/people/portrait_jiang.jpg){: .align-left width="200px"}
 **Elizabeth (Liz) Jiang** <br>
 **Email:**  lizjiang@ucdavis.edu <br>
@@ -30,6 +58,13 @@ UC Davis Major: **Microbiology** with a **Statistics** minor <br>
 **For fun:** digital art, baking, gaming, skiing <br>
 
 <br><br><br><br>
+
+![Claudia Enriquez](/assets/people/portrait_enriquez.jpg){: .align-left width="200px"}
+**Claudia Enriquez** <br>
+**Email:** cpenriquez@ucdavis.edu <br>
+UC Davis Major: **Microbiology** <br>
+
+<br><br><br><br><br>
 
 ![Maria Charco Munoz](/assets/people/portrait_charco_munoz.jpg){: .align-left width="200px"}
 **Maria Charco Munoz** <br> 

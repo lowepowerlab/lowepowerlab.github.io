@@ -11,9 +11,12 @@ Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
 * The lab welcomes Ariana Enriquez to the lab! Dr. Nathalie Aoun is mentoring Ariana on a project to understand host range in Ralstonia. This summer Yali Bai is working with Tiffany to apply her R prowess to visualize the Global Ralstonia Database, and Cloe Tom is learning how to clone with junior specialist Jason Avalos. 
 
-* PhD student Stratton Georgoulis and Jason Avalos presented their research at the Phyllosphere meeting. 
+* PhD student Stratton Georgoulis and Jason Avalos presented their research at the Phyllosphere meeting, and the [COSMOS students](https://cosmos.ucdavis.edu/) voted Jason's poster as one of two "top posters". Way to go, Jason!
 
-* Tiffany had to write a "Covid Impact Statement" for her third year review. Here is a twitter thread that [visualizes one of the few quantifiable impacts](https://twitter.com/TLowePower/status/1547736897526456322)
+* Tiffany had to write a "Covid Impact Statement" for her third year faculty merit review. Here is a twitter thread that [visualizes one of the few quantifiable impacts](https://twitter.com/TLowePower/status/1547736897526456322). 
+
+* **August 2022**.  Jonathan Beutler's masters thesis paper is accepted in Phytofrontiers. [Whole genome sequencing suggests that “non-pathogenicity on banana (NPB)” is the ancestral state of the Ralstonia solanacearum IIB-4 lineage](https://apsjournals.apsnet.org/doi/10.1094/PHYTOFR-06-22-0068-SC).  Congrats Jonathan!  Read the [Twitter Summary here](https://twitter.com/TLowePower/status/1516839365594419201)
+
 
 ## Spring 2022
 

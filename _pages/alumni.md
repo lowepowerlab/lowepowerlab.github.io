@@ -44,6 +44,21 @@ Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 
 ## #wUndergrads and Visiting Researchers
 
+![Trung-Hieu Nguyen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Trung-Hieu Nguyen** <br>
+**Email:** detnguyen@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology** <br>
+
+<br><br><br><br><br>
+
+![Cloe Tom](/assets/people/portrait_tom.jpg){: .align-left width="200px"}
+**Cloe Tom** <br>
+**Email:**  cetom@ucdavis.edu <br>
+UC Davis Major:  **Plant Biology** 🌱  <br>
+**For fun:** sewing, cooking, baking, gardening, wishing I had a cat <br>
+
+<br><br><br><br><br><br><br>
+
 ![Alexandra Olyushinets](/assets/people/portrait_olyushinets.jpg){: .align-left width="200px"}
 **Alexandra Olyushinets** <br>
 **Email:**  asolyushinets@ucdavis.edu <br>

@@ -63,7 +63,6 @@ For fun: video games, bouldering, gardening, and more!
 ![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
 **Jason Avalos** <br> 
 **B.S.  Global Disease Biology** 
-UC Davis Major: **Global Disease Biology**  <br>
 Jason is working under Becca Schomer (technically in the Parales lab on a collaborative project)
 <br><br><br><br><br>
 
@@ -76,20 +75,100 @@ UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 
 <br><br><br><br>
 
-![Trung-Hieu Nguyen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Trung-Hieu Nguyen** <br>
-**Email:** detnguyen@ucdavis.edu <br>
-UC Davis Major: **Global Disease Biology** <br>
+![Nicolas Bonagura](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Nicolas Bonagura** <br>
+**Email:**  <br>
+UC Davis Major: **Biochemistry and Molecular Biology**<br>
+**For fun:** <br>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
-![Cloe Tom](/assets/people/portrait_tom.jpg){: .align-left width="200px"}
-**Cloe Tom** <br>
-**Email:**  cetom@ucdavis.edu <br>
-UC Davis Major:  **Plant Biology** 🌱  <br>
-**For fun:** sewing, cooking, baking, gardening, wishing I had a cat <br>
 
-<br><br><br><br><br><br><br>
+![Angela Cadatal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Angela Cadatal** <br>
+**Email:**  <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
+**Tabitha Cowell** <br>
+**Email:** tccowell@ucdavis.edu <br>
+UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
+**For fun:** photography, reading, crafts <br>
+
+<br><br><br><br>
+
+![Ariana Enriquez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Ariana Enriquez** <br>
+**Email:** <br>
+UC Davis Major: **Medical and Molecular Microbiology**<br>
+**For fun:** <br>
+
+
+<br><br><br><br>
+
+![Kimmy Grulla](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Kimmy Grulla** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+
+![Margery Ho](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Margery Ho** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+![Kasey Miqueo](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Kasey Miqueo** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+Rama Parasar
+
+![Rama Parasar](/assets/people/portrait_repetto.jpg){: .align-left width="200px"}
+**Rama Parasar** <br>
+**Email:** <br>
+UC Davis Major: **Biological Sciences**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+
+![Lisa Repetto](/assets/people/portrait_repetto.jpg){: .align-left width="200px"}
+**Lisa Repetto** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+![Su Tun](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Su Tun** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+![Kaitlin White](/assets/people/portrait_white.jpg){: .align-left width="200px"}
+**Kaitlin White** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
 
 ## Alumni
 

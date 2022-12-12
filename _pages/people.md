@@ -83,11 +83,26 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 
 <br><br><br><br>
 
+![Hashem Bkayrat](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Hashem Bkayrat** <br>
+**Email:**  <br>
+UC Davis Major: **Biomedical Engineering**<br>
+**For fun:** <br>
+
+<br><br><br><br>
 
 ![Angela Cadatal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Angela Cadatal** <br>
 **Email:**  <br>
 UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+![Rachel Chen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Rachel Chen** <br>
+**Email:**  <br>
+UC Davis Major: **Medical and Molecular Microbiology**<br>
 **For fun:** <br>
 
 <br><br><br><br>
@@ -117,6 +132,13 @@ UC Davis Major: **Global Disease Biology**<br>
 
 <br><br><br><br>
 
+![Aracely Hernández Rivas](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Aracely Hernández Rivas ** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
 
 ![Margery Ho](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Margery Ho** <br>
@@ -134,9 +156,15 @@ UC Davis Major: **Global Disease Biology**<br>
 
 <br><br><br><br>
 
-Rama Parasar
+![Noor Shahbaz](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Noor Shahbaz** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
 
-![Rama Parasar](/assets/people/portrait_repetto.jpg){: .align-left width="200px"}
+<br><br><br><br>
+
+![Rama Parasar](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Rama Parasar** <br>
 **Email:** <br>
 UC Davis Major: **Biological Sciences**<br>

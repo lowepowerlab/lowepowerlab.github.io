@@ -115,7 +115,7 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 
 <br><br><br><br>
 
-![Ariana Enriquez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Ariana Enriquez](/assets/people/portrait_enriquez-ariana.jpg){: .align-left width="200px"}
 **Ariana Enriquez** <br>
 **Email:** <br>
 UC Davis Major: **Medical and Molecular Microbiology**<br>
@@ -148,7 +148,7 @@ UC Davis Major: **Global Disease Biology**<br>
 
 <br><br><br><br>
 
-![Kasey Miqueo](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Kasey Miqueo](/assets/people/portrait_miqueo.jpg){: .align-left width="200px"}
 **Kasey Miqueo** <br>
 **Email:** <br>
 UC Davis Major: **Global Disease Biology**<br>

@@ -113,7 +113,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 **For fun:** photography, reading, crafts <br>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Ariana Enriquez](/assets/people/portrait_enriquez-ariana.jpg){: .align-left width="200px"}
 **Ariana Enriquez** <br>
@@ -133,7 +133,7 @@ UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br>
 
 ![Aracely Hernández Rivas](/assets/people/portrait_hernandez_rivas.jpg){: .align-left width="200px"}
-**Aracely Hernández Rivas ** <br>
+**Aracely Hernández Rivas** <br>
 **Email:** ahernandezrivas@ucdavis.edu <br>
 **A.A. Language Studies** American River Community College <br>
 **A.S. General Science** American River Community College <br>

@@ -83,11 +83,11 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 
 <br><br><br><br>
 
-![Hashem Bkayrat](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Hashem Bkayrat](/assets/people/portrait_bhayrat.jpg){: .align-left width="200px"}
 **Hashem Bkayrat** <br>
-**Email:**  <br>
+**Email:**  <br> hrbkayrat@ucdavis.edu
 UC Davis Major: **Biomedical Engineering**<br>
-**For fun:** <br>
+**For fun:** Travel, Soccer, Reading, and Running <br>
 
 <br><br><br><br>
 
@@ -99,11 +99,11 @@ UC Davis Major: **Global Disease Biology**<br>
 
 <br><br><br><br>
 
-![Rachel Chen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Rachel Chen](/assets/people/portrait_chen.jpg){: .align-left width="200px"}
 **Rachel Chen** <br>
-**Email:**  <br>
+**Email:**  rwchen@ucdavis.edu<br>
 UC Davis Major: **Medical and Molecular Microbiology**<br>
-**For fun:** <br>
+**For fun:** <br> reading, birding, doing small magic tricks, and learning more about the sport of karuta 
 
 <br><br><br><br>
 

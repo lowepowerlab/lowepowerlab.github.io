@@ -90,7 +90,7 @@ UC Davis Major: **Biomedical Engineering**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 [LinkedIn Page](https://www.linkedin.com/in/angelacadatal/)
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Rachel Chen](/assets/people/portrait_chen.jpg){: .align-left width="200px"}
 **Rachel Chen** <br>

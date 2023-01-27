@@ -5,6 +5,22 @@ permalink: news
 
 Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
+## January 2023
+
+* We welcome 15 new and continuing undergraduate researchers to the Ralstonia Genomics CURE (Cohort-based Undergraduate Research Experience). Guided by Tiffany and PhD student Matt Cope-Arguello, the team is sequencing, assembling, and analyzing genomes of 24 Ralstonia isolates from Bangladesh. We are grateful to collaborators [Sally Miller](https://plantpath.osu.edu/our-people/sally-miller) and [Nagendra Subedi](https://scholar.google.com/citations?user=S9iHqAUAAAAJ&hl=en) for allowing us to contribute to this excellent pathogen survey and analysis. 
+
+* Tiffany and collaborator Caitilyn Allen finalized and submitted a manuscript that was nearly 20 years in the making (preliminary experiments by [Enid González-Orta](https://www.csus.edu/faculty/g/etgonzal/) and major work by Beth Dalsing and Alicia Truchon during their PhD theses). The paper included #overlyhonestmethods like "the genome analysis was performed on all of the Ralstonia genomes available in 2012". [Plant pathogenic Ralstonia phylotypes evolved divergent respiratory strategies and behaviors to thrive in xylem](https://www.biorxiv.org/content/10.1101/2022.11.09.515861v2.abstract) is currently available on BioRxiv and accepted to mBio. 
+
+* Junior Specialist Jason Avalos is having a ball interviewing for a PhD in plant bacteriology related departments. We can't wait to see where he lands!
+
+## Fall 2022
+
+* Undergraduate Ariana Enriquez was awarded a Provost's Undergraduate Research Fellowship for her project mentored by Dr. Nathalie Aoun. 
+
+* PhD students Matt Cope-Arguello and Stratton Georgoulis were both awarded Jastro Research Fellowships!
+
+* We say goodbye to Dr. Becca Schomer, and we wish her luck in starting as an Assistant Professor at the University of Arizona. (She will be hiring!)
+
 ## Summer 2022
 
 * PhD student Matt Cope-Arguello is becoming a microbial diversity wizard at the 6 week [Microbial Diversity course at MBL](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/microbial-diversity). 

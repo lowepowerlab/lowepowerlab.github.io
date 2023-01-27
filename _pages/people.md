@@ -28,8 +28,9 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 **M.S. Agricultural Engineering**, INP-ENSAT (Toulouse, France)
 **PhD Plants-Microorganisms Interactions**, LIPME-INRAE (Toulouse, France)
 **Twitter:** [@Nat_Aoun](https://twitter.com/nat_aoun)
-For fun: hiking, biking and exploring new places. 
-<br><br><br><br><br>
+For fun: hiking, biking and exploring new places. <br>
+[LinkedIn Page](https://www.linkedin.com/in/nathalie-aoun-ae-phd-a4b272179/)<br>
+<br><br><br><br>
 
 
 ## Graduate Student Researchers
@@ -40,7 +41,8 @@ For fun: hiking, biking and exploring new places.
 **B.S. Biology** California State University-San Marcos <br>
 **A.A. Liberal Arts with Emphasis in Mathematics and Sciences** MiraCosta College <br>
 **Plant Pathology Graduate Group** UC Davis<br>
-For fun: video games, bouldering, gardening, and more!
+For fun: video games, bouldering, gardening, and more!<br>
+[LinkedIn Page](https://www.linkedin.com/in/matthew-cope-arguello-7233b322a/)
 <br><br><br>
 
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
@@ -64,7 +66,7 @@ Jason is working under Becca Schomer (technically in the Parales lab on a collab
 **Email:** abcbai@ucdavis.edu <br>
 UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 **For fun:** cooking, reading, playing Lego, and spending time with children<br>
-
+[LinkedIn Page](https://www.linkedin.com/in/yali-bai-5867aa204/)<br>
 <br><br><br><br>
 
 ![Nicolas Bonagura](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -72,7 +74,7 @@ UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 **Email:**  <br>
 UC Davis Major: **Biochemistry and Molecular Biology**<br>
 **For fun:** <br>
-
+[LinkedIn Page](https://www.linkedin.com/in/nicolas-bonagura-68332122b/)<br>
 <br><br><br><br>
 
 ![Hashem Bkayrat](/assets/people/portrait_bkayrat.jpg){: .align-left width="200px"}
@@ -88,7 +90,7 @@ UC Davis Major: **Biomedical Engineering**<br>
 **Email:**  <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
-
+[LinkedIn Page](https://www.linkedin.com/in/angelacadatal/)
 <br><br><br><br>
 
 ![Rachel Chen](/assets/people/portrait_chen.jpg){: .align-left width="200px"}
@@ -121,7 +123,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 **Email:** <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
-
+[LinkedIn Page](https://www.linkedin.com/in/kimgrulla/)
 <br><br><br><br>
 
 ![Aracely Hernández Rivas](/assets/people/portrait_hernandez_rivas.jpg){: .align-left width="200px"}
@@ -140,7 +142,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **Email:** <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
-
+[LinkedIn Page](https://www.linkedin.com/in/kasey-m-7315b0208/)
 <br><br><br><br>
 
 ![Noor Shahbaz](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -148,7 +150,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **Email:** <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
-
+[LinkedIn Page](https://www.linkedin.com/in/mahnoor-shahbaz-72a037250/)
 <br><br><br><br>
 
 ![Rama Parasar](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -156,7 +158,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **Email:** <br>
 UC Davis Major: **Biological Sciences**<br>
 **For fun:** <br>
-
+[LinkedIn Page](https://www.linkedin.com/in/rama-parasar-218a44214/)
 <br><br><br><br>
 
 

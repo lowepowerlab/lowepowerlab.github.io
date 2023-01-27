@@ -56,7 +56,7 @@ For fun: video games, bouldering, gardening, and more!<br>
 ![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
 **Jason Avalos** <br> 
 **B.S.  Global Disease Biology** 
-Jason is working under Becca Schomer (technically in the Parales lab on a collaborative project)
+Jason is working jointly in the Parales lab and Lowe-Power lab at UC Davis. 
 <br><br><br><br><br><br>
 
 ## #wUndergrads 

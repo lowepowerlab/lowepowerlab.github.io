@@ -44,6 +44,14 @@ Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 
 ## #wUndergrads and Visiting Researchers
 
+![Margery Ho](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Margery Ho** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
 ![Trung-Hieu Nguyen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Trung-Hieu Nguyen** <br>
 **Email:** detnguyen@ucdavis.edu <br>

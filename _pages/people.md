@@ -139,15 +139,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **A.S. General Science** American River Community College <br>
 **A.S. Physical Science/Mathematics** American River Community College <br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:**  I love to spend time with my boyfriend and family. I love going out to eat and just listening to music to relax.  <br>
-
-<br><br><br><br>
-
-![Margery Ho](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Margery Ho** <br>
-**Email:** <br>
-UC Davis Major: **Global Disease Biology**<br>
-**For fun:** <br>
+**For fun:**  I love to spend time with my boyfriend and family. I love going out to eat and just listening to music to relax.  
 
 <br><br><br><br>
 

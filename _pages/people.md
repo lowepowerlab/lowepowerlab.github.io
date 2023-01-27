@@ -89,7 +89,7 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 UC Davis Major: **Biomedical Engineering**<br>
 **For fun:** Travel, Soccer, Reading, and Running <br>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Angela Cadatal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Angela Cadatal** <br>

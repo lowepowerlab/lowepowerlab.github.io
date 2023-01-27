@@ -83,7 +83,7 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 
 <br><br><br><br>
 
-![Hashem Bkayrat](/assets/people/portrait_bhayrat.jpg){: .align-left width="200px"}
+![Hashem Bkayrat](/assets/people/portrait_bkayrat.jpg){: .align-left width="200px"}
 **Hashem Bkayrat** <br>
 **Email:**  <br> hrbkayrat@ucdavis.edu
 UC Davis Major: **Biomedical Engineering**<br>

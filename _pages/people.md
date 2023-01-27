@@ -31,15 +31,7 @@ For fun: biking, fermenting, sciTwitter, podcasts, and cats 😺
 For fun: hiking, biking and exploring new places. 
 <br><br><br><br><br>
 
-![Becca Schomer](/assets/people/portrait_schomer.jpg){: .align-left width="200px"}
-**Becca Schomer** <br> 
-Co-Mentored by Dr. Becky Parales <br>
-**Email:** raschomer@ucdavis.edu  <br>
-**Twitter**: [@becA_recA](https://twitter.com/becA_recA) <br>
-**PhD Microbiology** UW-Madison <br>
-**B.S. Bacteriology** UW-Madison <br>
-[**Google Scholar**](https://scholar.google.com/citations?user=dkiS81YAAAAJ&hl=en) <br><br>
-<br><br><br>
+
 ## Graduate Student Researchers
 
 ![Matt Cope-Arguello](/assets/people/portrait_cope-arguello.jpg){: .align-left width="200px"}

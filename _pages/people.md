@@ -78,11 +78,11 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 
 ![Hashem Bkayrat](/assets/people/portrait_bkayrat.jpg){: .align-left width="200px"}
 **Hashem Bkayrat** <br>
-**Email:**  <br> hrbkayrat@ucdavis.edu
+**Email:**  <br> hrbkayrat@ucdavis.edu<br>
 UC Davis Major: **Biomedical Engineering**<br>
 **For fun:** Travel, Soccer, Reading, and Running <br>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ![Angela Cadatal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Angela Cadatal** <br>

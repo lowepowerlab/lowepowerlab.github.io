@@ -60,6 +60,14 @@ Jason is working jointly in the Parales lab and Lowe-Power lab at UC Davis.
 <br><br><br><br><br><br>
 
 ## #wUndergrads 
+![Hussien Aysheh](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Hussien Aysheh** <br>
+**Email:** hiaysheh@ucdavis.edu<br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
 ![Yali Bai](/assets/people/portrait_bai.jpg){: .align-left width="200px"}
 **Yali Bai** <br>
 **Email:** abcbai@ucdavis.edu <br>
@@ -136,12 +144,36 @@ UC Davis Major: **Global Disease Biology**<br>
 
 <br><br><br><br>
 
+![Rolando Lopez](/assets/people/portrait_lopez.jpg){: .align-left width="200px"}
+**Rolando Lopez** <br>
+**Email:** rsllopez@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:**  <br>
+
+<br><br><br><br>
+
+![April McClendon](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**April McClendon** <br>
+**Email:** avmcclendon@ucdavis.edu<br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
 ![Kasey Miqueo](/assets/people/portrait_miqueo.jpg){: .align-left width="200px"}
 **Kasey Miqueo** <br>
 **Email:** <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 [LinkedIn Page](https://www.linkedin.com/in/kasey-m-7315b0208/)
+<br><br><br><br>
+
+![Ajay Sandhar](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Ajay Sandhar** <br>
+**Email:** assandhar@ucdavis.edu<br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
 <br><br><br><br>
 
 ![Noor Shahbaz](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}

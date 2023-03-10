@@ -131,7 +131,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 [LinkedIn Page](https://www.linkedin.com/in/kimgrulla/)
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Aracely Hernández Rivas](/assets/people/portrait_hernandez_rivas.jpg){: .align-left width="200px"}
 **Aracely Hernández Rivas** <br>
@@ -174,7 +174,7 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Noor Shahbaz](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Noor Shahbaz** <br>
@@ -182,9 +182,9 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 [LinkedIn Page](https://www.linkedin.com/in/mahnoor-shahbaz-72a037250/)
-<br><br><br><br>
+<br><br><br><br><br>
 
-![Rama Parasar](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Rama Parasar](/assets/people/portrait_parasar.jpg){: .align-left width="200px"}
 **Rama Parasar** <br>
 **Email:** <br>
 UC Davis Major: **Biological Sciences**<br>

@@ -57,6 +57,50 @@ Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 
 ## #wUndergrads and Visiting Researchers
 
+![Rama Parasar](/assets/people/portrait_parasar.jpg){: .align-left width="200px"}
+**Rama Parasar** <br>
+**Email:** <br>
+UC Davis Major: **Biological Sciences**<br>
+**For fun:** <br>
+[LinkedIn Page](https://www.linkedin.com/in/rama-parasar-218a44214/)
+<br><br><br><br>
+
+![Su Tun](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Su Tun** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+![Aracely Hernández Rivas](/assets/people/portrait_hernandez_rivas.jpg){: .align-left width="200px"}
+**Aracely Hernández Rivas** <br>
+**Email:** ahernandezrivas@ucdavis.edu <br>
+**A.A. Language Studies** American River Community College <br>
+**A.S. General Science** American River Community College <br>
+**A.S. Physical Science/Mathematics** American River Community College <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:**  I love to spend time with my boyfriend and family. I love going out to eat and just listening to music to relax.  
+
+<br><br><br><br>
+
+![Hashem Bkayrat](/assets/people/portrait_bkayrat.jpg){: .align-left width="200px"}
+**Hashem Bkayrat** <br>
+**Email:**  <br> hrbkayrat@ucdavis.edu<br>
+UC Davis Major: **Biomedical Engineering**<br>
+**For fun:** Travel, Soccer, Reading, and Running <br>
+
+<br><br><br><br><br>
+
+![Angela Cadatal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Angela Cadatal** <br>
+**Email:**  <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+[LinkedIn Page](https://www.linkedin.com/in/angelacadatal/)
+<br><br><br><br><br>
+
+
 ![Margery Ho](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Margery Ho** <br>
 **Email:** <br>

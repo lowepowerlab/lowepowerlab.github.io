@@ -1,3 +1,8 @@
+---
+title: Datasets
+permalink: datasets
+---
+
 # FigShare
 ## [On FigShare, we have released cartoons and raw data from papers.](https://figshare.com/authors/Tiffany_Lowe-Power/6561146) 
 Most data is released with a CC-BY license that only requires attribution and does not restrict any reuse of the data. 

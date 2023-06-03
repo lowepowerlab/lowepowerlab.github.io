@@ -51,7 +51,7 @@ For fun: video games, bouldering, gardening, and more!<br>
 **Integrated Genetics and Genomics Graduate Group** UC Davis<br>
 For fun: <br>
 [LinkedIn Page](https://www.linkedin.com/in/matthew-cope-arguello-7233b322a/)
-<br><br><br>
+<br><br><br><br>
 
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
@@ -83,7 +83,7 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 **For fun:** cooking, reading, playing Lego, and spending time with children<br>
 [LinkedIn Page](https://www.linkedin.com/in/yali-bai-5867aa204/)<br>
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Nicolas Bonagura](/assets/people/portrait_bonagura.jpg){: .align-left width="200px"}
 **Nicolas Bonagura** <br>

@@ -93,6 +93,15 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/nicolas-bonagura-68332122b/)<br>
 <br><br><br><br>
 
+
+![Donnie Ca](/assets/people/portrait_ca.jpg){: .align-left width="200px"}
+**Donnie Ca** <br>
+**Email:** <br>
+Major: Biology with emphasis in Cellular Molecular Biology (CSU Northride) <br>
+**For fun:** <br>
+<br>
+<br><br><br><br><br><br>
+
 ![Rachel Chen](/assets/people/portrait_chen.jpg){: .align-left width="200px"}
 **Rachel Chen** <br>
 **Email:**  rwchen@ucdavis.edu<br>
@@ -140,6 +149,15 @@ UC Davis Major: **Global Disease Biology**<br>
 
 <br><br><br><br>
 
+
+![Ashley Merino](/assets/people/portrait_merino.jpg){: .align-left width="200px"}
+**Ashley Merino** <br>
+**Email:** ammerino@ucdavis.edu <br>
+Major: Medical and Molecular Biology (Woodland Community College) <br>
+**For fun:** watching shows, hiking, trying new foods<br>
+<br>
+<br><br><br><br><br><br>
+
 ![Kasey Miqueo](/assets/people/portrait_miqueo.jpg){: .align-left width="200px"}
 **Kasey Miqueo** <br>
 **Email:** <br>
@@ -156,7 +174,7 @@ Visiting undergraduate student from the University of Sydney
 
 <br><br><br><br><br>
 
-![Ajay Sandhar](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Ajay Sandhar](/assets/people/portrait_sandhar.jpg){: .align-left width="200px"}
 **Ajay Sandhar** <br>
 **Email:** assandhar@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>

@@ -5,6 +5,22 @@ permalink: news
 
 Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
+## Summer 2023
+
+* The lab welcomes two new summer students: Ashley Merino from Woodland Community College through the MESA program and Donnie Ca from California State University, Northridge through the BIOGAP program.
+
+* Stratton Georgoulis and Dr. Nathalie Aoun are sharing their science at the ASM Microbe 2023 conference. 
+
+## Spring 2023
+
+* We welcomed Vienna Elmgreen (Integrated Genetics and Genomics Graduate Group) into the lab! 
+
+* Matt Cope-Arguello wrote and defended an excellent qualifying exam proposal. He is now a PhD candidate in Plant Pathology!
+
+* Dr. Nathalie Aoun represented UC Davis and the Lab at the National Postdoctoral Scholars meeting. As president of the UC Davis Postdoctoral Scholars Association, she co-organized the Postdoc Symposium. 
+
+* Tiffany has been networking with colleagues in Montevideo Uruguay (International Bacterial Wilt Symposium), Taiwan (invited seminars at Academica Sinica with Chih-Horng Kuo and the National Taiwan University with Chiu-Ping Cheng), The Phillippines (Zoominar invited by Mark Balandres) and Chicago (NSF RESUME Workshop on One Health Surveillance). ✈️ 
+
 ## Winter 2023
 
 * We welcome 15 new and continuing undergraduate researchers to the Ralstonia Genomics CURE (Cohort-based Undergraduate Research Experience). Guided by Tiffany and PhD student Matt Cope-Arguello, the team is sequencing, assembling, and analyzing genomes of 24 Ralstonia isolates from Bangladesh. We are grateful to collaborators [Sally Miller](https://plantpath.osu.edu/our-people/sally-miller) and [Nagendra Subedi](https://scholar.google.com/citations?user=S9iHqAUAAAAJ&hl=en) for allowing us to contribute to this excellent pathogen survey and analysis. **We are currently Crowdfunding to make the CURE a sustainable project for training the next-generation of scientists in cutting-edge methods**. [Donate if you can](https://crowdfund.ucdavis.edu/ralstonia)!

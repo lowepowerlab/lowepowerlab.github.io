@@ -13,7 +13,7 @@ Assistant Professor <br>
 **Office:** 282 Hutchison Hall <br> 
 **Office Phone:** 530-754-1212 <br>
 [**Google Scholar**](https://scholar.google.com/citations?user=aMxz2moAAAAJ&hl=en) <br>
-[**LinkedIn](https://www.linkedin.com/in/tiffany-lowe-power-89005a83/)
+[**LinkedIn**](https://www.linkedin.com/in/tiffany-lowe-power-89005a83/)
 <br>**B.S. Applied Biology** Georgia Institute of Technology
 <br> **PhD Microbiology Doctoral Training Program**, University of Wisconsin–Madison (in Dept of Plant Pathology)
 <br> **Postdoc Plant and Microbial Biology**, University of California, Berkeley 
@@ -147,6 +147,14 @@ UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 [LinkedIn Page](https://www.linkedin.com/in/kasey-m-7315b0208/)
 <br><br><br><br>
+
+![Henry Pomeroy](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Henry Pomeroy** <br>
+**Email:** <br>
+Visiting undergraduate student from the University of Sydney
+**For fun:** <br>
+
+<br><br><br><br><br>
 
 ![Ajay Sandhar](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Ajay Sandhar** <br>

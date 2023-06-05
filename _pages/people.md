@@ -44,13 +44,13 @@ For fun: video games, bouldering, gardening, and more!<br>
 [LinkedIn Page](https://www.linkedin.com/in/matthew-cope-arguello-7233b322a/)
 <br><br><br>
 
-![Vienna Elmgreen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Vienna Elmgreen](/assets/people/portrait_elmgreen.jpg){: .align-left width="200px"}
 **Vienna Elmgreen** <br> 
-**Email:**  <br>
-**B.S. Genetics** University of Georgia <br>
+**Email:** vnelmgreen@ucdavis.edu <br>
+**B.S. Genetics**, Minor Women's Studies, University of Georgia <br>
 **Integrated Genetics and Genomics Graduate Group** UC Davis<br>
-For fun: <br>
-[LinkedIn Page](https://www.linkedin.com/in/matthew-cope-arguello-7233b322a/)
+For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
+[LinkedIn Page](linkedin.com/in/vienna-elmgreen-1a0204220)
 <br><br><br><br>
 
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
@@ -166,12 +166,11 @@ UC Davis Major: **Global Disease Biology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/kasey-m-7315b0208/)
 <br><br><br><br>
 
-![Henry Pomeroy](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Henry Pomeroy](/assets/people/portrait_pomeroy.jpg){: .align-left width="200px"}
 **Henry Pomeroy** <br>
 **Email:** <br>
 Visiting undergraduate student from the University of Sydney
-**For fun:** <br>
-
+[LinkedIn Page](https://www.linkedin.com/in/henry-pomeroy-25a2b0261/)
 <br><br><br><br><br>
 
 ![Ajay Sandhar](/assets/people/portrait_sandhar.jpg){: .align-left width="200px"}

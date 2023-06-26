@@ -133,6 +133,15 @@ UC Davis Major: **Global Disease Biology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/kimgrulla/)
 <br><br><br><br><br>
 
+![Noah Guillome](/assets/people/portrait_guillome.png){: .align-left width="200px"}
+**Noah Guillome** <br>
+**Email:** <br>
+A.S. in Natural Sciences, Napa Valley College <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** Dungeons and Dragons and dancing<br>
+[LinkedIn Page]()
+<br><br><br><br><br>
+
 ![Rolando Lopez](/assets/people/portrait_lopez.jpg){: .align-left width="200px"}
 **Rolando Lopez** <br>
 **Email:** rsllopez@ucdavis.edu <br>

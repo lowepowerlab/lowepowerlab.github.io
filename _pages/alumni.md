@@ -34,6 +34,12 @@ Co-Mentored by Dr. Becky Parales <br>
 **For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his Papillon <br>
 **Current Position** PhD student at the University of British Columbia<br>
 
+## Junior Specialists
+![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
+**Jason Avalos** <br> 
+**B.S.  Global Disease Biology** 
+Jason is working jointly in the Parales lab and Lowe-Power lab at UC Davis. 
+<br><br><br><br><br><br>
 
 ## Visiting Researchers
 ![Ofir Bahar](/assets/people/portrait_bahar.jpg){: .align-left width="200px"}
@@ -55,7 +61,110 @@ Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 **For fun:** knitting, pottery, food culture, Zumba & cats (love them, but highly allergic)<br>
 <br>
 
-## #wUndergrads and Visiting Researchers
+## #wUndergrads 
+
+![Hussien Aysheh](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Hussien Aysheh** <br>
+**Email:** hiaysheh@ucdavis.edu<br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+![Yali Bai](/assets/people/portrait_bai.jpg){: .align-left width="200px"}
+**Yali Bai** <br>
+**Email:** abcbai@ucdavis.edu <br>
+UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
+**For fun:** cooking, reading, playing Lego, and spending time with children<br>
+[LinkedIn Page](https://www.linkedin.com/in/yali-bai-5867aa204/)<br>
+<br><br><br><br><br><br>
+
+<br><br><br><br>
+
+![Kaitlin White](/assets/people/portrait_white.jpg){: .align-left width="200px"}
+**Kaitlin White** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br>
+
+![Rolando Lopez](/assets/people/portrait_lopez.jpg){: .align-left width="200px"}
+**Rolando Lopez** <br>
+**Email:** rsllopez@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:**  <br>
+
+<br><br><br><br>
+
+![Ashley Merino](/assets/people/portrait_merino.jpg){: .align-left width="200px"}
+**Ashley Merino** <br>
+**Email:** ammerino@ucdavis.edu <br>
+Major: Medical and Molecular Biology (Woodland Community College) <br>
+**For fun:** watching shows, hiking, trying new foods<br>
+<br>
+<br><br><br><br><br><br>
+
+![Kasey Miqueo](/assets/people/portrait_miqueo.jpg){: .align-left width="200px"}
+**Kasey Miqueo** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+[LinkedIn Page](https://www.linkedin.com/in/kasey-m-7315b0208/)
+<br><br><br><br>
+
+![Henry Pomeroy](/assets/people/portrait_pomeroy.jpg){: .align-left width="200px"}
+**Henry Pomeroy** <br>
+**Email:** <br>
+Visiting undergraduate student from the University of Sydney
+[LinkedIn Page](https://www.linkedin.com/in/henry-pomeroy-25a2b0261/)
+<br><br><br><br><br>
+
+![Ajay Sandhar](/assets/people/portrait_sandhar.jpg){: .align-left width="200px"}
+**Ajay Sandhar** <br>
+**Email:** assandhar@ucdavis.edu<br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+
+<br><br><br><br><br>
+
+![Noor Shahbaz](/assets/people/portrait_shahbaz.jpg){: .align-left width="200px"}
+**Noor Shahbaz** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+[LinkedIn Page](https://www.linkedin.com/in/mahnoor-shahbaz-72a037250/)
+<br><br><br><br><br>
+
+![Nicolas Bonagura](/assets/people/portrait_bonagura.jpg){: .align-left width="200px"}
+**Nicolas Bonagura** <br>
+**Email:**  <br>
+UC Davis Major: **Biochemistry and Molecular Biology**<br>
+**For fun:** <br>
+[LinkedIn Page](https://www.linkedin.com/in/nicolas-bonagura-68332122b/)<br>
+<br><br><br><br>
+
+![Kimmy Grulla](/assets/people/portrait_grulla.png){: .align-left width="200px"}
+**Kimmy Grulla** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+[LinkedIn Page](https://www.linkedin.com/in/kimgrulla/)
+<br><br><br><br><br>
+
+![Donnie Ca](/assets/people/portrait_ca.jpg){: .align-left width="200px"}
+**Donnie Ca** <br>
+**Email:** <br>
+Major: Biology with emphasis in Cellular Molecular Biology (CSU Northride) <br>
+**For fun:** <br>
+<br>
+<br><br><br><br><br><br>
+
+![Rachel Chen](/assets/people/portrait_chen.jpg){: .align-left width="200px"}
+**Rachel Chen** <br>
+**Email:**  rwchen@ucdavis.edu<br>
+UC Davis Major: **Medical and Molecular Microbiology**<br>
+**For fun:** <br> reading, birding, doing small magic tricks, and learning more about the sport of karuta 
 
 ![Rama Parasar](/assets/people/portrait_parasar.jpg){: .align-left width="200px"}
 **Rama Parasar** <br>

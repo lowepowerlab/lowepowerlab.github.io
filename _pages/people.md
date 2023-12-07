@@ -59,7 +59,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **B.S. Biochemistry** University of Texas-Austin <br>
 **Plant Pathology Graduate Group** UC Davis
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Lisa Repetto](/assets/people/portrait_repetto.png){: .align-left width="200px"}
 **Lisa Repetto** <br>
@@ -67,14 +67,13 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **B.S. Global Disease Biology** UC Davis<br>
 **Plant Pathology Graduate Group** UC Davis
 
-<br><br><br><br>
 
 ## Collaborating Grad Students and Postdocs
 ![Alba Moreno Perez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Dr. Alba Moreno Perez** <br>
 **Email:** amorenop@ucdavis.edu
 **Postdoctoral Scholar in the [Coaker lab](https://www.coakerlab.org/current-members.html)**
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Veronica Casey](/assets/people/portrait_casey.jpg){: .align-left width="200px"}
 **Veronica Casey** <br>
@@ -85,7 +84,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **For fun:** boxing, video games, cats!
 
 
-<br><br><br><br>
+
 
 
 

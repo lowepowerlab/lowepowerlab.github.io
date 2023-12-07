@@ -71,16 +71,16 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 ## Collaborating Grad Students and Postdocs
 ![Alba Moreno Perez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Dr. Alba Moreno Perez** <br>
-**Email:** amorenop@ucdavis.edu
+**Email:** amorenop@ucdavis.edu<br>
 **Postdoctoral Scholar in the [Coaker lab](https://www.coakerlab.org/current-members.html)**
 <br><br><br><br><br><br>
 
 ![Veronica Casey](/assets/people/portrait_casey.jpg){: .align-left width="200px"}
 **Veronica Casey** <br>
 **Twitter:** @NemaVero <br>
-**Email:** vicasey@ucdavis.edu 
-**B.S. Natural Resources and Environmental Sciences** University of Illinois Urbana-Champaign 
-**Entomology graduate student in the [Siddique Lab](https://nemaplant.org/members/)**
+**Email:** vicasey@ucdavis.edu <br>
+**B.S. Natural Resources and Environmental Sciences** University of Illinois Urbana-Champaign <br>
+**Entomology graduate student in the [Siddique Lab](https://nemaplant.org/members/)**<br>
 **For fun:** boxing, video games, cats!
 
 

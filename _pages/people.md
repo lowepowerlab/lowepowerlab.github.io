@@ -108,7 +108,7 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 **Matt Dougan** <br>
 **Email:** mddougan@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 ![Ariana Enriquez](/assets/people/portrait_enriquez-ariana.jpg){: .align-left width="200px"}
@@ -122,7 +122,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 **Samantha Green** <br>
 **Email:** samgreen@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Noah Guillome](/assets/people/portrait_guillome.png){: .align-left width="200px"}
 **Noah Guillome** <br>
@@ -137,19 +137,19 @@ UC Davis Major: **Global Disease Biology**<br>
 **Larissa Hayes** <br>
 **Email:** lrhayes@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Riley Hudson](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Riley Hudson** <br>
 **Email:** rmhudson@ucdavis.edu<br>
 UC Davis Major: **Biotechnology**<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Laura Lemus](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Laura Lemus** <br>
 **Email:** lmlemus@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 
@@ -157,15 +157,13 @@ UC Davis Major: **Global Disease Biology**<br>
 **April McClendon** <br>
 **Email:** avmcclendon@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:** <br>
-
 <br><br><br><br>
 
 ![Neha Prasad](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Neha Prasad** <br>
 **Email:** nnprasad@ucdavis.edu <br>
 UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Ben Ramirez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Ben Ramirez** <br>

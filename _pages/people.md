@@ -67,7 +67,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **B.S. Global Disease Biology** UC Davis<br>
 **Plant Pathology Graduate Group** UC Davis
 
-
+<br><br><br>
 ## Collaborating Grad Students and Postdocs
 ![Alba Moreno Perez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Dr. Alba Moreno Perez** <br>
@@ -84,7 +84,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **For fun:** boxing, video games, cats!
 
 
-
+<br><br><br>
 
 
 
@@ -157,7 +157,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **April McClendon** <br>
 **Email:** avmcclendon@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Neha Prasad](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Neha Prasad** <br>
@@ -169,7 +169,7 @@ UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
 **Ben Ramirez** <br>
 **Email:** bhramirez@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Vicky Vo](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Vicky Vo** <br>

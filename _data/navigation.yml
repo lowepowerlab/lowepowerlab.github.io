@@ -4,6 +4,8 @@ main:
     url: /people
   - title: "Protocols"
     url: http://lowepowerlab.ucdavis.edu/protocols/  
+  - title: "Open Research"
+    url: /datasets 
   - title: "News"
     url: /news
   - title: "Publications"

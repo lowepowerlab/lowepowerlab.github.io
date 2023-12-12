@@ -5,19 +5,23 @@ permalink: join_us
 
 We are happy to discuss opportunities with people motivated to understand how bacteria interact with their plant hosts. Expectations for members of the lab are described in the [Lowe-Power lab handbook](https://github.com/lowepowerlab/lab_handbook). The lab's [onboarding info](https://github.com/lowepowerlab/lab_handbook/blob/master/onboarding.md) might also be of interest. 
 
-## Global Disease Biology Practicum students
-
-Although positions for undergraduate research are limited, Dr. Lowe-Power is interested in mentoring Global Disease Biology students on a systematic meta-analysis on global distribution and diversity of *Ralstonia* wilt pathogens. If you are a GDB student interested in this opportunity, [read more details here](https://github.com/lowepowerlab/Ralstonia_Global_Diversity/blob/master/README.md), and contact Dr. Lowe-Power.
+Please, please do not send a generic email that only describes yourself. I receive dozens to hundreds of cold emails from prospective scientists each year, and the emails only stand out when the applicant makes a specific case about why our lab and the applicant are a good mutual fit. 
 
 ## Undergraduate Researchers
 
-Undergraduate researchers are an important part of the Lowe-Power lab group. If you are an undergraduate student interested in our research and would like to conduct independent research or to contribute to our group's research mission through work-study, please [read this advice](http://www.sciencemag.org/careers/2015/05/dear-dr-neufeld) on writing professional emails and contact Dr. Lowe-Power. In the email, please include your year of study, your background including relevant coursework, and what interests you about our research. 
+The Lowe-Power lab tends to recruit students in cohort-teams. If you are an undergraduate student interested in our research and would like to  contribute to our group's research mission through course-credit (GDB 189, PLP 199) or work-study, please [read this advice](http://www.sciencemag.org/careers/2015/05/dear-dr-neufeld) on writing professional emails and contact Dr. Lowe-Power. 
+
+Although positions for undergraduate research are limited, Dr. Lowe-Power is interested in mentoring Global Disease Biology students on a systematic meta-analysis on global distribution and diversity of *Ralstonia* wilt pathogens. [read more details here](https://github.com/lowepowerlab/Ralstonia_Global_Diversity/blob/master/README.md). I tend to initiate a cohort of students on this project in Fall Quarters. 
+
+In Winter quarters, I run the Ralstonia genomics CURE. Around October, I recruit students via a Google Form application that is disseminated by the GDB advisors and Lolita Atkins at the Undergrad Research Center. 
 
 Current and prospective students are encouraged to apply for stipend funding through [UC Davis Undergraduate Research Programs](https://urc.ucdavis.edu/programs) or professional societies, such as the [American Phytopathological Society](https://www.asm.org/Fellowships/Undergraduate-Research-Fellowship) and the [American Society of Microbiology](https://www.asm.org/Fellowships/Undergraduate-Research-Fellowship). Additional funding opportunities: [Barudolph foundation](http://barudolphfoundation.org/stem-scholarship/).
 
 ## Graduates
 
-We accept graduate students though several graduate groups, including [Plant Pathology](http://plantpathology.ucdavis.edu/gradindex.cfm), [Microbiology](https://mgg.ucdavis.edu/prospective-students), [Plant Biology](https://pbi.sf.ucdavis.edu/apply), and [Integrative Genetics and Genomics](https://igg.ucdavis.edu/). Application deadlines range from Dec 1 to early January. After applying, please email Dr. Lowe-Power with your CV and a statement describing your interest in our lab. If you are a current Davis graduate student interested in rotating, send me an [email](mailto:tlowepower@ucdavis.edu). 
+We accept graduate students though several graduate groups, including [Plant Pathology](http://plantpathology.ucdavis.edu/gradindex.cfm), [Microbiology](https://mgg.ucdavis.edu/prospective-students), [Plant Biology](https://pbi.sf.ucdavis.edu/apply), and [Integrative Genetics and Genomics](https://igg.ucdavis.edu/). Application deadlines range from Dec 1 to early January. 
+
+If you are a current Davis graduate student interested in rotating, send me an [email](mailto:tlowepower@ucdavis.edu) with your CV and a **statement describing your interest in our lab.**  
 
 ## Postdocs
 

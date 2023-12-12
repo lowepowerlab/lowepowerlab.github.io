@@ -20,23 +20,22 @@ Most data is released with a CC-BY license that only requires attribution and do
 We use KBase to generate organized datasets for comparative evolutionary genomics studies. We also have created public narratives that allow anyone to re-analyze Ralstonia RNAseq data from SRA. 
 
 We currate a list of useful KBase narratives on a page of our Protocols GitHub:
-https://github.com/lowepowerlab/protocols/blob/main/kbase.md 
+[https://github.com/lowepowerlab/protocols/blob/main/kbase.md](https://github.com/lowepowerlab/protocols/blob/main/kbase.md) 
 
 ## Interactive files to understand genetic organization of *Ralstonia's* vgr-linked toxin/antitoxin clusters
 These tools were built as part of our study: 
 
 * A pangenomic atlas reveals that eco-evolutionary dynamics shape plant pathogen type VI secretion systems
 Nathalie Aoun, Stratton J. Georgoulis, Jason K. Avalos, Kimberly J. Grulla, Kasey Miqueo, Cloe Tom, Tiffany M. Lowe-Power
-bioRxiv 2023.09.05.556054; doi: https://doi.org/10.1101/2023.09.05.556054
+bioRxiv 2023.09.05.556054; doi: [https://doi.org/10.1101/2023.09.05.556054](https://doi.org/10.1101/2023.09.05.556054)
 
-* There are not any recording of seminars on this study, but we have a slide deck available: https://figshare.com/articles/presentation/The_ecology_and_evolution_of_Ralstonia_s_toxin-secreting_molecular_weapon_T6SS_2023-08-18_ICPP_talk/23992947
+* There are not any recording of seminars on this study, but we have a slide deck available: [https://figshare.com/articles/presentation/The_ecology_and_evolution_of_Ralstonia_s_toxin-secreting_molecular_weapon_T6SS_2023-08-18_ICPP_talk/23992947](https://figshare.com/articles/presentation/The_ecology_and_evolution_of_Ralstonia_s_toxin-secreting_molecular_weapon_T6SS_2023-08-18_ICPP_talk/23992947)
 
 ### Methods: 
 
 The interative synteny analysis files were created using Clinker. [The documentation for Clinker can be found here](https://github.com/gamcil/clinker)
 
-**Reference:** clinker & clustermap.js: Automatic generation of gene cluster comparison figures. Gilchrist, C.L.M., Chooi, Y.-H., 2020.
-Bioinformatics. doi: https://doi.org/10.1093/bioinformatics/btab007
+**Reference:** clinker & clustermap.js: Automatic generation of gene cluster comparison figures. Gilchrist, C.L.M., Chooi, Y.-H., 2020. Bioinformatics.
 
 ### Synteny files organized by aux cluster 
 

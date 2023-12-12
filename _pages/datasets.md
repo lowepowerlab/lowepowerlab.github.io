@@ -1,23 +1,38 @@
 ---
-title: Datasets
+title: Datasets and Research Resources
 permalink: datasets
 ---
 
-# FigShare
-## [On FigShare, we have released cartoons and raw data from papers.](https://figshare.com/authors/Tiffany_Lowe-Power/6561146) 
+## Lowe-Power Lab YouTube Channel
+[Link to the channel](https://www.youtube.com/channel/UC0x1gbM48khnawBZ8AfAgxA)
+
+[Seminar on Ralstonia biogeography and host range]()
+* [Companion pre-print/database](https://www.biorxiv.org/content/10.1101/2020.07.13.189936v4)
+
+[Seminar on the physiological mechanisms that underly wilt symptoms during Ralstonia disease]()
+* [Companion paper](https://apsjournals.apsnet.org/doi/full/10.1094/PHYTOFR-06-21-0041-R)
+
+## FigShare
+[On FigShare, we release cartoons and raw data from papers.](https://figshare.com/authors/Tiffany_Lowe-Power/6561146) 
 Most data is released with a CC-BY license that only requires attribution and does not restrict any reuse of the data. 
 
-# Synteny of *Ralstonia's* Vgr linked toxin/antitoxin clustersclusters
+## Interactive files to understand genetic organization of *Ralstonia's* vgr-linked toxin/antitoxin clusters
+These tools were built as part of our study: 
 
-If you would like to re-analyze the files used in this dataset, the inputs are located in a repository on our FigShare (see link above)
+* A pangenomic atlas reveals that eco-evolutionary dynamics shape plant pathogen type VI secretion systems
+Nathalie Aoun, Stratton J. Georgoulis, Jason K. Avalos, Kimberly J. Grulla, Kasey Miqueo, Cloe Tom, Tiffany M. Lowe-Power
+bioRxiv 2023.09.05.556054; doi: https://doi.org/10.1101/2023.09.05.556054
 
-## Methods: 
+### Methods: 
 
 The interative synteny analysis files were created using Clinker. [The documentation for Clinker can be found here](https://github.com/gamcil/clinker)
+
 **Reference:** clinker & clustermap.js: Automatic generation of gene cluster comparison figures. Gilchrist, C.L.M., Chooi, Y.-H., 2020.
 Bioinformatics. doi: https://doi.org/10.1093/bioinformatics/btab007
 
-## Synteny files organized by aux cluster 
+### Synteny files organized by aux cluster 
+
+If you would like to re-analyze the files used in this dataset, the inputs are located in a repository on our FigShare (see link above)
 
 * [Interative HTML for aux1 (3 examples)](https://lowepowerlab.github.io/assets/clinker/vgr_aux/aux_types/aux1_Fig.html)
 * [Interative HTML for aux2 (4 examples)](https://lowepowerlab.github.io/assets/clinker/vgr_aux/aux_types/aux2_Fig.html)

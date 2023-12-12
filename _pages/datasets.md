@@ -16,12 +16,20 @@ permalink: datasets
 [On FigShare, we release cartoons and raw data from papers.](https://figshare.com/authors/Tiffany_Lowe-Power/6561146) 
 Most data is released with a CC-BY license that only requires attribution and does not restrict any reuse of the data. 
 
+## KBase 
+We use KBase to generate organized datasets for comparative evolutionary genomics studies. We also have created public narratives that allow anyone to re-analyze Ralstonia RNAseq data from SRA. 
+
+We currate a list of useful KBase narratives on a page of our Protocols GitHub:
+https://github.com/lowepowerlab/protocols/blob/main/kbase.md 
+
 ## Interactive files to understand genetic organization of *Ralstonia's* vgr-linked toxin/antitoxin clusters
 These tools were built as part of our study: 
 
 * A pangenomic atlas reveals that eco-evolutionary dynamics shape plant pathogen type VI secretion systems
 Nathalie Aoun, Stratton J. Georgoulis, Jason K. Avalos, Kimberly J. Grulla, Kasey Miqueo, Cloe Tom, Tiffany M. Lowe-Power
 bioRxiv 2023.09.05.556054; doi: https://doi.org/10.1101/2023.09.05.556054
+
+* There are not any recording of seminars on this study, but we have a slide deck available: https://figshare.com/articles/presentation/The_ecology_and_evolution_of_Ralstonia_s_toxin-secreting_molecular_weapon_T6SS_2023-08-18_ICPP_talk/23992947
 
 ### Methods: 
 

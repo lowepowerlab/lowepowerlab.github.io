@@ -104,7 +104,7 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 
 <br><br><br><br><br>
 
-![Matt Dougan](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Matt Dougan](/assets/people/portrait_dougan.png){: .align-left width="200px"}
 **Matt Dougan** <br>
 **Email:** mddougan@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
@@ -118,13 +118,13 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 **For fun:** <br>
 <br><br><br><br>
 
-![Samantha Green](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Samantha Green](/assets/people/portrait_green.jpg){: .align-left width="200px"}
 **Samantha Green** <br>
 **Email:** samgreen@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
-![Noah Guillome](/assets/people/portrait_guillome.png){: .align-left width="200px"}
+![Noah Guillome](/assets/people/portrait_guillome.jpg){: .align-left width="200px"}
 **Noah Guillome** <br>
 **Email:** <br>
 A.S. in Natural Sciences, Napa Valley College <br>
@@ -151,21 +151,19 @@ UC Davis Major: **Biotechnology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
-
-
-![April McClendon](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![April McClendon](/assets/people/portrait_mcclendon.png){: .align-left width="200px"}
 **April McClendon** <br>
 **Email:** avmcclendon@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
-![Neha Prasad](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Neha Prasad](/assets/people/portrait_prasad.png){: .align-left width="200px"}
 **Neha Prasad** <br>
 **Email:** nnprasad@ucdavis.edu <br>
 UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
-![Ben Ramirez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Ben Ramirez](/assets/people/portrait_ramirez.jpg){: .align-left width="200px"}
 **Ben Ramirez** <br>
 **Email:** bhramirez@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>

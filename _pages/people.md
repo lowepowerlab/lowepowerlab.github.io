@@ -169,7 +169,7 @@ UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
-![Vicky Vo](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Vicky Vo](/assets/people/portrait_vo.png){: .align-left width="200px"}
 **Vicky Vo** <br>
 **Email:** vknvo@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>

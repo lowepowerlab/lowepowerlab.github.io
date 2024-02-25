@@ -118,7 +118,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 **For fun:** <br>
 <br><br><br><br>
 
-![Samantha Green](/assets/people/portrait_green.jpg){: .align-left width="200px"}
+![Samantha Green](/assets/people/portrait_green.png){: .align-left width="200px"}
 **Samantha Green** <br>
 **Email:** samgreen@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>

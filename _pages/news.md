@@ -5,6 +5,31 @@ permalink: news
 
 Follow [Tiffany Lowe-Power on Twitter](https://twitter.com/TLowePower)
 
+## Winter 2024 Update
+There is a lot to update... 
+
+* Dr. Nathalie Aoun and PhD student Stratton Georgoulis released a pre-print titled "A pangenomic atlas reveals that eco-evolutionary dynamics shape plant pathogen type VI secretion systems". 
+    * [Read it on BioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.05.556054v2) 
+    * [See Stratton's Tweet-Summary](https://twitter.com/ScientistStratt/status/1699910640834654706) 
+
+* In collaboration with Sally Miller and Nagendra Subedi, we published a paper on diversity of Ralstonia isolated in Bangladesh and Nepal. [Read it here](https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTOFR-10-23-0136-R). 
+
+* Tiffany co-authored "Open Access and Reproducibility in Plant Pathology Research: Guidelines and Best Practices", which was accepted in APS journal Phytopathology. [Read it here](https://apsjournals.apsnet.org/doi/10.1094/PHYTO-12-23-0483-IA)
+
+* Junior Specialist Jason Avalos celebrated his last day in lab and joined the PhD program in Plant and Microbial Biology at UC Berkeley. He has since joined Arash Komeili's lab to study magnetotactic bacteria. 
+
+* Dr. Nathalie Aoun received the Sahyadri Outstanding Postdoc Award from the Plant Postdocs group! 
+
+* M.S. Student Lisa Repetto won the Best Poster Award at the Host-Microbe Retreat. 
+
+* Dr. Nathalie Aoun and Matt Cope-Arguello both crafted and submitted *excellent* USDA NIFA proposals in Fall. 
+
+* In December, Matt Cope-Arguello gave an excellent talk on *Ralstonia* physiology in water at the West Coast Bacterial Physiologists Conference!
+
+* [USDA APHIS selected our project idea for funding:](https://www.aphis.usda.gov/aphis/ourfocus/planthealth/ppa-ppdmdpp/ppa-projects) "A new resource to make previously hidden data easily accessible for surveillance of the *Ralstonia solanacearum* select agent." 
+
+* Tiffany has been invited to present "Something Cool about *Ralstonia*" at the [International Congress of Plant Pathogenic Bacteria and Biocontrol 2024](https://sites.google.com/vt.edu/icppbbiocontrol2024/speakers?authuser=0). 
+
 ## Summer 2023
 
 * The lab welcomes two new summer students: Ashley Merino from Woodland Community College through the MESA program and Donnie Ca from California State University, Northridge through the BIOGAP program.

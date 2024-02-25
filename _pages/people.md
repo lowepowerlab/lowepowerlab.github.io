@@ -17,7 +17,7 @@ Assistant Professor <br>
 <br>**B.S. Applied Biology** Georgia Institute of Technology
 <br> **PhD Microbiology Doctoral Training Program**, University of Wisconsin–Madison (in Dept of Plant Pathology)
 <br> **Postdoc Plant and Microbial Biology**, University of California, Berkeley 
-<br> **For fun:** biking, fermenting, sciTwitter, podcasts, and cats 😺
+<br> **For fun:** biking, sciTwitter, hunting for weeds to pull in the garden, and cats 😺
 <br> [The Global Disease Biology students interviewed Dr. Lowe-Power about her career path, hobbies, and advice](https://gdb.ucdavis.edu/news/professor-spotlight-tiffany-lowe-power)
 
 ## Postdocs
@@ -73,7 +73,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **Dr. Alba Moreno Perez** <br>
 **Email:** amorenop@ucdavis.edu<br>
 **Postdoctoral Scholar in the [Coaker lab](https://www.coakerlab.org/current-members.html)**
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![Veronica Casey](/assets/people/portrait_casey.jpg){: .align-left width="200px"}
 **Veronica Casey** <br>
@@ -84,7 +84,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **For fun:** boxing, video games, cats!
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 

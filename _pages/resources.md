@@ -3,10 +3,10 @@ title: Resources
 permalink: /resources/
 ---
 
-#### General Advice for Navigating the Hidden Curriculum of Academia
+## General Advice for Navigating the Hidden Curriculum of Academia
 * [Academic Secret Menu google doc](https://docs.google.com/document/d/1Cl_u8Qq4DD6ROKH4SNThxyLF7UWTWuWKEaVhrKCJqOw/edit)
 
-# Inclusion, Diversity, and Equity resources
+## Inclusion, Diversity, and Equity resources
 
 ## Imposter Syndrome and Mental Health Resources
 * [Impostor Syndrome and You: A Discussion of a Little-Discussed Phenomenon](https://www.ismpmi.org/members/Interactions/Lists/Posts/Post.aspx?ID=178) published in Molecular Plant-Microbe Interactions, an American Phytopathological Society Journal
@@ -69,14 +69,14 @@ permalink: /resources/
 * [Ten simple rules for writing a response to reviewers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730) by William Stafford Noble 
 * Abstracts: [Annotated example of how to write an abstract (aka Summary)](https://twitter.com/tpoi/status/1100105516456570880)
 
-### Grant Writing
-#### General
+### Grant Writing 
+### Grant Writing, General
 * [Ten Simple Rules for Getting Grants](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020012)
 * [The Human Context of Granstsmanship](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000) 1 hr lecture by Tiffany Lowe-Power with materials adapted from Gary Roberts and JD Sauer at UW-Madison and John Boothroyd at Stanford.
 * [Ten Simple Rules for Writing a (Postdoctoral) Fellowship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004934).
 * [Advice for a Strong NSF Standard proposal](/assets/resources/nsf_grants_allen.pdf) by Caitilyn Allen
 
-#### NSF Graduate Research Fellowship Program
+### NSF Graduate Research Fellowship Program
 * [Advice on applying for the NSF Graduate Research Fellowship Program (GRFP)](https://www.youtube.com/watch?v=gI7c_gTftAo&feature=youtu.be) Webinar by Kelsey Wood. (Released in 2020, so details will change. But Kelsey provides timeless advice about the program) 
   * [Additional advice for NSF GRFPs that involve pathogens of plants](https://kelseywooddotcom.wordpress.com/2019/09/30/changing-times-and-rolling-the-dice-the-new-nsf-grfp-rules-and-how-you-can-maximize-your-odds-for-success/)
   * [A database of funded NSF GFRP grants](https://www.alexhunterlang.com/nsf-fellowship) by Alex Lang

@@ -3,13 +3,12 @@ title: Resources
 permalink: /resources/
 ---
 
-# General Advice for Navigating the Hidden Curriculum of Academia
+#### General Advice for Navigating the Hidden Curriculum of Academia
 * [Academic Secret Menu google doc](https://docs.google.com/document/d/1Cl_u8Qq4DD6ROKH4SNThxyLF7UWTWuWKEaVhrKCJqOw/edit)
 
 # Inclusion, Diversity, and Equity resources
 
 ## Imposter Syndrome and Mental Health Resources
-
 * [Impostor Syndrome and You: A Discussion of a Little-Discussed Phenomenon](https://www.ismpmi.org/members/Interactions/Lists/Posts/Post.aspx?ID=178) published in Molecular Plant-Microbe Interactions, an American Phytopathological Society Journal
 * [Dr. Lowe-Power's open letter about living with Anxiety and Depression as a scientist](https://twitter.com/TLowePower/status/1309222113299972097?s=20)
 * UC Davis has Therapists who serve as bridges to help navigate acute and chronic mental health:
@@ -36,8 +35,7 @@ permalink: /resources/
   * [USDA National Needs Fellowships](https://nifa.usda.gov/program/national-needs-graduate-and-postgraduate-fellowship-grants-program-funding-opportunity-nnf)
 * [Anti-Racism Resources from the American Phytopathological Society](https://www.apsnet.org/members/community/AntiRacismResources/Pages/default.aspx)
 
-# Science resources
-
+## Science resources
 ## Experimental (Methods, training resources, etc)
 * [Lowe-Power lab protocols](https://github.com/lowepowerlab/protocols)
 * [iBiology's Let's Experiment](https://courses.ibiology.org/courses/course-v1:iBiology+LE+SP/about).  A self-paced online class (5 weeks; ~3 hrs / week) that will give concrete steps and advice to help you build a framework for how to design experiments in biological research. 
@@ -103,17 +101,17 @@ permalink: /resources/
 * Guides to printing scientific posters on wrinkle-free cloth through Spoonflower.com. [Guide 1](https://www.ascb.org/careers/how-to-print-a-fabric-poster/) and [Guide 2](https://support.spoonflower.com/hc/en-us/articles/204266984-How-to-Create-a-Fabric-Presentation-Poster-from-a-PowerPoint-or-PDF).  Plan for 10 business days for printing & shipping. We can also print paper posters on campus at "Reprographics". 
 * [Blog on posters](http://betterposters.blogspot.com/). Although I don't perfectly agree with this authors' opinions, they have suggestions on how to improve scientific poster design. I hate the actual "Better Posters", for reseasons explained in this article: [There's a movement for better posters at science conferences. But are they really better?](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
 
-# Career / professional development resources
-## General
+## Career / professional development resources
+## Career, General
 * Tool: The most intuitive meeting scheduling tool [www.when2meet.com](www.when2meet.com)
 * Article: ['Growth Mindset' vs 'Fixed Mindset'](http://mindsetscholarsnetwork.org/learning-mindsets/growth-mindset/). Adopting a growth mindset might improve your resilience to the imposter syndrome. 
 * [Ten simple rules for developing good reading habits during graduate school and beyond](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006467)
 
-## Advice for Undergrads
+## Career Advice for Undergrads
 * [Ten simple rules to make the most out of your undergraduate research career](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484) by Megan Yu and Yu-Min Kuo
 * [Ten simple rules for getting the most out of a summer laboratory internship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005606) by Toby P. Aicher, Dániel L. Barabási, Benjamin D. Harris, Ajay Nadig, and Kaitlin L. Williams. This advice applies to any undergraduate research experience. 
 
-## Advice for Grad Students and/or Postdocs:
+## Career Advice for Grad Students and/or Postdocs:
 * **Grad Student specific advice**: [Ten Simple Rules for Graduate Students](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229) by Jenny Gu and Philip E Bourne. In my opinion, Rule 1 is valuable, but it is not the only key to success. 
 * **Grad Student specific advice**: [Ten Simple Rules for Finishing Your PhD](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954) by Jacopo Marino, Melanie I. Stefan, and Sarah Blackford
 * **Grad Student specific advice**: [Ten Simple Rules for Selecting a Postdoctoral Position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020121) by Philip E Bourne and Iddo Friedberg
@@ -129,8 +127,6 @@ permalink: /resources/
 * **Running a Research Lab**: [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914) by Fernando T. Maestre
 
 ---
- 
-# Teaching
 
 ## Scientific Teaching
 * [Repository of Plant Pathology papers that are well-suited to classroom teaching](https://forms.gle/fn8BDPqk1EhArurM7) 

@@ -113,17 +113,17 @@ permalink: /resources/
 
 ## Career Advice for Grad Students and/or Postdocs:
 * **Grad Student specific advice**: [Ten Simple Rules for Graduate Students](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229) by Jenny Gu and Philip E Bourne. In my opinion, Rule 1 is valuable, but it is not the only key to success. 
-* **Grad Student specific advice**: [Ten Simple Rules for Finishing Your PhD](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954) by Jacopo Marino, Melanie I. Stefan, and Sarah Blackford
-* **Grad Student specific advice**: [Ten Simple Rules for Selecting a Postdoctoral Position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020121) by Philip E Bourne and Iddo Friedberg
+* Grad Student specific advice: [Ten Simple Rules for Finishing Your PhD](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954) by Jacopo Marino, Melanie I. Stefan, and Sarah Blackford
+* Grad Student specific advice: [Ten Simple Rules for Selecting a Postdoctoral Position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020121) by Philip E Bourne and Iddo Friedberg
 * Article: [Tips for PhD students & early career researchers](http://www.opiniomics.org/tips-for-phd-students-and-early-career-researchers/)
 * **Careers Beyond Academia**: [Ten Simple Rules for landing on the right job after your PhD or postdoc](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007723) by Kuan-lin Huang
-* **Careers Beyond Academia**: [Ten simple rules in considering a career in academia versus government](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005729) by Philip E. Bourne 
-* **Careers Beyond Academia**: [Ten Simple Rules for Choosing between Industry and Academia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000388) by David B. Searls
+* Careers Beyond Academia: [Ten simple rules in considering a career in academia versus government](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005729) by Philip E. Bourne 
+* Careers Beyond Academia: [Ten Simple Rules for Choosing between Industry and Academia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000388) by David B. Searls
 * **Careers, General**: [Ten Simple Rules for Finding/Interviewing for a New Job](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003660) by Philip E. Bourne
 * **Becoming a Professor**: [The quest for postdoctoral independence: How to step out from the shadow of your principal investigator](https://www.nature.com/articles/d41586-018-06794-3) by Chris Woolston
-* **Becoming a Professor**: [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448) by John S. Tregoning and Jason E. McDermott 
-* **Becoming a Professor**: [Ten simple rules for giving an effective academic job talk](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007163) by Sura, Smith, Ambrose, Guerra Amorim, Beichman, Gomez, Juhn, Kandlikar,Miller, Mooney, Mummah, Lohmueller, and Lloyd-Smith.
-* **Becoming a Professor**:[Ten simple rules for writing a cover letter to accompany a job application for an academic position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006132) by Lubomir Tomaska and Jozef Nosek
+* Becoming a Professor: [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448) by John S. Tregoning and Jason E. McDermott 
+* Becoming a Professor: [Ten simple rules for giving an effective academic job talk](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007163) by Sura, Smith, Ambrose, Guerra Amorim, Beichman, Gomez, Juhn, Kandlikar,Miller, Mooney, Mummah, Lohmueller, and Lloyd-Smith.
+* Becoming a Professor: [Ten simple rules for writing a cover letter to accompany a job application for an academic position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006132) by Lubomir Tomaska and Jozef Nosek
 * **Running a Research Lab**: [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914) by Fernando T. Maestre
 
 ---

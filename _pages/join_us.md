@@ -15,15 +15,23 @@ Although positions for undergraduate research are limited, Dr. Lowe-Power is int
 
 In Winter quarters, I run the Ralstonia genomics CURE. Around October, I recruit students via a Google Form application that is disseminated by the GDB advisors and Lolita Atkins at the Undergrad Research Center. 
 
-Current and prospective students are encouraged to apply for stipend funding through [UC Davis Undergraduate Research Programs](https://urc.ucdavis.edu/programs) or professional societies, such as the [American Phytopathological Society](https://www.asm.org/Fellowships/Undergraduate-Research-Fellowship) and the [American Society of Microbiology](https://www.asm.org/Fellowships/Undergraduate-Research-Fellowship). Additional funding opportunities: [Barudolph foundation](http://barudolphfoundation.org/stem-scholarship/).
+Current and prospective students are encouraged to apply for stipend funding through [UC Davis Undergraduate Research Programs](https://urc.ucdavis.edu/programs). The "Provost's Undergraduate Fellowship" (PUF) is usually due mid-Fall and mid-Spring Quarters. **I strongly recommend that current undergrads apply.** I can provide example proposals. 
 
-## Graduates
+Advice: 
+* [Ten simple rules to make the most out of your undergraduate research career](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484)
+
+## Graduate Students
+
+* [Ten Simple Rules for Graduate Students](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229). In my opinion, their "Rule 1" is valuable advice, but I think they stated it too strongly. You need to be willing to put in major intellectual and physical effort for your graduate research, but you do not necessarily need this to be driven by "Passion". The rest of this advice is good. 
 
 We accept graduate students though several graduate groups, including [Plant Pathology](http://plantpathology.ucdavis.edu/gradindex.cfm), [Microbiology](https://mgg.ucdavis.edu/prospective-students), [Plant Biology](https://pbi.sf.ucdavis.edu/apply), and [Integrative Genetics and Genomics](https://igg.ucdavis.edu/). Application deadlines range from Dec 1 to early January. 
 
 If you are a current Davis graduate student interested in rotating, send me an [email](mailto:tlowepower@ucdavis.edu) with your CV and a **statement describing your interest in our lab.**  
 
 ## Postdocs
+
+* [Ten Simple Rules for Selecting a Postdoctoral Position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020121)
+* [Ten Simple Rules for Writing a (Postdoctoral) Fellowship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004934).
 
 If you are a senior PhD student or current postdoc who is interested in a 2+ year postdoc in the Lowe-Power lab, send an email describing your research interests, career goals, what you hope to get out of the Lowe-Power lab, what you hope to bring to the Lowe-Power lab, and your CV. 
 

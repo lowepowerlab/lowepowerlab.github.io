@@ -42,49 +42,38 @@ permalink: /resources/
 * [Lowe-Power lab protocols](https://github.com/lowepowerlab/protocols)
 * [iBiology's Let's Experiment](https://courses.ibiology.org/courses/course-v1:iBiology+LE+SP/about).  A self-paced online class (5 weeks; ~3 hrs / week) that will give concrete steps and advice to help you build a framework for how to design experiments in biological research. 
 
-## Data Visualization, Stats, & Presentation Resources
-* An assortment of Tiffany's tips & tricks for visual presentations using ppt and illustrator. [Download here](https://github.com/lowepowerlab/protocols/blob/master/resources/ppt_illustrator_tips_for_visual_presentations.pptx)
+## Data Visualization
+* [Why scientists need to be better at data visualization](https://knowablemagazine.org/article/mind/2019/science-data-visualization)
+* [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+* [Color palletes](https://github.com/BlakeRMills/MetBrewer/tree/main) inspired by works at the Metropolitan Museum of Art in New York. By Blake Mills
 * Scientific illustration resource: [Margaret Senior Plant Disease Bulletins](https://livinghistories.newcastle.edu.au/nodes/index/page:4/q:SAGN/source:2) 
 * [Plant Illustrations Figshare Group](https://figshare.com/authors/Plant_Illustrations/3773596)
 * [BioRender platform for biological figure design](https://biorender.com/) Note: The free version exports with watermarks. 
+
+## Statistics Advice
 * [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodesk.com/research/publications/same-stats-different-graphs)
-* [Why scientists need to be better at data visualization](https://knowablemagazine.org/article/mind/2019/science-data-visualization)
 * ["If your P value looks too good to be true, it probably is: Communicating reproducibility and variability in cell biology"](https://arxiv.org/abs/1911.03509). A humorous guide to common pitfalls in statistical analysis. The PDF is in the upper right corner. This guide was also published in a journal, but the editor removed the jokes. 
 * **Graphpad Prism's guide to statistics**. Google for this and find the recent version.  This guide is written for research biologists and uses a lot of common examples that we are familiar with.  It will help you verify that your data fit the assumptions for the statistcal tests that you want to perform. 
-* [Color palletes](https://github.com/BlakeRMills/MetBrewer/tree/main) inspired by works at the Metropolitan Museum of Art in New York. By Blake Mills
-
-## Bioinformatics
-* Stratton's [bioinformatics course webpage](http://www.marcottelab.org/index.php/BCH339N_2018) with useful bioinformatics information, articles, databases, etc. compiled and created by Dr. Edward Marcotte of UT--Austin
-
-# Career / professional development resources
-
-* Tool: The most intuitive meeting scheduling tool [www.when2meet.com](www.when2meet.com)
-* Article: ['Growth Mindset' vs 'Fixed Mindset'](http://mindsetscholarsnetwork.org/learning-mindsets/growth-mindset/). Adopting a growth mindset might improve your resilience to the imposter syndrome. 
-* Article: [Tips for PhD students & early career researchers](http://www.opiniomics.org/tips-for-phd-students-and-early-career-researchers/)
-* Article: [The quest for postdoctoral independence: How to step out from the shadow of your principal investigator](https://www.nature.com/articles/d41586-018-06794-3)
-
-# Science Communication (#SciComm) Resources
 
 ## Scientific Writing
+* [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+* [Ten Simple Rules for Writing a Literature Review](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149)
+* [Ten simple rules for writing a response to reviewers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730)
+* Abstracts: [Annotated example of how to write an abstract (aka Summary)](https://twitter.com/tpoi/status/1100105516456570880)
 * [Bacterial genetics: A how-to guide to notation on naming bacterial genotypes and phenotypes ](/assets/resources/Common_notations_in_bacterial_genetics.docx) by Tiffany Lowe-Power
+* [Ten simple rules for scientists: Improving your writing productivity](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006379)
 * Getting started: [An Ode to the Shitty First Draft](https://writingcooperative.com/an-ode-to-all-of-my-shitty-first-drafts-8312e86130c8?gi=dec43175b8e7) by Angely Mercado. 
 * Revising and improving: [Effective and High Impact Writing (pdf)](/assets/resources/effective_high_impact_scientific_writing.pdf) handout from ASM workshop led by Dr. Susan Marriott and Dr. Sonia Morgan-Linnell. This will help you diagnose 'bad writing' and revise your writing. 
 * Revising and improving: [Science of scientific writing (pdf)](/assets/resources/science_of_writing.pdf) by George Dopen and Judith Swan
-* Abstracts: [Annotated example of how to write an abstract (aka Summary)](https://twitter.com/tpoi/status/1100105516456570880)
 
 ### Grant Writing
 * [Advice on applying for the NSF Graduate Research Fellowship Program (GRFP)](https://www.youtube.com/watch?v=gI7c_gTftAo&feature=youtu.be) Webinar by Kelsey Wood. (Released in 2020, so details will change. But Kelsey provides timeless advice about the program) 
   * [Additional advice for NSF GRFPs that involve pathogens of plants](https://kelseywooddotcom.wordpress.com/2019/09/30/changing-times-and-rolling-the-dice-the-new-nsf-grfp-rules-and-how-you-can-maximize-your-odds-for-success/)
   * [A database of funded NSF GFRP grants](https://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
 * [Advice for a Strong NSF Standard proposal](/assets/resources/nsf_grants_allen.pdf) by Caitilyn Allen
+* [Ten Simple Rules for Getting Grants](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020012)
 * [The Human Context of Granstsmanship](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000) 1 hr lecture by Tiffany Lowe-Power with materials adapted from Gary Roberts and JD Sauer at UW-Madison and John Boothroyd at Stanford.
-* Curated from diverse sources that are hopefully cited properly.
-* Tiffany's Advice for Grant and Paper writing (Currently down, but will be uploaded at a new location after Fall 2020)
- * Lecture 1: [**The Human Context of Grantsmanship**](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000)
- * Lecture 2: [**High Impact Writing (Word Choice)**](https://zoom.us/rec/play/6JF_I7yqrm43SNHEtgSDC6N_W46_J62s1HNN__VczUfnVXRWZgCuNOFBY-Z8chB5Ko9Gcm1V9kkw8IYR?autoplay=true&startTime=1586545007000)
- * Lecture 3: [**High Impact Writing: Building Sentences**](https://zoom.us/rec/play/vZ0rduigqjk3GtbHsQSDAP5xW468LPishHIY_PsLzBy2AiEGZAWmYLpGN7O-xIbo2dMV_Jg8Xqfi36n-)
- * Lecture 4: [**Writing Strategies**](
-https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7MnG6owzJlY?startTime=1587754603000)
+* [Ten Simple Rules for Writing a (Postdoctoral) Fellowship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004934).
 
 ### Peer-Review
 * [Peer-Reviewing Scientific Manuscripts](/assets/resources/peer_review_allen.pdf) by Caitilyn Allen
@@ -94,19 +83,46 @@ https://zoom.us/rec/share/yY96NOvWqmhJWomQw27EY7QPGtn7X6a82igZq6cNyEvxjirlJ7dgq7
 * [Why and how to write abstracts for conferences](/assets/resources/Gadoury_abstract_advice.pdf) by David Gadoury
 * [Advice on how to get the most out of a conference and maintain your sanity](https://www.nature.com/articles/d41586-019-01631-7)
 
-### Talks
+## Research Talks
+
 * [Workshop on Scientific Talks](https://drive.google.com/file/d/13efH6iA6toPtJ91KBt_QCeAyQBcSN7SA/view) by Dan Larremore
 * [Guide to preparing a research talk](https://luispedro.github.io/talk-scientific-communication) by Luis Pedro Coelho
 * [Science commmunication through typography](https://twitter.com/iamscicomm/status/1531766604626857989). Twitter thread by Matt Carter
 * [Communication with color](https://twitter.com/iamscicomm/status/1531652061338664960). Twitter thread by Matt Carter
+* [Ten simple rules for effective presentation slides](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554) by Kristen M. Naegle
+* [Ten Simple Rules for Making Good Oral Presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030077) by Philip E Bourne
+* An assortment of Tiffany's tips & tricks for visual presentations using ppt and illustrator. [Download here](https://github.com/lowepowerlab/protocols/blob/master/resources/ppt_illustrator_tips_for_visual_presentations.pptx)
 
-### Posters
-* Guides to printing scientific posters on wrinkle-free cloth through Spoonflower.com. [Guide 1](https://www.ascb.org/careers/how-to-print-a-fabric-poster/) and [Guide 2](https://support.spoonflower.com/hc/en-us/articles/204266984-How-to-Create-a-Fabric-Presentation-Poster-from-a-PowerPoint-or-PDF).  Plan for 10 business for printing & shipping.
-* [Better Poster Blog](http://betterposters.blogspot.com/). Although I don't perfectly agree with this authors' opinions, they have suggestions on how to improve scientific poster design. 
+## Research Posters
+* Start with a template! In our lab's shared box folder, you should be able to find everyone's previous poster files. 
+* Guides to printing scientific posters on wrinkle-free cloth through Spoonflower.com. [Guide 1](https://www.ascb.org/careers/how-to-print-a-fabric-poster/) and [Guide 2](https://support.spoonflower.com/hc/en-us/articles/204266984-How-to-Create-a-Fabric-Presentation-Poster-from-a-PowerPoint-or-PDF).  Plan for 10 business days for printing & shipping. We can also print paper posters on campus at "Reprographics". 
+* [Blog on posters](http://betterposters.blogspot.com/). Although I don't perfectly agree with this authors' opinions, they have suggestions on how to improve scientific poster design. I hate the actual "Better Posters", for reseasons explained in this article: [There's a movement for better posters at science conferences. But are they really better?](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
 
-## Stats and Data Visualization
+# Career / professional development resources
+## General
+* Tool: The most intuitive meeting scheduling tool [www.when2meet.com](www.when2meet.com)
+* Article: ['Growth Mindset' vs 'Fixed Mindset'](http://mindsetscholarsnetwork.org/learning-mindsets/growth-mindset/). Adopting a growth mindset might improve your resilience to the imposter syndrome. 
+* [Ten simple rules for developing good reading habits during graduate school and beyond](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006467)
 
-(see section above)
+## Advice for Undergrads
+* [Ten simple rules for getting the most out of a summer laboratory internship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005606). This advice applies to any undergraduate research experience. 
+* [Ten simple rules to make the most out of your undergraduate research career](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484)
+
+## Advice for Grad Students and/or Postdocs:
+* **Grad Student specific advice**: [Ten Simple Rules for Graduate Students](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229). In my opinion, Rule 1 is valuable, but it is not the only key to success. 
+* **Grad Student specific advice**: [Ten Simple Rules for Finishing Your PhD](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954)
+* **Grad Student specific advice**: [Ten Simple Rules for Selecting a Postdoctoral Position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020121)
+* Article: [Tips for PhD students & early career researchers](http://www.opiniomics.org/tips-for-phd-students-and-early-career-researchers/)
+* **Careers Beyond Academia**: [Ten Simple Rules for landing on the right job after your PhD or postdoc](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007723) by Kuan-lin Huang
+* **Careers Beyond Academia**: [Ten simple rules in considering a career in academia versus government](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005729)
+* **Careers Beyond Academia**: [Ten Simple Rules for Choosing between Industry and Academia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000388)
+* **Careers, General**: [Ten Simple Rules for Finding/Interviewing for a New Job](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003660)
+* **Becoming a Professor**: [The quest for postdoctoral independence: How to step out from the shadow of your principal investigator](https://www.nature.com/articles/d41586-018-06794-3)
+* **Becoming a Professor**: [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
+* **Becoming a Professor**: [Ten simple rules for giving an effective academic job talk](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007163)
+* **Becoming a Professor**:[Ten simple rules for writing a cover letter to accompany a job application for an academic position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006132)
+* **Running a Research Lab**: [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914)
+
 ---
  
 # Teaching

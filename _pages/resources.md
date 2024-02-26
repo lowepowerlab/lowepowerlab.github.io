@@ -45,6 +45,7 @@ permalink: /resources/
 ## Data Visualization
 * [Why scientists need to be better at data visualization](https://knowablemagazine.org/article/mind/2019/science-data-visualization)
 * [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+* [Communication with color](https://twitter.com/iamscicomm/status/1531652061338664960). Twitter thread by Matt Carter
 * [Color palletes](https://github.com/BlakeRMills/MetBrewer/tree/main) inspired by works at the Metropolitan Museum of Art in New York. By Blake Mills
 * Scientific illustration resource: [Margaret Senior Plant Disease Bulletins](https://livinghistories.newcastle.edu.au/nodes/index/page:4/q:SAGN/source:2) 
 * [Plant Illustrations Figshare Group](https://figshare.com/authors/Plant_Illustrations/3773596)
@@ -56,42 +57,46 @@ permalink: /resources/
 * **Graphpad Prism's guide to statistics**. Google for this and find the recent version.  This guide is written for research biologists and uses a lot of common examples that we are familiar with.  It will help you verify that your data fit the assumptions for the statistcal tests that you want to perform. 
 
 ## Scientific Writing
-* [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
-* [Ten Simple Rules for Writing a Literature Review](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149)
-* [Ten simple rules for writing a response to reviewers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730)
-* Abstracts: [Annotated example of how to write an abstract (aka Summary)](https://twitter.com/tpoi/status/1100105516456570880)
-* [Bacterial genetics: A how-to guide to notation on naming bacterial genotypes and phenotypes ](/assets/resources/Common_notations_in_bacterial_genetics.docx) by Tiffany Lowe-Power
-* [Ten simple rules for scientists: Improving your writing productivity](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006379)
+### General
+* [Ten simple rules for scientists: Improving your writing productivity](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006379) by Todd C. Peterson, Sofie R. Kleppner, and Crystal M. Botham
 * Getting started: [An Ode to the Shitty First Draft](https://writingcooperative.com/an-ode-to-all-of-my-shitty-first-drafts-8312e86130c8?gi=dec43175b8e7) by Angely Mercado. 
 * Revising and improving: [Effective and High Impact Writing (pdf)](/assets/resources/effective_high_impact_scientific_writing.pdf) handout from ASM workshop led by Dr. Susan Marriott and Dr. Sonia Morgan-Linnell. This will help you diagnose 'bad writing' and revise your writing. 
 * Revising and improving: [Science of scientific writing (pdf)](/assets/resources/science_of_writing.pdf) by George Dopen and Judith Swan
+* [Bacterial genetics: A how-to guide to notation on naming bacterial genotypes and phenotypes ](/assets/resources/Common_notations_in_bacterial_genetics.docx) by Tiffany Lowe-Power
+
+### Research Papers and Reviews
+* [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) by Brett Mensh and Konrad Kording 
+* [The ABC of academic writing](https://www.sciencedirect.com/science/article/pii/S0169534724000338?dgcid=author) by Shinichi Nakagawa and Malgorzata Lagisz. The authors subtitled this with their "non-native speakers’ perspective", but as a native English speaker, I also vouch for the advice being excellent. [The pre-print is here if you do not have access to the journal](https://osf.io/preprints/osf/qg45w)
+* [Ten Simple Rules for Writing a Literature Review](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149) by Marco Pautasso
+* [Ten simple rules for writing a response to reviewers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730) by William Stafford Noble 
+* Abstracts: [Annotated example of how to write an abstract (aka Summary)](https://twitter.com/tpoi/status/1100105516456570880)
 
 ### Grant Writing
-* [Advice on applying for the NSF Graduate Research Fellowship Program (GRFP)](https://www.youtube.com/watch?v=gI7c_gTftAo&feature=youtu.be) Webinar by Kelsey Wood. (Released in 2020, so details will change. But Kelsey provides timeless advice about the program) 
-  * [Additional advice for NSF GRFPs that involve pathogens of plants](https://kelseywooddotcom.wordpress.com/2019/09/30/changing-times-and-rolling-the-dice-the-new-nsf-grfp-rules-and-how-you-can-maximize-your-odds-for-success/)
-  * [A database of funded NSF GFRP grants](https://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
-* [Advice for a Strong NSF Standard proposal](/assets/resources/nsf_grants_allen.pdf) by Caitilyn Allen
+#### General
 * [Ten Simple Rules for Getting Grants](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020012)
 * [The Human Context of Granstsmanship](https://zoom.us/rec/play/u5R-Je-pqTg3EtPDswSDAqd7W43reqqshiZL-_YEmUy9VXcLMFKiZOQWMbEYtN3K6dRjkdXDD5wD_RqW?autoplay=true&startTime=1585937732000) 1 hr lecture by Tiffany Lowe-Power with materials adapted from Gary Roberts and JD Sauer at UW-Madison and John Boothroyd at Stanford.
 * [Ten Simple Rules for Writing a (Postdoctoral) Fellowship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004934).
+* [Advice for a Strong NSF Standard proposal](/assets/resources/nsf_grants_allen.pdf) by Caitilyn Allen
+
+#### NSF Graduate Research Fellowship Program
+* [Advice on applying for the NSF Graduate Research Fellowship Program (GRFP)](https://www.youtube.com/watch?v=gI7c_gTftAo&feature=youtu.be) Webinar by Kelsey Wood. (Released in 2020, so details will change. But Kelsey provides timeless advice about the program) 
+  * [Additional advice for NSF GRFPs that involve pathogens of plants](https://kelseywooddotcom.wordpress.com/2019/09/30/changing-times-and-rolling-the-dice-the-new-nsf-grfp-rules-and-how-you-can-maximize-your-odds-for-success/)
+  * [A database of funded NSF GFRP grants](https://www.alexhunterlang.com/nsf-fellowship) by Alex Lang
 
 ### Peer-Review
 * [Peer-Reviewing Scientific Manuscripts](/assets/resources/peer_review_allen.pdf) by Caitilyn Allen
 
 ## Conferences 
-
-* [Why and how to write abstracts for conferences](/assets/resources/Gadoury_abstract_advice.pdf) by David Gadoury
 * [Advice on how to get the most out of a conference and maintain your sanity](https://www.nature.com/articles/d41586-019-01631-7)
+* [Why and how to write abstracts for conferences](/assets/resources/Gadoury_abstract_advice.pdf) by David Gadoury
 
 ## Research Talks
-
+* [Ten Simple Rules for Making Good Oral Presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030077) by Philip E Bourne
+* [Ten simple rules for effective presentation slides](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554) by Kristen M. Naegle
+* An assortment of Tiffany's tips & tricks for visual presentations using ppt and illustrator. [Download here](https://github.com/lowepowerlab/protocols/blob/master/resources/ppt_illustrator_tips_for_visual_presentations.pptx)
 * [Workshop on Scientific Talks](https://drive.google.com/file/d/13efH6iA6toPtJ91KBt_QCeAyQBcSN7SA/view) by Dan Larremore
 * [Guide to preparing a research talk](https://luispedro.github.io/talk-scientific-communication) by Luis Pedro Coelho
 * [Science commmunication through typography](https://twitter.com/iamscicomm/status/1531766604626857989). Twitter thread by Matt Carter
-* [Communication with color](https://twitter.com/iamscicomm/status/1531652061338664960). Twitter thread by Matt Carter
-* [Ten simple rules for effective presentation slides](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554) by Kristen M. Naegle
-* [Ten Simple Rules for Making Good Oral Presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030077) by Philip E Bourne
-* An assortment of Tiffany's tips & tricks for visual presentations using ppt and illustrator. [Download here](https://github.com/lowepowerlab/protocols/blob/master/resources/ppt_illustrator_tips_for_visual_presentations.pptx)
 
 ## Research Posters
 * Start with a template! In our lab's shared box folder, you should be able to find everyone's previous poster files. 
@@ -105,23 +110,23 @@ permalink: /resources/
 * [Ten simple rules for developing good reading habits during graduate school and beyond](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006467)
 
 ## Advice for Undergrads
-* [Ten simple rules for getting the most out of a summer laboratory internship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005606). This advice applies to any undergraduate research experience. 
-* [Ten simple rules to make the most out of your undergraduate research career](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484)
+* [Ten simple rules to make the most out of your undergraduate research career](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484) by Megan Yu and Yu-Min Kuo
+* [Ten simple rules for getting the most out of a summer laboratory internship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005606) by Toby P. Aicher, Dániel L. Barabási, Benjamin D. Harris, Ajay Nadig, and Kaitlin L. Williams. This advice applies to any undergraduate research experience. 
 
 ## Advice for Grad Students and/or Postdocs:
-* **Grad Student specific advice**: [Ten Simple Rules for Graduate Students](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229). In my opinion, Rule 1 is valuable, but it is not the only key to success. 
-* **Grad Student specific advice**: [Ten Simple Rules for Finishing Your PhD](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954)
-* **Grad Student specific advice**: [Ten Simple Rules for Selecting a Postdoctoral Position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020121)
+* **Grad Student specific advice**: [Ten Simple Rules for Graduate Students](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229) by Jenny Gu and Philip E Bourne. In my opinion, Rule 1 is valuable, but it is not the only key to success. 
+* **Grad Student specific advice**: [Ten Simple Rules for Finishing Your PhD](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954) by Jacopo Marino, Melanie I. Stefan, and Sarah Blackford
+* **Grad Student specific advice**: [Ten Simple Rules for Selecting a Postdoctoral Position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020121) by Philip E Bourne and Iddo Friedberg
 * Article: [Tips for PhD students & early career researchers](http://www.opiniomics.org/tips-for-phd-students-and-early-career-researchers/)
 * **Careers Beyond Academia**: [Ten Simple Rules for landing on the right job after your PhD or postdoc](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007723) by Kuan-lin Huang
-* **Careers Beyond Academia**: [Ten simple rules in considering a career in academia versus government](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005729)
-* **Careers Beyond Academia**: [Ten Simple Rules for Choosing between Industry and Academia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000388)
-* **Careers, General**: [Ten Simple Rules for Finding/Interviewing for a New Job](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003660)
-* **Becoming a Professor**: [The quest for postdoctoral independence: How to step out from the shadow of your principal investigator](https://www.nature.com/articles/d41586-018-06794-3)
-* **Becoming a Professor**: [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
-* **Becoming a Professor**: [Ten simple rules for giving an effective academic job talk](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007163)
-* **Becoming a Professor**:[Ten simple rules for writing a cover letter to accompany a job application for an academic position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006132)
-* **Running a Research Lab**: [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914)
+* **Careers Beyond Academia**: [Ten simple rules in considering a career in academia versus government](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005729) by Philip E. Bourne 
+* **Careers Beyond Academia**: [Ten Simple Rules for Choosing between Industry and Academia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000388) by David B. Searls
+* **Careers, General**: [Ten Simple Rules for Finding/Interviewing for a New Job](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003660) by Philip E. Bourne
+* **Becoming a Professor**: [The quest for postdoctoral independence: How to step out from the shadow of your principal investigator](https://www.nature.com/articles/d41586-018-06794-3) by Chris Woolston
+* **Becoming a Professor**: [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448) by John S. Tregoning and Jason E. McDermott 
+* **Becoming a Professor**: [Ten simple rules for giving an effective academic job talk](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007163) by Sura, Smith, Ambrose, Guerra Amorim, Beichman, Gomez, Juhn, Kandlikar,Miller, Mooney, Mummah, Lohmueller, and Lloyd-Smith.
+* **Becoming a Professor**:[Ten simple rules for writing a cover letter to accompany a job application for an academic position](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006132) by Lubomir Tomaska and Jozef Nosek
+* **Running a Research Lab**: [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914) by Fernando T. Maestre
 
 ---
  

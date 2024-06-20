@@ -53,19 +53,20 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 [LinkedIn Page](linkedin.com/in/vienna-elmgreen-1a0204220)
 <br><br><br><br>
 
-![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
-**Stratton Georgoulis** <br> 
-**Email:** georgoulis@ucdavis.edu <br>
-**B.S. Biochemistry** University of Texas-Austin <br>
-**Plant Pathology Graduate Group** UC Davis
-
-<br><br><br><br><br>
-
 ![Lisa Repetto](/assets/people/portrait_repetto.png){: .align-left width="200px"}
 **Lisa Repetto** <br>
 **Email:** lerepetto@ucdavis.edu<br>
 **B.S. Global Disease Biology** UC Davis<br>
 **Plant Pathology Graduate Group** UC Davis
+
+![Agnès BELLON](/assets/people/portrait_bellon.jpg){: .align-left width="200px"}
+**Agnès Bellon** <br>
+**Email:** agnes.bellon.ab@gmail.com<br>
+**B.S. Food and Biological Industries** University Institute of Technology of Reunion Island <br>
+**R&D intern** at UC Davis in the Lowe-Power Laboratory's plant pathology department<br>
+Master’s student in Biological Engineering, specializing in biotechnology at **Polytech Marseille – France**<br>
+[LinkedIn Page](www.linkedin.com/in/agnès-bellon-023041212)
+
 
 <br><br><br>
 ## Collaborating Grad Students and Postdocs
@@ -83,18 +84,15 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **Entomology graduate student in the [Siddique Lab](https://nemaplant.org/members/)**<br>
 **For fun:** boxing, video games, cats!
 
-
+![Benjamin Arbaugh](/assets/people/portrait_arbaugh.jpg){: .align-left width="200px"}
+**Ben Arbaugh** <br>
+**B.S. Biological and Agricultural Engineering** University of California Davis<br>
+**Ag & Bio Engineering graduate student in the [Jeoh Lab](https://faculty.engineering.ucdavis.edu/jeoh/research/jeoh-laboratory/)**<br>
 <br><br><br><br>
 
 
 
 ## #wUndergrads 
-![Saleena Bains](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Saleena Bains** <br>
-**Email:** skabains@ucdavis.edu <br>
-UC Davis Major: **Biochemistry**<br>
-
-<br><br><br><br><br>
 
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>
@@ -132,18 +130,6 @@ UC Davis Major: **Global Disease Biology**<br>
 **For fun:** Dungeons and Dragons and dancing<br>
 [LinkedIn Page]()
 <br><br><br><br><br>
-
-![Larissa Hayes](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Larissa Hayes** <br>
-**Email:** lrhayes@ucdavis.edu <br>
-UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
-
-![Riley Hudson](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Riley Hudson** <br>
-**Email:** rmhudson@ucdavis.edu<br>
-UC Davis Major: **Biotechnology**<br>
-<br><br><br><br><br><br>
 
 ![Laura Lemus](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Laura Lemus** <br>

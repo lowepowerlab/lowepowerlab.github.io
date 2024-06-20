@@ -34,6 +34,14 @@ Co-Mentored by Dr. Becky Parales <br>
 **For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his Papillon <br>
 **Current Position** PhD student at the University of British Columbia<br>
 
+![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
+**Stratton Georgoulis** <br> 
+**Email:** georgoulis@ucdavis.edu <br>
+**B.S. Biochemistry** University of Texas-Austin <br>
+**Plant Pathology Graduate Group** UC Davis
+
+<br><br><br><br><br>
+
 ## Junior Specialists
 ![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
 **Jason Avalos** <br> 
@@ -62,6 +70,26 @@ Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 <br>
 
 ## #wUndergrads 
+![Larissa Hayes](/assets/people/portrait_hayes.jpg){: .align-left width="200px"}
+**Larissa Hayes** <br>
+**Email:** lrhayes@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** Poetry & roller skating
+<br><br><br><br><br><br>
+
+![Saleena Bains](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Saleena Bains** <br>
+**Email:** skabains@ucdavis.edu <br>
+UC Davis Major: **Biochemistry**<br>
+
+<br><br><br><br><br>
+
+![Riley Hudson](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Riley Hudson** <br>
+**Email:** rmhudson@ucdavis.edu<br>
+UC Davis Major: **Biotechnology**<br>
+<br><br><br><br><br><br>
+
 
 ![Hussien Aysheh](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Hussien Aysheh** <br>

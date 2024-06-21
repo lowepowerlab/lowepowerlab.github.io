@@ -68,8 +68,6 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 Master’s student in Biological Engineering, specializing in biotechnology at **Polytech Marseille – France**<br>
 [LinkedIn Page](www.linkedin.com/in/agnès-bellon-023041212)
 
-
-<br><br><br>
 ## Collaborating Grad Students and Postdocs
 ![Alba Moreno Perez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Dr. Alba Moreno Perez** <br>

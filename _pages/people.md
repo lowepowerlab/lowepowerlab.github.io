@@ -83,6 +83,8 @@ Master’s student in Biological Engineering, specializing in biotechnology at *
 **B.S. Natural Resources and Environmental Sciences** University of Illinois Urbana-Champaign <br>
 **Entomology graduate student in the [Siddique Lab](https://nemaplant.org/members/)**<br>
 **For fun:** boxing, video games, cats!
+<br><br><br><br><br><br>
+
 
 ![Benjamin Arbaugh](/assets/people/portrait_arbaugh.jpg){: .align-left width="200px"}
 **Ben Arbaugh** <br>

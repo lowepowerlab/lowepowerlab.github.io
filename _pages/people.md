@@ -58,7 +58,8 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **Email:** lerepetto@ucdavis.edu<br>
 **B.S. Global Disease Biology** UC Davis<br>
 **Plant Pathology Graduate Group** UC Davis
-<br><br><br><br>
+<br><br><br><br><br><br>
+
 ![Agnès BELLON](/assets/people/portrait_bellon.jpg){: .align-left width="200px"}
 **Agnès Bellon** <br>
 **Email:** agnes.bellon.ab@gmail.com<br>

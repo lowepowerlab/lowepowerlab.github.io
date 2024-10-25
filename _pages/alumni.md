@@ -69,13 +69,62 @@ Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 **For fun:** knitting, pottery, food culture, Zumba & cats (love them, but highly allergic)<br>
 <br>
 
+![Isis Capellla](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Isis Capella** <br>
+**PhD Student** Universidade Federal Rio de Janiero. 
+ <br> <br> <br> <br> <br>
+
+
+![Agnès BELLON](/assets/people/portrait_bellon.jpg){: .align-left width="200px"}
+**Agnès Bellon** <br>
+**Email:** agnes.bellon.ab@gmail.com<br>
+**B.S. Food and Biological Industries** University Institute of Technology of Reunion Island <br>
+**R&D intern** at UC Davis in the Lowe-Power Laboratory's plant pathology department<br>
+Master’s student in Biological Engineering, specializing in biotechnology at **Polytech Marseille – France**<br>
+[LinkedIn Page](www.linkedin.com/in/agnès-bellon-023041212)
+
 ## #wUndergrads 
+![Laura Lemus](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Laura Lemus** <br>
+**Email:** lmlemus@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology**<br>
+<br><br><br><br><br><br>
+
+![April McClendon](/assets/people/portrait_mcclendon.png){: .align-left width="200px"}
+**April McClendon** <br>
+**Email:** avmcclendon@ucdavis.edu<br>
+UC Davis Major: **Global Disease Biology**<br>
+<br><br><br><br><br><br>
+
+![Vicky Vo](/assets/people/portrait_vo.png){: .align-left width="200px"}
+**Victoria Vo** <br>
+**Email:** vknvo@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology**<br>
+<br><br><br><br><br>
+
+![Ariana Enriquez](/assets/people/portrait_enriquez-ariana.jpg){: .align-left width="200px"}
+**Ariana Enriquez** <br>
+**Email:** <br>
+UC Davis Major: **Medical and Molecular Microbiology**<br>
+**For fun:** <br>
+<br><br><br><br>
+
 ![Larissa Hayes](/assets/people/portrait_hayes.jpg){: .align-left width="200px"}
 **Larissa Hayes** <br>
 **Email:** lrhayes@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** Poetry & roller skating
 <br><br><br><br><br><br>
+
+
+![Matt Dougan](/assets/people/portrait_dougan.png){: .align-left width="200px"}
+**Matt Dougan** <br>
+**Email:** mddougan@ucdavis.edu<br>
+UC Davis Major: **Global Disease Biology**<br>
+<br><br><br><br><br><br>
+
+
+
 
 ![Saleena Bains](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Saleena Bains** <br>

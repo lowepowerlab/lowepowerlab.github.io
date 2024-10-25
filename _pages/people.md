@@ -28,9 +28,27 @@ Assistant Professor <br>
 **PhD Plants-Microorganisms Interactions**, LIPME-INRAE (Toulouse, France)
 **Twitter:** [@Nat_Aoun](https://twitter.com/nat_aoun)
 For fun: hiking, biking and exploring new places. <br>
+[Google Scholar](https://scholar.google.com/citations?user=dgBe38gAAAAJ&hl=en)<br>
 [LinkedIn Page](https://www.linkedin.com/in/nathalie-aoun-ae-phd-a4b272179/)<br>
 <br><br><br><br>
 
+![Gina Shin](/assets/people/portrait_shin.jpg){: .align-left width="200px"}
+**Gina (Gi Yoon) Shin** <br> 
+**Email:** giyshin@ucdavis.edu <br>
+**M.S. Microbiology**, University of Pretoria (Pretoria, South Africa)<br>
+**PhD Microbiology**, University of Pretoria (Pretoria, South Africa)<br>
+**Postdoctoral Training** in Kvitko lab (Univ. Georgia) and Mitchum lab (Univ. Georgia)<br>
+[Google Scholar](https://scholar.google.com/citations?user=viEwN6AAAAAJ&hl=ko)<br>
+<br><br><br><br><br><br><br><br>
+
+## Junior Specialist 
+![Noah Guillome](/assets/people/portrait_guillome.jpg){: .align-left width="200px"}
+**Noah Guillome** <br>
+**Email:** <br>
+A.S. in Natural Sciences, Napa Valley College <br>
+B.S. **Global Disease Biology**<br>
+**For fun:** Dungeons and Dragons and dancing<br>
+<br><br><br><br><br>
 
 ## Graduate Student Researchers
 
@@ -60,14 +78,6 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **Plant Pathology Graduate Group** UC Davis
 <br><br><br><br><br><br>
 
-![Agnès BELLON](/assets/people/portrait_bellon.jpg){: .align-left width="200px"}
-**Agnès Bellon** <br>
-**Email:** agnes.bellon.ab@gmail.com<br>
-**B.S. Food and Biological Industries** University Institute of Technology of Reunion Island <br>
-**R&D intern** at UC Davis in the Lowe-Power Laboratory's plant pathology department<br>
-Master’s student in Biological Engineering, specializing in biotechnology at **Polytech Marseille – France**<br>
-[LinkedIn Page](www.linkedin.com/in/agnès-bellon-023041212)
-
 ## Collaborating Grad Students and Postdocs
 ![Alba Moreno Perez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Dr. Alba Moreno Perez** <br>
@@ -84,14 +94,11 @@ Master’s student in Biological Engineering, specializing in biotechnology at *
 **For fun:** boxing, video games, cats!
 <br><br><br><br><br><br>
 
-
 ![Benjamin Arbaugh](/assets/people/portrait_arbaugh.jpg){: .align-left width="200px"}
 **Ben Arbaugh** <br>
 **B.S. Biological and Agricultural Engineering** University of California Davis<br>
 **Ag & Bio Engineering graduate student in the [Jeoh Lab](https://faculty.engineering.ucdavis.edu/jeoh/research/jeoh-laboratory/)**<br>
 <br><br><br><br>
-
-
 
 ## #wUndergrads 
 
@@ -103,44 +110,9 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 
 <br><br><br><br><br>
 
-![Matt Dougan](/assets/people/portrait_dougan.png){: .align-left width="200px"}
-**Matt Dougan** <br>
-**Email:** mddougan@ucdavis.edu<br>
-UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
-
-
-![Ariana Enriquez](/assets/people/portrait_enriquez-ariana.jpg){: .align-left width="200px"}
-**Ariana Enriquez** <br>
-**Email:** <br>
-UC Davis Major: **Medical and Molecular Microbiology**<br>
-**For fun:** <br>
-<br><br><br><br>
-
 ![Samantha Green](/assets/people/portrait_green.png){: .align-left width="200px"}
 **Samantha Green** <br>
 **Email:** samgreen@ucdavis.edu <br>
-UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
-
-![Noah Guillome](/assets/people/portrait_guillome.jpg){: .align-left width="200px"}
-**Noah Guillome** <br>
-**Email:** <br>
-A.S. in Natural Sciences, Napa Valley College <br>
-UC Davis Major: **Global Disease Biology**<br>
-**For fun:** Dungeons and Dragons and dancing<br>
-[LinkedIn Page]()
-<br><br><br><br><br>
-
-![Laura Lemus](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Laura Lemus** <br>
-**Email:** lmlemus@ucdavis.edu <br>
-UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
-
-![April McClendon](/assets/people/portrait_mcclendon.png){: .align-left width="200px"}
-**April McClendon** <br>
-**Email:** avmcclendon@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
@@ -151,16 +123,11 @@ UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
 ![Ben Ramirez](/assets/people/portrait_ramirez.jpg){: .align-left width="200px"}
-**Ben Ramirez** <br>
+**Benjamin Ramirez** <br>
 **Email:** bhramirez@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
-![Vicky Vo](/assets/people/portrait_vo.png){: .align-left width="200px"}
-**Vicky Vo** <br>
-**Email:** vknvo@ucdavis.edu <br>
-UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br>
 
 ## Alumni
 

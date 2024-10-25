@@ -30,7 +30,7 @@ Assistant Professor <br>
 For fun: hiking, biking and exploring new places. <br>
 [Google Scholar](https://scholar.google.com/citations?user=dgBe38gAAAAJ&hl=en)<br>
 [LinkedIn Page](https://www.linkedin.com/in/nathalie-aoun-ae-phd-a4b272179/)<br>
-<br><br><br><br>
+<br><br><br>
 
 ![Gina Shin](/assets/people/portrait_shin.jpg){: .align-left width="200px"}
 **Gina (Gi Yoon) Shin** <br> 
@@ -39,7 +39,7 @@ For fun: hiking, biking and exploring new places. <br>
 **PhD Microbiology**, University of Pretoria (Pretoria, South Africa)<br>
 **Postdoctoral Training** in Kvitko lab (Univ. Georgia) and Mitchum lab (Univ. Georgia)<br>
 [Google Scholar](https://scholar.google.com/citations?user=viEwN6AAAAAJ&hl=ko)<br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## Junior Specialist 
 ![Noah Guillome](/assets/people/portrait_guillome.jpg){: .align-left width="200px"}
@@ -48,7 +48,7 @@ For fun: hiking, biking and exploring new places. <br>
 A.S. in Natural Sciences, Napa Valley College <br>
 B.S. **Global Disease Biology**<br>
 **For fun:** Dungeons and Dragons and dancing<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ## Graduate Student Researchers
 

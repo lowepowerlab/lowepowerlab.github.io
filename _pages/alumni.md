@@ -14,7 +14,7 @@ Co-Mentored by Dr. Becky Parales <br>
 **B.S. Bacteriology** UW-Madison <br>
 [**Google Scholar**](https://scholar.google.com/citations?user=dkiS81YAAAAJ&hl=en) <br>
 **Current Position:** Assistant Professor, University of Arizona. 
-<br><br><br>
+<br><br><br><br><br>
 
 ![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
 **Brian Ingel** <br> 
@@ -67,12 +67,12 @@ Principal Investigator from **Volcani Institute**, Israel (currently on Sabbatic
 **B.S.  Microbiology** Iowa State University<br>
 Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 **For fun:** knitting, pottery, food culture, Zumba & cats (love them, but highly allergic)<br>
-<br>
+<br><br>
 
 ![Isis Capellla](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Isis Capella** <br>
 **PhD Student** Universidade Federal Rio de Janiero. 
- <br> <br> <br> <br> <br>
+ <br> <br> <br> <br> <br><br>
 
 
 ![Agnès BELLON](/assets/people/portrait_bellon.jpg){: .align-left width="200px"}
@@ -100,7 +100,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **Victoria Vo** <br>
 **Email:** vknvo@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Ariana Enriquez](/assets/people/portrait_enriquez-ariana.jpg){: .align-left width="200px"}
 **Ariana Enriquez** <br>
@@ -156,8 +156,6 @@ UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 [LinkedIn Page](https://www.linkedin.com/in/yali-bai-5867aa204/)<br>
 <br><br><br><br><br><br>
 
-<br><br><br><br>
-
 ![Kaitlin White](/assets/people/portrait_white.jpg){: .align-left width="200px"}
 **Kaitlin White** <br>
 **Email:** <br>
@@ -179,8 +177,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **Email:** ammerino@ucdavis.edu <br>
 Major: Medical and Molecular Biology (Woodland Community College) <br>
 **For fun:** watching shows, hiking, trying new foods<br>
-<br>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ![Kasey Miqueo](/assets/people/portrait_miqueo.jpg){: .align-left width="200px"}
 **Kasey Miqueo** <br>
@@ -195,7 +192,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **Email:** <br>
 Visiting undergraduate student from the University of Sydney
 [LinkedIn Page](https://www.linkedin.com/in/henry-pomeroy-25a2b0261/)
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Ajay Sandhar](/assets/people/portrait_sandhar.jpg){: .align-left width="200px"}
 **Ajay Sandhar** <br>
@@ -242,14 +239,14 @@ Major: Biology with emphasis in Cellular Molecular Biology (CSU Northride) <br>
 **Email:**  rwchen@ucdavis.edu<br>
 UC Davis Major: **Medical and Molecular Microbiology**<br>
 **For fun:** <br> reading, birding, doing small magic tricks, and learning more about the sport of karuta 
-
+<br><br><br>
 ![Rama Parasar](/assets/people/portrait_parasar.jpg){: .align-left width="200px"}
 **Rama Parasar** <br>
 **Email:** <br>
 UC Davis Major: **Biological Sciences**<br>
 **For fun:** <br>
 [LinkedIn Page](https://www.linkedin.com/in/rama-parasar-218a44214/)
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ![Su Tun](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Su Tun** <br>
@@ -268,7 +265,7 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:**  I love to spend time with my boyfriend and family. I love going out to eat and just listening to music to relax.  
 
-<br><br><br><br>
+<br><br><br>
 
 ![Hashem Bkayrat](/assets/people/portrait_bkayrat.jpg){: .align-left width="200px"}
 **Hashem Bkayrat** <br>
@@ -338,9 +335,9 @@ Fall 2020 - Summer 2021 <br>
 UC Davis Major: **Global Disease Biology**  <br>
 Research Project: Maria worked on the global Ralstonia project <br>
 [LinkedIn Page](https://www.linkedin.com/in/maria-charco-munoz-1a2b93236/)<br>
-<br><br>
+<br><br><br>
 
-![Darrell Sparks](/assets/people/portrait_sparks.jpg){: .align-left width="200px"}**Darrell Sparks** <br> 
+![Darrell Sparks](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}**Darrell Sparks** <br> 
 Summer 2021 <br>
 **B.S. in Animal Science**  Fort Valley State University<br>
 **M.S. in Biotechnology**  Fort Valley State University<br>
@@ -353,7 +350,7 @@ Summer 2021 <br>
 **For Fun:** Make acrylic paintings, Read Sci-Fi/Fantasy, and Finding Good Vegan Spots. <br>
 Research Project: Darrielle worked on the global Ralstonia project and on data analysis under Jonathan Beutler and Stratton Georgoulis. 
 [LinkedIn Page](https://www.linkedin.com/in/darrielle-williams-19a372157/)<br>
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
 **Jason Avalos** <br> 
@@ -368,7 +365,7 @@ Winter - Spring 2021 <br>
 UC Davis Major: **Global Disease Biology**  <br>
 Research Project: Grace was mentored by Tiffany on a meta-analysis of hospital-acquired infections with Ralstonia spp. Grace taught us a lot about how cousins of our wilt pathogens cause infections in humans.  <br>
 [LinkedIn Page](https://www.linkedin.com/in/gracelankford/)<br>
-<br><br>
+<br>
 
 ![Elva Xian](/assets/people/portrait_xian.jpg){: .align-left width="200px"}
 **Elva Xian** <br> 

@@ -102,18 +102,52 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 
 ## #wUndergrads 
 
+![Erin Allyson Adea](/assets/people/portrait_adea.png){: .align-left width="200px"}
+**Erin Allyson Adea** <br>
+**Email:**  eradea@ucdavis.edu <br>
+UC Davis Major: **Entomology** <br>
+**For fun:** bug hunting, baking, and video games
+<br><br><br><br><br><br>
+
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>
 **Email:** tccowell@ucdavis.edu <br>
 UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 **For fun:** photography, reading, crafts <br>
-
 <br><br><br><br><br>
+
+![Ana Fierros](/assets/people/portrait_fierros.png){: .align-left width="200px"}
+**Ana Fierros** <br>
+**Email:**  akfierros@ucdavis.edu <br>
+UC Davis Major: **Biotechnology, Microbiology Emphasis** <br>
+**For fun:** Baking, Travel, Music
+<br><br><br><br><br><br>
 
 ![Samantha Green](/assets/people/portrait_green.png){: .align-left width="200px"}
 **Samantha Green** <br>
 **Email:** samgreen@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
+<br><br><br><br><br><br>
+
+![Miranda Jaramillo](/assets/people/portrait_jaramillo.png){: .align-left width="200px"}
+**Miranda Jaramillo** <br>
+**Email:**  mja@ucdavis.edu <br>
+UC Davis Major: ** Cell Biology** <br>
+**For fun:** music, knitting, ballroom dancing
+<br><br><br><br><br><br>
+
+![Jia Yu Liou](/assets/people/portrait_liou.png){: .align-left width="200px"}
+**Jia Yu Liou** <br>
+**Email:**  jliou@ucdavis.edu <br>
+UC Davis Major: **Microbiology** <br>
+**For fun:** looking at cats,  going on walks, and playing games
+<br><br><br><br><br><br>
+
+![Hana Mohammed](/assets/people/portrait_mohammed.png){: .align-left width="200px"}
+**Hana Mohammed** <br>
+**Email:** hmohamm@ucdavis.edu <br>
+UC Davis Major: **Microbology** and Minor in **Public Health**<br>
+**For fun:** hiking, horseback riding, traveling
 <br><br><br><br><br><br>
 
 ![Neha Prasad](/assets/people/portrait_prasad.png){: .align-left width="200px"}
@@ -128,9 +162,15 @@ UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
+![Siear Walizada](/assets/people/portrait_walizada.png){: .align-left width="200px"}
+**Sieae Walizada** <br>
+**Email:**  stwalizada@ucdavis.edu <br>
+UC Davis Major: **Biochemistry and Molecular Biology** <br>
+**For fun:** Biking, Chess, Video Games
+<br><br><br><br><br><br>
+
 
 ## Alumni
-
 Lab alumni are represented on the [Alumni page](/alumni).
 
 

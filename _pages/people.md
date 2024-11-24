@@ -102,7 +102,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 
 ## #wUndergrads 
 
-![Erin Allyson Adea](/assets/people/portrait_adea.png){: .align-left width="200px"}
+![Erin Allyson Adea](/assets/people/portrait_adea.jpg){: .align-left width="200px"}
 **Erin Allyson Adea** <br>
 **Email:**  eradea@ucdavis.edu <br>
 UC Davis Major: **Entomology** <br>
@@ -116,7 +116,7 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 **For fun:** photography, reading, crafts <br>
 <br><br><br><br><br>
 
-![Ana Fierros](/assets/people/portrait_fierros.png){: .align-left width="200px"}
+![Ana Fierros](/assets/people/portrait_fierros.jpg){: .align-left width="200px"}
 **Ana Fierros** <br>
 **Email:**  akfierros@ucdavis.edu <br>
 UC Davis Major: **Biotechnology, Microbiology Emphasis** <br>
@@ -129,14 +129,14 @@ UC Davis Major: **Biotechnology, Microbiology Emphasis** <br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
-![Miranda Jaramillo](/assets/people/portrait_jaramillo.png){: .align-left width="200px"}
+![Miranda Jaramillo](/assets/people/portrait_jaramillo.jpg){: .align-left width="200px"}
 **Miranda Jaramillo** <br>
 **Email:**  mja@ucdavis.edu <br>
 UC Davis Major: ** Cell Biology** <br>
 **For fun:** music, knitting, ballroom dancing
 <br><br><br><br><br><br>
 
-![Jia Yu Liou](/assets/people/portrait_liou.png){: .align-left width="200px"}
+![Jia Yu Liou](/assets/people/portrait_liou.jpg){: .align-left width="200px"}
 **Jia Yu Liou** <br>
 **Email:**  jliou@ucdavis.edu <br>
 UC Davis Major: **Microbiology** <br>

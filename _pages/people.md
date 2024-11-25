@@ -107,7 +107,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **Email:**  eradea@ucdavis.edu <br>
 UC Davis Major: **Entomology** <br>
 **For fun:** bug hunting, baking, and video games
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>
@@ -121,7 +121,7 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 **Email:**  akfierros@ucdavis.edu <br>
 UC Davis Major: **Biotechnology, Microbiology Emphasis** <br>
 **For fun:** Baking, Travel, Music
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![Samantha Green](/assets/people/portrait_green.png){: .align-left width="200px"}
 **Samantha Green** <br>

@@ -109,6 +109,14 @@ UC Davis Major: **Entomology** <br>
 **For fun:** bug hunting, baking, and video games
 <br><br><br><br><br><br><br>
 
+![Katherine Bohonak](/assets/people/portrait_bohonak.jpg){: .align-left width="200px"}
+**Katherine Bohonak** <br>
+**Email:** kjbohonak@gmail.com <br>
+UC Davis Major: **Global Disease Biology** <br>
+Minor: **Political Science**<br>
+**For fun:** Hiking, baking, and reading
+<br><br><br><br><br><br><br>
+
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>
 **Email:** tccowell@ucdavis.edu <br>

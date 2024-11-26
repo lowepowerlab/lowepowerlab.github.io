@@ -115,7 +115,7 @@ UC Davis Major: **Entomology** <br>
 UC Davis Major: **Global Disease Biology** <br>
 Minor: **Political Science**<br>
 **For fun:** Hiking, baking, and reading
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>

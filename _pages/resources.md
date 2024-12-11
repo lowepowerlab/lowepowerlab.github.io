@@ -111,6 +111,9 @@ permalink: /resources/
 * [Ten simple rules to make the most out of your undergraduate research career](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005484) by Megan Yu and Yu-Min Kuo
 * [Ten simple rules for getting the most out of a summer laboratory internship](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005606) by Toby P. Aicher, Dániel L. Barabási, Benjamin D. Harris, Ajay Nadig, and Kaitlin L. Williams. This advice applies to any undergraduate research experience. 
 
+## Career Advice -- Applying to Grad School
+* [Excellent Guidance on How to Develop your Personal Statement as a Researcher](https://mitcommlab.mit.edu/be/commkit/graduate-school-personal-statement/) by MIT Commkit
+
 ## Career Advice for Grad Students and/or Postdocs:
 * **Grad Student specific advice**: [Ten Simple Rules for Graduate Students](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229) by Jenny Gu and Philip E Bourne. In my opinion, Rule 1 is valuable, but it is not the only key to success. 
 * Grad Student specific advice: [Ten Simple Rules for Finishing Your PhD](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003954) by Jacopo Marino, Melanie I. Stefan, and Sarah Blackford

@@ -32,6 +32,14 @@ For fun: hiking, biking and exploring new places. <br>
 [LinkedIn Page](https://www.linkedin.com/in/nathalie-aoun-ae-phd-a4b272179/)<br>
 <br><br><br>
 
+![Katie MacGillivray](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Katie MacGillivray** <br> 
+**Email:** kmacgil@ucdavis.edu <br>
+**A.B. Chemistry**, Harvard University<br>
+**M.S. Biology**, New York University <br>
+**PhD Quantitative Biosciences**, Georgia Institute of Technology<br>
+<br><br><br><br><br><br><br><br><br>
+
 ![Gina Shin](/assets/people/portrait_shin.jpg){: .align-left width="200px"}
 **Gina (Gi Yoon) Shin** <br> 
 **Email:** giyshin@ucdavis.edu <br>
@@ -44,10 +52,17 @@ For fun: hiking, biking and exploring new places. <br>
 ## Junior Specialist 
 ![Noah Guillome](/assets/people/portrait_guillome.jpg){: .align-left width="200px"}
 **Noah Guillome** <br>
-**Email:** <br>
-A.S. in Natural Sciences, Napa Valley College <br>
-B.S. **Global Disease Biology**<br>
+**Email:** nrguillome@ucdavis.edu <br>
+**A.S. in Natural Sciences,** Napa Valley College <br>
+**B.S. Global Disease Biology**, UC Davis<br>
 **For fun:** Dungeons and Dragons and dancing<br>
+<br><br><br><br>
+
+![Evan Roybal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Evan Roybal** <br>
+**Email:** earoybal@ucdavis.edu<br>
+ **B.S. Biochemistry and Molecular Biology**, UC Davis<br>
+**For fun:** <br>
 <br><br><br><br>
 
 ## Graduate Student Researchers
@@ -143,6 +158,12 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: ** Cell Biology** <br>
 **For fun:** music, knitting, ballroom dancing
 <br><br><br><br><br><br>
+
+![Christian Lehr](/assets/people/portrait_lehr.jpg){: .align-left width="200px"}
+**Christian Lehr** <br>
+UC Davis Major: **Global Disease Biology** <br>
+**For fun:** Hiking, History, Music
+<br><br><br><br><br><br><br>
 
 ![Jia Yu Liou](/assets/people/portrait_liou.jpg){: .align-left width="200px"}
 **Jia Yu Liou** <br>

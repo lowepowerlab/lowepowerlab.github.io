@@ -132,6 +132,12 @@ Minor: **Political Science**<br>
 **For fun:** Hiking, baking, and reading
 <br><br><br><br><br>
 
+![Nicole Chong](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Nicole Chong** <br>
+**Email:** nicchong@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology**<br>
+<br><br><br><br><br><br>
+
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>
 **Email:** tccowell@ucdavis.edu <br>
@@ -150,6 +156,13 @@ UC Davis Major: **Biotechnology, Microbiology Emphasis** <br>
 **Samantha Green** <br>
 **Email:** samgreen@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
+<br><br><br><br><br><br>
+
+![Nicole He](/assets/people/portrait_he.jpg){: .align-left width="200px"}
+**Nicole He** <br>
+**Email:** nyhe@ucdavis.edu <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** Art, Hiking, Travel
 <br><br><br><br><br><br>
 
 ![Miranda Jaramillo](/assets/people/portrait_jaramillo.jpg){: .align-left width="200px"}
@@ -189,6 +202,12 @@ UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
 **Benjamin Ramirez** <br>
 **Email:** bhramirez@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
+<br><br><br><br><br><br>
+
+![Tiffany Su](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Tiffany Su** <br>
+**Email:** tmsu@ucdavis.edu <br>
+UC Davis Major: **Computer Science**<br>
 <br><br><br><br><br><br>
 
 ![Siear Walizada](/assets/people/portrait_walizada.png){: .align-left width="200px"}

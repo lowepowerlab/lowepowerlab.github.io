@@ -204,10 +204,11 @@ UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
-![Tiffany Su](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Tiffany Su](/assets/people/portrait_su.jpg){: .align-left width="200px"}
 **Tiffany Su** <br>
 **Email:** tmsu@ucdavis.edu <br>
 UC Davis Major: **Computer Science**<br>
+**For fun**: Hiking, reading, video games
 <br><br><br><br><br><br>
 
 ![Siear Walizada](/assets/people/portrait_walizada.png){: .align-left width="200px"}

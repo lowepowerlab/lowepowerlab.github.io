@@ -32,7 +32,7 @@ For fun: hiking, biking and exploring new places. <br>
 [LinkedIn Page](https://www.linkedin.com/in/nathalie-aoun-ae-phd-a4b272179/)<br>
 <br><br><br>
 
-![Katie MacGillivray](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Katie MacGillivray](/assets/people/portrait_macgillivray.jpg){: .align-left width="200px"}
 **Katie MacGillivray** <br> 
 **Email:** kmacgil@ucdavis.edu <br>
 **A.B. Chemistry**, Harvard University<br>
@@ -132,10 +132,11 @@ Minor: **Political Science**<br>
 **For fun:** Hiking, baking, and reading
 <br><br><br><br><br>
 
-![Nicole Chong](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Nicole Chong](/assets/people/portrait_chong.jpg){: .align-left width="200px"}
 **Nicole Chong** <br>
 **Email:** nicchong@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
+**For fun:** Skiing, hiking, baking
 <br><br><br><br><br><br>
 
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}

@@ -58,11 +58,11 @@ For fun: hiking, biking and exploring new places. <br>
 **For fun:** Dungeons and Dragons and dancing<br>
 <br><br><br><br>
 
-![Evan Roybal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Evan Roybal](/assets/people/portrait_roybal.jpg){: .align-left width="200px"}
 **Evan Roybal** <br>
 **Email:** earoybal@ucdavis.edu<br>
  **B.S. Biochemistry and Molecular Biology**, UC Davis<br>
-**For fun:** <br>
+**For fun:** reading, video games, and climbing <br>
 <br><br><br><br>
 
 ## Graduate Student Researchers

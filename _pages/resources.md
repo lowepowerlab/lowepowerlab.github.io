@@ -36,6 +36,9 @@ permalink: /resources/
 * [Anti-Racism Resources from the American Phytopathological Society](https://www.apsnet.org/members/community/AntiRacismResources/Pages/default.aspx)
 
 ## Science resources
+### Other Lists of Resources
+* Uri Alon maintains a great list of valuable resources in his ["Nurturing Science" page of his website](https://www.weizmann.ac.il/mcb/alon/nurturing-science)
+
 ## Experimental (Methods, training resources, etc)
 * [Lowe-Power lab protocols](https://github.com/lowepowerlab/protocols)
 * [iBiology's Let's Experiment](https://courses.ibiology.org/courses/course-v1:iBiology+LE+SP/about).  A self-paced online class (5 weeks; ~3 hrs / week) that will give concrete steps and advice to help you build a framework for how to design experiments in biological research. 
@@ -61,6 +64,7 @@ permalink: /resources/
 * Revising and improving: [Effective and High Impact Writing (pdf)](/assets/resources/effective_high_impact_scientific_writing.pdf) handout from ASM workshop led by Dr. Susan Marriott and Dr. Sonia Morgan-Linnell. This will help you diagnose 'bad writing' and revise your writing. 
 * Revising and improving: [Science of scientific writing (pdf)](/assets/resources/science_of_writing.pdf) by George Dopen and Judith Swan
 * [Bacterial genetics: A how-to guide to notation on naming bacterial genotypes and phenotypes ](/assets/resources/Common_notations_in_bacterial_genetics.docx) by Tiffany Lowe-Power
+* [Playlist of Recorded Lectures on Effective Writing from Leadership Lab](https://www.youtube.com/playlist?list=PL9fnJ7Mwv3E1_BFnHLjc-JCZmswUltobs)
 
 ### Research Papers and Reviews
 * [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) by Brett Mensh and Konrad Kording 

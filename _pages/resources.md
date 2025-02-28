@@ -3,42 +3,7 @@ title: Resources
 permalink: /resources/
 ---
 
-## General Advice for Navigating the Hidden Curriculum of Academia
-* [Academic Secret Menu google doc](https://docs.google.com/document/d/1Cl_u8Qq4DD6ROKH4SNThxyLF7UWTWuWKEaVhrKCJqOw/edit)
-
-## Inclusion, Diversity, and Equity resources
-
-## Imposter Syndrome and Mental Health Resources
-* [Impostor Syndrome and You: A Discussion of a Little-Discussed Phenomenon](https://www.ismpmi.org/members/Interactions/Lists/Posts/Post.aspx?ID=178) published in Molecular Plant-Microbe Interactions, an American Phytopathological Society Journal
-* [Dr. Lowe-Power's open letter about living with Anxiety and Depression as a scientist](https://twitter.com/TLowePower/status/1309222113299972097?s=20)
-* UC Davis has Therapists who serve as bridges to help navigate acute and chronic mental health:
- * [Academic and Staff Assistance Program](https://www.hr.ucdavis.edu/departments/asap) for graduate students, postdocs, faculty, and other UC Davis employees.
- * [Counseling Services through Graduate Studies](https://grad.ucdavis.edu/resources/help-and-support/mental-health-and-counseling) -- a second resource for graduate students.
- 
-## Building inclusion
-* [How LGBT+ scientists would like to be included and welcomed in STEM workplaces](https://www.nature.com/articles/d41586-020-02949-3). Highly recommended reading for examples of how to welcome and build inclusion for marginalized scientists. 
-* [Dr. Beronda Montgomery's Keynote Talk](https://www.youtube.com/watch?v=H3QRI7hM9nY&ab_channel=BlackInMicrobiology) for #BlackInMicrobiology week 2020. An excellent presentation and Q&A to watch to understand the importance of an inclusive climate and mentoring and for wisdom about developing your academic path.  1 hr and worth it. 
-* [Compilation of published DEI studies and guidelines; compiled by WISELI at UW-Madison](https://www.zotero.org/groups/178520/wiseli_library/collections/2ZEMARBE)
-
-## Avoiding/confronting *Implicit Bias*
-* [Beginner's guide to confronting implicit bias](https://4566682b-d3b6-46de-80c5-2bb20127befe.filesusr.com/ugd/c273c7_73f4e5c6bfe64d898aeb3f99e18cb3b0.pdf) by [Victoria Alexandria](https://twitter.com/victoriaalxndr)
-* [Avoiding racial bias in reading & writing Letters of Recommendation](https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf) from Dr. Asmeret Asefaw Berhe, who has more [equity resources on her website](https://aaberhe.com/equity/)
-* [Avoiding gender bias in reading & writing Letters of Recommendation](https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)
-* [Materials to host 1 hr workshop on implicit bias in letters of recommendation](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters)
-
-## Resources for Faculty
-* [UC Davis STEM Faculty Resource Guide  - For Faculty Starting to Learn about Equity, Inclusion, Justice and Anti Racism](https://tinyurl.com/ucd-equity)
-* Rubrics for departmental self-assessments: 
-  * From American Astronomical Society [(Rubric begins on page 63 of the report)](https://baas.aas.org/pub/2019i0101/release/1)
-  * From American Institute of Physics [(Appendix 8 in the Task Force Report)](https://www.aip.org/diversity-initiatives/team-up-task-force)
-* Funding opportunities for graduate fellowships to support underrepresented trainees
-  * [USDA National Needs Fellowships](https://nifa.usda.gov/program/national-needs-graduate-and-postgraduate-fellowship-grants-program-funding-opportunity-nnf)
-* [Anti-Racism Resources from the American Phytopathological Society](https://www.apsnet.org/members/community/AntiRacismResources/Pages/default.aspx)
-
 ## Science resources
-### Other Lists of Resources
-* Uri Alon maintains a great list of valuable resources in his ["Nurturing Science" page of his website](https://www.weizmann.ac.il/mcb/alon/nurturing-science)
-
 ## Experimental (Methods, training resources, etc)
 * [Lowe-Power lab protocols](https://github.com/lowepowerlab/protocols)
 * [iBiology's Let's Experiment](https://courses.ibiology.org/courses/course-v1:iBiology+LE+SP/about).  A self-paced online class (5 weeks; ~3 hrs / week) that will give concrete steps and advice to help you build a framework for how to design experiments in biological research. 
@@ -64,7 +29,6 @@ permalink: /resources/
 * Revising and improving: [Effective and High Impact Writing (pdf)](/assets/resources/effective_high_impact_scientific_writing.pdf) handout from ASM workshop led by Dr. Susan Marriott and Dr. Sonia Morgan-Linnell. This will help you diagnose 'bad writing' and revise your writing. 
 * Revising and improving: [Science of scientific writing (pdf)](/assets/resources/science_of_writing.pdf) by George Dopen and Judith Swan
 * [Bacterial genetics: A how-to guide to notation on naming bacterial genotypes and phenotypes ](/assets/resources/Common_notations_in_bacterial_genetics.docx) by Tiffany Lowe-Power
-* [Playlist of Recorded Lectures on Effective Writing from Leadership Lab](https://www.youtube.com/playlist?list=PL9fnJ7Mwv3E1_BFnHLjc-JCZmswUltobs)
 
 ### Research Papers and Reviews
 * [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) by Brett Mensh and Konrad Kording 
@@ -138,3 +102,26 @@ permalink: /resources/
 ## Scientific Teaching
 * [Repository of Plant Pathology papers that are well-suited to classroom teaching](https://forms.gle/fn8BDPqk1EhArurM7) 
 * UC Davis Center for Educational Effectiveness has a repository of [books on effective teaching](https://www.library.ucdavis.edu/guide/center-for-educational-effectiveness-cee-resources/). UC Davis folks can log in and read them for free. Most are pretty cheap used on Amazon if you want a hard copy. 
+
+
+---
+
+
+## General Advice for Navigating the Hidden Curriculum of Academia
+* [Academic Secret Menu google doc](https://docs.google.com/document/d/1Cl_u8Qq4DD6ROKH4SNThxyLF7UWTWuWKEaVhrKCJqOw/edit)
+
+## Imposter Syndrome and Mental Health Resources
+* [Impostor Syndrome and You: A Discussion of a Little-Discussed Phenomenon](https://www.ismpmi.org/members/Interactions/Lists/Posts/Post.aspx?ID=178) published in Molecular Plant-Microbe Interactions, an American Phytopathological Society Journal
+* UC Davis has Therapists who serve as bridges to help navigate acute and chronic mental health:
+ * [Academic and Staff Assistance Program](https://www.hr.ucdavis.edu/departments/asap) for graduate students, postdocs, faculty, and other UC Davis employees.
+ * [Counseling Services through Graduate Studies](https://grad.ucdavis.edu/resources/help-and-support/mental-health-and-counseling) -- a second resource for graduate students.
+ 
+## Building inclusion
+* [Building a welcoming in STEM workplaces](https://www.nature.com/articles/d41586-020-02949-3). Highly recommended reading for examples of how to welcome and build inclusion. 
+* [Dr. Beronda Montgomery's Keynote Talk](https://www.youtube.com/watch?v=H3QRI7hM9nY&ab_channel=BlackInMicrobiology). An excellent presentation and Q&A to watch to understand the importance of an inclusive climate and mentoring and for wisdom about developing your academic path.  1 hr and worth it. 
+* [Compilation of published studies and guidelines; compiled by WISELI at UW-Madison](https://www.zotero.org/groups/178520/wiseli_library/collections/2ZEMARBE)
+* [Beginner's guide](https://4566682b-d3b6-46de-80c5-2bb20127befe.filesusr.com/ugd/c273c7_73f4e5c6bfe64d898aeb3f99e18cb3b0.pdf) by [Victoria Alexandria](https://twitter.com/victoriaalxndr)
+* [Advice for writing Letters of Recommendation](https://aaberhe.files.wordpress.com/2019/03/avoiding-racial-bias-in-reference-writing.pdf)
+* [Avoiding gender bias in reading & writing Letters of Recommendation](https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)
+* [Materials to host 1 hr workshop on implicit bias in letters of recommendation](https://github.com/lowepowerlab/workshop_implicit_bias_rec_letters)
+* [Resources from the American Phytopathological Society](https://www.apsnet.org/members/community/AntiRacismResources/Pages/default.aspx)

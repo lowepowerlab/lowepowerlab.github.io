@@ -38,18 +38,39 @@ For fun: hiking, biking and exploring new places. <br>
 **A.B. Chemistry**, Harvard University<br>
 **M.S. Biology**, New York University <br>
 **PhD Quantitative Biosciences**, Georgia Institute of Technology<br>
+[Google Scholar](https://scholar.google.com/citations?user=XXciNO4AAAAJ&hl=en)<br>
 <br><br><br><br><br><br><br><br><br>
 
 ![Gina Shin](/assets/people/portrait_shin.jpg){: .align-left width="200px"}
 **Gina (Gi Yoon) Shin** <br> 
 **Email:** giyshin@ucdavis.edu <br>
 **M.S. Microbiology**, University of Pretoria (Pretoria, South Africa)<br>
-**PhD Microbiology**, University of Pretoria (Pretoria, South Africa)<br>
+**Ph.D. Microbiology**, University of Pretoria (Pretoria, South Africa)<br>
 **Postdoctoral Training** in Kvitko lab (Univ. Georgia) and Mitchum lab (Univ. Georgia)<br>
-[Google Scholar](https://scholar.google.com/citations?user=viEwN6AAAAAJ&hl=ko)<br>
+[Google Scholar](https://scholar.google.com/citations?user=viEwN6AAAAAJ&hl)<br>
 <br><br><br><br><br><br><br><br><br>
 
-## Junior Specialist 
+## Visiting Postdoc
+![Rafa de Rezende](/assets/people/portrait_derezende.jpg){: .align-left width="200px"}
+**Rafael (Rafa) de Rezende** <br> 
+**Email:** rafael.r.rezende@ufv.br <br>
+**B.S. Biological Sciences**, Universidade Federal de São João Del-Rei, Brazil
+**M.S. Agronomy**, Universidade Federal de Viçosa, Brazil<br>
+**Ph.D. Agronomy**, Universidade Federal de Viçosa, Brazil<br>
+**Postdoctoral Training** in Alfenas-Zerbini lab (Universidade Federal de Viçosa, Brazil)<br>
+[Google Scholar](https://scholar.google.com/citations?user=O-ri2HEAAAAJ&hl)<br>
+<br><br><br><br><br><br><br><br><br>
+
+## Specialists 
+![Vienna Elmgreen](/assets/people/portrait_elmgreen.jpg){: .align-left width="200px"}
+**Vienna Elmgreen** <br> 
+**Email:** vnelmgreen@ucdavis.edu <br>
+**B.S. Genetics**, Minor Women's Studies, University of Georgia <br>
+**Integrated Genetics and Genomics Graduate Group** UC Davis<br>
+For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
+[LinkedIn Page](linkedin.com/in/vienna-elmgreen-1a0204220)
+<br><br><br><br>
+
 ![Noah Guillome](/assets/people/portrait_guillome.jpg){: .align-left width="200px"}
 **Noah Guillome** <br>
 **Email:** nrguillome@ucdavis.edu <br>
@@ -77,15 +98,6 @@ For fun: video games, bouldering, gardening, and more!<br>
 [LinkedIn Page](https://www.linkedin.com/in/matthew-cope-arguello-7233b322a/)
 <br><br><br>
 
-![Vienna Elmgreen](/assets/people/portrait_elmgreen.jpg){: .align-left width="200px"}
-**Vienna Elmgreen** <br> 
-**Email:** vnelmgreen@ucdavis.edu <br>
-**B.S. Genetics**, Minor Women's Studies, University of Georgia <br>
-**Integrated Genetics and Genomics Graduate Group** UC Davis<br>
-For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
-[LinkedIn Page](linkedin.com/in/vienna-elmgreen-1a0204220)
-<br><br><br><br>
-
 ![Lisa Repetto](/assets/people/portrait_repetto.png){: .align-left width="200px"}
 **Lisa Repetto** <br>
 **Email:** lerepetto@ucdavis.edu<br>
@@ -94,6 +106,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 <br><br><br><br><br><br>
 
 ## Collaborating Grad Students and Postdocs
+
 ![Alba Moreno Perez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Dr. Alba Moreno Perez** <br>
 **Email:** amorenop@ucdavis.edu<br>

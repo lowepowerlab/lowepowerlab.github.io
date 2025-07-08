@@ -39,7 +39,7 @@ For fun: hiking, biking and exploring new places. <br>
 **M.S. Biology**, New York University <br>
 **PhD Quantitative Biosciences**, Georgia Institute of Technology<br>
 [Google Scholar](https://scholar.google.com/citations?user=XXciNO4AAAAJ&hl=en)<br>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ![Gina Shin](/assets/people/portrait_shin.jpg){: .align-left width="200px"}
 **Gina (Gi Yoon) Shin** <br> 
@@ -48,7 +48,7 @@ For fun: hiking, biking and exploring new places. <br>
 **Ph.D. Microbiology**, University of Pretoria (Pretoria, South Africa)<br>
 **Postdoctoral Training** in Kvitko lab (Univ. Georgia) and Mitchum lab (Univ. Georgia)<br>
 [Google Scholar](https://scholar.google.com/citations?user=viEwN6AAAAAJ&hl)<br>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Visiting Postdoc
 ![Rafa de Rezende](/assets/people/portrait_derezende.jpg){: .align-left width="200px"}

@@ -50,17 +50,6 @@ For fun: hiking, biking and exploring new places. <br>
 [Google Scholar](https://scholar.google.com/citations?user=viEwN6AAAAAJ&hl)<br>
 <br><br><br><br>
 
-## Visiting Postdoc
-![Rafa de Rezende](/assets/people/portrait_derezende.jpg){: .align-left width="200px"}
-**Rafael (Rafa) de Rezende** <br> 
-**Email:** rafael.r.rezende@ufv.br <br>
-**B.S. Biological Sciences**, Universidade Federal de São João Del-Rei, Brazil
-**M.S. Agronomy**, Universidade Federal de Viçosa, Brazil<br>
-**Ph.D. Agronomy**, Universidade Federal de Viçosa, Brazil<br>
-**Postdoctoral Training** in Alfenas-Zerbini lab (Universidade Federal de Viçosa, Brazil)<br>
-[Google Scholar](https://scholar.google.com/citations?user=O-ri2HEAAAAJ&hl)<br>
-<br><br><br><br><br><br><br><br><br>
-
 ## Specialists 
 ![Vienna Elmgreen](/assets/people/portrait_elmgreen.jpg){: .align-left width="200px"}
 **Vienna Elmgreen** <br> 
@@ -69,14 +58,6 @@ For fun: hiking, biking and exploring new places. <br>
 **Integrated Genetics and Genomics Graduate Group** UC Davis<br>
 For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 [LinkedIn Page](linkedin.com/in/vienna-elmgreen-1a0204220)
-<br><br><br><br>
-
-![Noah Guillome](/assets/people/portrait_guillome.jpg){: .align-left width="200px"}
-**Noah Guillome** <br>
-**Email:** nrguillome@ucdavis.edu <br>
-**A.S. in Natural Sciences,** Napa Valley College <br>
-**B.S. Global Disease Biology**, UC Davis<br>
-**For fun:** Dungeons and Dragons and dancing<br>
 <br><br><br><br>
 
 ![Evan Roybal](/assets/people/portrait_roybal.jpg){: .align-left width="200px"}
@@ -88,6 +69,14 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 
 ## Graduate Student Researchers
 
+![Nicolas Bonagura](/assets/people/portrait_bonagura.jpg){: .align-left width="200px"}
+**Nicolas Bonagura** <br>
+**Email:** nbonagura@ucdavis.edu <br>
+**B.S. Biochemistry and Molecular Biology**<br> UC Davis
+**Microbiology Graduate Group** UC Davis<br>
+[LinkedIn Page](https://www.linkedin.com/in/nicolas-bonagura-68332122b/)<br>
+<br><br><br><br>
+
 ![Matt Cope-Arguello](/assets/people/portrait_cope-arguello.jpg){: .align-left width="200px"}
 **Matt Cope-Arguello** <br> 
 **Email:** mcope@ucdavis.edu <br>
@@ -97,6 +86,15 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 For fun: video games, bouldering, gardening, and more!<br>
 [LinkedIn Page](https://www.linkedin.com/in/matthew-cope-arguello-7233b322a/)
 <br><br><br>
+
+![Noah Guillome](/assets/people/portrait_guillome.jpg){: .align-left width="200px"}
+**Noah Guillome** <br>
+**Email:** nrguillome@ucdavis.edu <br>
+**A.S. in Natural Sciences,** Napa Valley College <br>
+**B.S. Global Disease Biology**, UC Davis<br>
+**Microbiology Graduate Group** UC Davis<br>
+**For fun:** Dungeons and Dragons and dancing<br>
+<br><br><br><br>
 
 ![Lisa Repetto](/assets/people/portrait_repetto.png){: .align-left width="200px"}
 **Lisa Repetto** <br>
@@ -122,28 +120,8 @@ For fun: video games, bouldering, gardening, and more!<br>
 **For fun:** boxing, video games, cats!
 <br><br><br><br><br><br>
 
-![Benjamin Arbaugh](/assets/people/portrait_arbaugh.jpg){: .align-left width="200px"}
-**Ben Arbaugh** <br>
-**B.S. Biological and Agricultural Engineering** University of California Davis<br>
-**Ag & Bio Engineering graduate student in the [Jeoh Lab](https://faculty.engineering.ucdavis.edu/jeoh/research/jeoh-laboratory/)**<br>
-<br><br><br><br>
-
 ## #wUndergrads 
 
-![Erin Allyson Adea](/assets/people/portrait_adea.jpg){: .align-left width="200px"}
-**Erin Allyson Adea** <br>
-**Email:**  eradea@ucdavis.edu <br>
-UC Davis Major: **Entomology** <br>
-**For fun:** bug hunting, baking, and video games
-<br><br><br><br><br><br><br>
-
-![Katherine Bohonak](/assets/people/portrait_bohonak.jpg){: .align-left width="200px"}
-**Katherine Bohonak** <br>
-**Email:** kjbohonak@gmail.com <br>
-UC Davis Major: **Global Disease Biology** <br>
-Minor: **Political Science**<br>
-**For fun:** Hiking, baking, and reading
-<br><br><br><br><br>
 
 ![Nicole Chong](/assets/people/portrait_chong.jpg){: .align-left width="200px"}
 **Nicole Chong** <br>
@@ -159,19 +137,6 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 **For fun:** photography, reading, crafts <br>
 <br><br><br><br><br>
 
-![Ana Fierros](/assets/people/portrait_fierros.jpg){: .align-left width="200px"}
-**Ana Fierros** <br>
-**Email:**  akfierros@ucdavis.edu <br>
-UC Davis Major: **Biotechnology, Microbiology Emphasis** <br>
-**For fun:** Baking, Travel, Music
-<br><br><br><br><br><br><br>
-
-![Samantha Green](/assets/people/portrait_green.png){: .align-left width="200px"}
-**Samantha Green** <br>
-**Email:** samgreen@ucdavis.edu <br>
-UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
-
 ![Nicole He](/assets/people/portrait_he.jpg){: .align-left width="200px"}
 **Nicole He** <br>
 **Email:** nyhe@ucdavis.edu <br>
@@ -185,12 +150,6 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: ** Cell Biology** <br>
 **For fun:** music, knitting, ballroom dancing
 <br><br><br><br><br><br>
-
-![Christian Lehr](/assets/people/portrait_lehr.jpg){: .align-left width="200px"}
-**Christian Lehr** <br>
-UC Davis Major: **Global Disease Biology** <br>
-**For fun:** Hiking, History, Music
-<br><br><br><br><br><br><br>
 
 ![Jia Yu Liou](/assets/people/portrait_liou.jpg){: .align-left width="200px"}
 **Jia Yu Liou** <br>
@@ -210,26 +169,6 @@ UC Davis Major: **Microbology** and Minor in **Public Health**<br>
 **Neha Prasad** <br>
 **Email:** nnprasad@ucdavis.edu <br>
 UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
-<br><br><br><br><br><br>
-
-![Ben Ramirez](/assets/people/portrait_ramirez.jpg){: .align-left width="200px"}
-**Benjamin Ramirez** <br>
-**Email:** bhramirez@ucdavis.edu <br>
-UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
-
-![Tiffany Su](/assets/people/portrait_su.jpg){: .align-left width="200px"}
-**Tiffany Su** <br>
-**Email:** tmsu@ucdavis.edu <br>
-UC Davis Major: **Computer Science**<br>
-**For fun**: Hiking, reading, video games
-<br><br><br><br><br><br>
-
-![Siear Walizada](/assets/people/portrait_walizada.png){: .align-left width="200px"}
-**Sieae Walizada** <br>
-**Email:**  stwalizada@ucdavis.edu <br>
-UC Davis Major: **Biochemistry and Molecular Biology** <br>
-**For fun:** Biking, Chess, Video Games
 <br><br><br><br><br><br>
 
 

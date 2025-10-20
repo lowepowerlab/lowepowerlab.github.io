@@ -128,7 +128,7 @@ For fun: video games, bouldering, gardening, and more!<br>
 **Email:** nicchong@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** Skiing, hiking, baking
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>

@@ -58,7 +58,7 @@ Jason is working jointly in the Parales lab and Lowe-Power lab at UC Davis.
 **Ph.D. Agronomy**, Universidade Federal de Viçosa, Brazil<br>
 **Postdoctoral Training** in Alfenas-Zerbini lab (Universidade Federal de Viçosa, Brazil)<br>
 [Google Scholar](https://scholar.google.com/citations?user=O-ri2HEAAAAJ&hl)<br>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Ofir Bahar](/assets/people/portrait_bahar.jpg){: .align-left width="200px"}
 **Ofir Bahar, PhD ** <br>

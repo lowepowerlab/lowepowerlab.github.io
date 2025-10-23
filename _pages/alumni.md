@@ -14,7 +14,8 @@ Co-Mentored by Dr. Becky Parales <br>
 **B.S. Bacteriology** UW-Madison <br>
 [**Google Scholar**](https://scholar.google.com/citations?user=dkiS81YAAAAJ&hl=en) <br>
 **Current Position:** Assistant Professor, University of Arizona. 
-<br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/becca-schomer-ba3591b2/)<br>
+<br><br><br><br>
 
 ![Brian Ingel](/assets/people/portrait_ingel.jpg){: .align-left width="200px"}
 **Brian Ingel** <br> 
@@ -22,25 +23,27 @@ Co-Mentored by Dr. Becky Parales <br>
 **PhD Plant Pathology** UC-Riverside <br>
 **B.S. Biochemistry & Molecular Biology** UC-Davis <br>
 **Current Position** Environmental Scientist at the California Department of Pesticide Regulation
-<br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/brian-ingel-0a936b210/) <br>
+<br><br><br>
 
 ## Graduate Student Researchers
 ![Jonathan Beutler](/assets/people/portrait_beutler.jpg){: .align-left width="200px"}
 **Jonathan Beutler** <br> 
 **Email:** jdbeutler@ucdavis.edu@ucdavis.edu <br>
 **B.S. Environmental Science, Policy, and Management** University of Minnesota, Twin Cities <br>
-**International Agricultural Development Graduate Group**, UC Davis
-<br><br><br>
+**International Agricultural Development Graduate Group**, UC Davis<br>
 **For Fun:**  Planting Fruit Trees, Snowboarding, Biking Windy Roads, and Hiking with Butters - his Papillon <br>
 **Current Position** PhD student at the University of British Columbia<br>
+[LinkedIn Page](https://www.linkedin.com/in/jonathan-beutler-6700b1269/)<br>
+<br>
 
 ![Stratton Georgoulis](/assets/people/portrait_georgoulis.jpg){: .align-left width="200px"}
 **Stratton Georgoulis** <br> 
 **Email:** georgoulis@ucdavis.edu <br>
 **B.S. Biochemistry** University of Texas-Austin <br>
-**Plant Pathology Graduate Group** UC Davis
-
-<br><br><br><br><br>
+**Plant Pathology Graduate Group** UC Davis<br>
+[LinkedIn Page](https://www.linkedin.com/in/stratton-georgoulis-083580300/)
+<br><br><br><br>
 
 ## Junior Specialists
 ![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
@@ -58,7 +61,8 @@ Jason is working jointly in the Parales lab and Lowe-Power lab at UC Davis.
 **Ph.D. Agronomy**, Universidade Federal de Viçosa, Brazil<br>
 **Postdoctoral Training** in Alfenas-Zerbini lab (Universidade Federal de Viçosa, Brazil)<br>
 [Google Scholar](https://scholar.google.com/citations?user=O-ri2HEAAAAJ&hl)<br>
-<br><br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/rafael-reis-de-rezende-451916201/)<br>
+<br><br><br><br><br>
 
 ![Ofir Bahar](/assets/people/portrait_bahar.jpg){: .align-left width="200px"}
 **Ofir Bahar, PhD ** <br>
@@ -77,12 +81,13 @@ Principal Investigator from **Volcani Institute**, Israel (currently on Sabbatic
 **B.S.  Microbiology** Iowa State University<br>
 Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 **For fun:** knitting, pottery, food culture, Zumba & cats (love them, but highly allergic)<br>
-<br><br>
+[LinkedIn Page](https://www.linkedin.com/in/mariama-carter-phd/)<br>
+<br>
 
-![Isis Capellla](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Isis Capella](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Isis Capella** <br>
 **PhD Student** Universidade Federal Rio de Janiero. 
- <br> <br> <br> <br> <br><br>
+ <br> <br> <br> <br> <br><br><br><br>
 
 
 ![Agnès BELLON](/assets/people/portrait_bellon.jpg){: .align-left width="200px"}
@@ -99,7 +104,8 @@ Master’s student in Biological Engineering, specializing in biotechnology at *
 **Ben Arbaugh** <br>
 **B.S. Biological and Agricultural Engineering** University of California Davis<br>
 **Ag & Bio Engineering graduate student in the [Jeoh Lab](https://faculty.engineering.ucdavis.edu/jeoh/research/jeoh-laboratory/)**<br>
-<br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/bmarbaugh/)<br>
+<br><br><br>
 
 ## #wUndergrads 
 
@@ -115,33 +121,39 @@ UC Davis Major: **Entomology** <br>
 **Email:** kjbohonak@gmail.com <br>
 UC Davis Major: **Global Disease Biology** <br>
 Minor: **Political Science**<br>
-**For fun:** Hiking, baking, and reading
-<br><br><br><br><br>
+**For fun:** Hiking, baking, and reading<br>
+[LinkedIn Page](https://www.linkedin.com/in/erinaradea/)<br>
+<br><br><br>
+
 ![Ana Fierros](/assets/people/portrait_fierros.jpg){: .align-left width="200px"}
 **Ana Fierros** <br>
 **Email:**  akfierros@ucdavis.edu <br>
 UC Davis Major: **Biotechnology, Microbiology Emphasis** <br>
-**For fun:** Baking, Travel, Music
-<br><br><br><br><br><br><br>
+**For fun:** Baking, Travel, Music<br>
+[LinkedIn Page](https://www.linkedin.com/in/ana-fierros-24b16120b/)<br>
+<br><br><br><br><br>
 
 ![Samantha Green](/assets/people/portrait_green.png){: .align-left width="200px"}
 **Samantha Green** <br>
 **Email:** samgreen@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/samantha-green-1751111ba/)<br>
+<br><br><br><br><br>
 
 
 ![Christian Lehr](/assets/people/portrait_lehr.jpg){: .align-left width="200px"}
 **Christian Lehr** <br>
 UC Davis Major: **Global Disease Biology** <br>
-**For fun:** Hiking, History, Music
-<br><br><br><br><br><br><br>
+**For fun:** Hiking, History, Music<br>
+[LinkedIn Page](https://www.linkedin.com/in/christian-lehr-cojti-a59182304/)<br>
+<br><br><br><br><br>
 
 ![Ben Ramirez](/assets/people/portrait_ramirez.jpg){: .align-left width="200px"}
 **Benjamin Ramirez** <br>
 **Email:** bhramirez@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/benjamin-ramirez-4a9041241/)<br>
+<br><br><br><br><br>
 
 ![Tiffany Su](/assets/people/portrait_su.jpg){: .align-left width="200px"}
 **Tiffany Su** <br>
@@ -151,44 +163,48 @@ UC Davis Major: **Computer Science**<br>
 <br><br><br><br><br><br>
 
 ![Siear Walizada](/assets/people/portrait_walizada.png){: .align-left width="200px"}
-**Sieae Walizada** <br>
+**Siear Walizada** <br>
 **Email:**  stwalizada@ucdavis.edu <br>
 UC Davis Major: **Biochemistry and Molecular Biology** <br>
-**For fun:** Biking, Chess, Video Games
-<br><br><br><br><br><br>
+**For fun:** Biking, Chess, Video Games<br>
+[LinkedIn Page](https://www.linkedin.com/in/siear-walizada/)
+<br><br><br><br><br>
 
 ![Laura Lemus](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Laura Lemus** <br>
 **Email:** lmlemus@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/laura-lemus-539174345/)<br>
+<br><br><br><br><br>
 
 ![April McClendon](/assets/people/portrait_mcclendon.png){: .align-left width="200px"}
 **April McClendon** <br>
 **Email:** avmcclendon@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/april-mcclendon-2862b58b/)<br>
+<br><br><br><br><br>
 
 ![Vicky Vo](/assets/people/portrait_vo.png){: .align-left width="200px"}
 **Victoria Vo** <br>
 **Email:** vknvo@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/victoria-vo-133955265/)<br>
+<br><br><br><br><br>
 
 ![Ariana Enriquez](/assets/people/portrait_enriquez-ariana.jpg){: .align-left width="200px"}
 **Ariana Enriquez** <br>
 **Email:** <br>
 UC Davis Major: **Medical and Molecular Microbiology**<br>
-**For fun:** <br>
+[LinkedIn Page](https://www.linkedin.com/in/ariana-enriquez-35175531a/) <br>
 <br><br><br><br>
 
 ![Larissa Hayes](/assets/people/portrait_hayes.jpg){: .align-left width="200px"}
 **Larissa Hayes** <br>
 **Email:** lrhayes@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:** Poetry & roller skating
-<br><br><br><br><br><br>
-
+**For fun:** Poetry & roller skating<br>
+[LinkedIn Page](https://www.linkedin.com/in/larissa-hayes-b-sc-a72a00328/)<br>
+<br><br><br><br>
 
 ![Matt Dougan](/assets/people/portrait_dougan.png){: .align-left width="200px"}
 **Matt Dougan** <br>
@@ -196,29 +212,26 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 <br><br><br><br><br><br>
 
-
-
-
 ![Saleena Bains](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Saleena Bains** <br>
 **Email:** skabains@ucdavis.edu <br>
 UC Davis Major: **Biochemistry**<br>
-
-<br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/saleena-bains-8735662b3/)<br>
+<br><br><br><br>
 
 ![Riley Hudson](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Riley Hudson** <br>
 **Email:** rmhudson@ucdavis.edu<br>
 UC Davis Major: **Biotechnology**<br>
-<br><br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/rileyhudson/)<br>
+<br><br><br><br><br>
 
 
 ![Hussien Aysheh](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Hussien Aysheh** <br>
 **Email:** hiaysheh@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:** <br>
-
+[LinkedIn Page](https://www.linkedin.com/in/hussien-aysheh-651755146/) <br>
 <br><br><br><br>
 
 ![Yali Bai](/assets/people/portrait_bai.jpg){: .align-left width="200px"}
@@ -232,17 +245,15 @@ UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 ![Kaitlin White](/assets/people/portrait_white.jpg){: .align-left width="200px"}
 **Kaitlin White** <br>
 **Email:** <br>
-UC Davis Major: **Global Disease Biology**<br>
-**For fun:** <br>
-
+UC Davis Major: **Molecular and Medical Microbiology**<br>
+[LinkedIn Page](https://www.linkedin.com/in/kaitlin-white-a4192025a/) <br>
 <br><br><br><br>
 
 ![Rolando Lopez](/assets/people/portrait_lopez.jpg){: .align-left width="200px"}
 **Rolando Lopez** <br>
 **Email:** rsllopez@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:**  <br>
-
+<br>
 <br><br><br><br>
 
 ![Ashley Merino](/assets/people/portrait_merino.jpg){: .align-left width="200px"}
@@ -250,7 +261,8 @@ UC Davis Major: **Global Disease Biology**<br>
 **Email:** ammerino@ucdavis.edu <br>
 Major: Medical and Molecular Biology (Woodland Community College) <br>
 **For fun:** watching shows, hiking, trying new foods<br>
-<br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/ashley-merino/)<br>
+<br><br><br><br>
 
 ![Kasey Miqueo](/assets/people/portrait_miqueo.jpg){: .align-left width="200px"}
 **Kasey Miqueo** <br>
@@ -271,9 +283,7 @@ Visiting undergraduate student from the University of Sydney
 **Ajay Sandhar** <br>
 **Email:** assandhar@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:** <br>
-
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Noor Shahbaz](/assets/people/portrait_shahbaz.jpg){: .align-left width="200px"}
 **Noor Shahbaz** <br>
@@ -303,23 +313,24 @@ UC Davis Major: **Global Disease Biology**<br>
 **Donnie Ca** <br>
 **Email:** <br>
 Major: Biology with emphasis in Cellular Molecular Biology (CSU Northride) <br>
-**For fun:** <br>
-<br>
-<br><br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/donnie-ca-861812172/) <br>
+<br> <br><br><br><br><br><br>
 
 ![Rachel Chen](/assets/people/portrait_chen.jpg){: .align-left width="200px"}
 **Rachel Chen** <br>
 **Email:**  rwchen@ucdavis.edu<br>
 UC Davis Major: **Medical and Molecular Microbiology**<br>
 **For fun:** <br> reading, birding, doing small magic tricks, and learning more about the sport of karuta 
-<br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/rachel-chen-3398b926a/)<br>
+<br><br><br><br>
+
 ![Rama Parasar](/assets/people/portrait_parasar.jpg){: .align-left width="200px"}
 **Rama Parasar** <br>
 **Email:** <br>
 UC Davis Major: **Biological Sciences**<br>
 **For fun:** <br>
 [LinkedIn Page](https://www.linkedin.com/in/rama-parasar-218a44214/)
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ![Su Tun](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Su Tun** <br>
@@ -336,24 +347,23 @@ UC Davis Major: **Global Disease Biology**<br>
 **A.S. General Science** American River Community College <br>
 **A.S. Physical Science/Mathematics** American River Community College <br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:**  I love to spend time with my boyfriend and family. I love going out to eat and just listening to music to relax.  
-
-<br><br><br>
+**For fun:**  I love to spend time with my boyfriend and family. I love going out to eat and just listening to music to relax.  <br>
+[LinkedIn Page](https://www.linkedin.com/in/aracely-hernandez-rivas-135627263/)<br>
+<br>
 
 ![Hashem Bkayrat](/assets/people/portrait_bkayrat.jpg){: .align-left width="200px"}
 **Hashem Bkayrat** <br>
 **Email:**  <br> hrbkayrat@ucdavis.edu<br>
 UC Davis Major: **Biomedical Engineering**<br>
 **For fun:** Travel, Soccer, Reading, and Running <br>
-
-<br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/hashem-bkayrat-85b169266/)<br>
+<br><br><br><br>
 
 ![Angela Cadatal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Angela Cadatal** <br>
 **Email:**  <br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:** <br>
-[LinkedIn Page](https://www.linkedin.com/in/angelacadatal/)
+[LinkedIn Page](https://www.linkedin.com/in/angelacadatal/)<br>
 <br><br><br><br><br>
 
 
@@ -423,7 +433,7 @@ Summer 2021 <br>
 **For Fun:** Make acrylic paintings, Read Sci-Fi/Fantasy, and Finding Good Vegan Spots. <br>
 Research Project: Darrielle worked on the global Ralstonia project and on data analysis under Jonathan Beutler and Stratton Georgoulis. 
 [LinkedIn Page](https://www.linkedin.com/in/darrielle-williams-19a372157/)<br>
-<br><br><br><br>
+<br><br><br>
 
 ![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
 **Jason Avalos** <br> 
@@ -448,19 +458,19 @@ Research Project: Elva was mentored by Stratton to develop an assay that will al
 
 <br><br>
 
-![Hang Le](/assets/people/portrait_le.jpg){: .align-left width="200px"}**Hang Le** <br> 
+![Hang Le](/assets/people/portrait_le.jpg){: .align-left width="200px"}
+**Hang Le** <br> 
 Winter 2021<br>
 UC Davis Major: **Global Disease Biology**  <br>
 <br><br><br><br><br><br><br>
 
 ![Dayna Denver](/assets/people/portrait_denver.jpg){: .align-left width="200px"}
-
 **Dayna Alyse Denver**<br>
 Summer 2020<br>
 **A.A. Natural Science** Mt. San Antonio College<br>
 **B.Sc. Microbiology** at Cal Poly Pomona <br>
 Dayna is a research student from Cal Poly Pomona joining the lab through the National Summer Undergraduate Research Project (NSURP). Dayna was mentored by Stratton to use BLAST to compare genomic content of Ralstonia genomes. <br>
-**For fun:** photography, kayaking, hiking, providing unsolicited science fun facts, getting overly excited about microbes
+**For fun:** photography, kayaking, hiking, providing unsolicited science fun facts, getting overly excited about microbes<br>
 **What she did after graduating**: Dayna is a M.S. student at CSU San Marcos.<br>
 [LinkedIn Page](https://www.linkedin.com/in/dayna-alyse-denver-84804a1b4/)<br>
 
@@ -478,10 +488,9 @@ Fall 2019 <br>
 Dominican College of California: **Public Health** <br>
 Solano Community College: A.S.T. **Biology**, A.A. in **General Science**, and A.A. in **Science & Quantitative Reasoning** <br>
 UC Davis Major: **Global Disease Biology** <br>
-For fun: shopping, hanging out with my dog 🐶, and traveling 
-
-**What she did after leaving the lab**: Amanda interned at Genentech. 
-<br>
+For fun: shopping, hanging out with my dog 🐶, and traveling <br>
+**What she did after leaving the lab**: Amanda interned at Genentech.<br>
+[LinkedIn Page](https://www.linkedin.com/in/amanda-eulano/)
 
 ![Katie Shalvarjian](/assets/people/portrait_shalvarjian.jpg){: .align-left width="200px"}
 **Katie Shalvarjian** <br> 
@@ -492,7 +501,8 @@ Katie was a Summer Undergraduate Research Fellow working with Dr. Lowe-Power in 
 For fun: Rock climbing, baking bread, hiking<br>
  
 **What she did after graduating**: In Fall 2019, Katie joined Dr. Dipti Nayak's lab at UC Berkeley where she is a research technician unraveling the mysteries of Archaea. In Fall 2020, Katie started her PhD in the Plant and Microbial Biology department at UC Berkeley. 
-
-<br><br><br><br><br><br>
+<br>
+[LinkedIn Page](https://www.linkedin.com/in/katie-shalvarjian-3109a027b/)<br>
+<br><br><br><br>
 
 

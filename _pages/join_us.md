@@ -5,7 +5,7 @@ permalink: join_us
 
 We are happy to discuss opportunities with people motivated to understand how bacteria interact with their plant hosts. Expectations for members of the lab are described in the [Lowe-Power lab handbook](https://github.com/lowepowerlab/lab_handbook). The lab's [onboarding info](https://github.com/lowepowerlab/lab_handbook/blob/master/onboarding.md) might also be of interest. 
 
-Please, please do not send a generic email that only describes yourself. I receive dozens to hundreds of cold emails from prospective scientists each year, and the emails only stand out when the applicant makes a specific case about why our lab and the applicant are a good mutual fit. 
+Please, please do not send a generic email that only describes yourself. I receive dozens to hundreds of cold emails from prospective scientists each year, and the emails only stand out when the applicant makes a specific case about why our lab and the applicant are a good mutual fit--prospective graduate students and postdocs should demonstrate intellectual curiosity and critical thinking about recent publications from the lab. 
 
 ## Undergraduate Researchers
 
@@ -13,7 +13,7 @@ The Lowe-Power lab tends to recruit students in cohort-teams. If you are an unde
 
 Although positions for undergraduate research are limited, Dr. Lowe-Power is interested in mentoring Global Disease Biology students on a systematic meta-analysis on global distribution and diversity of *Ralstonia* wilt pathogens. [read more details here](https://github.com/lowepowerlab/Ralstonia_Global_Diversity/blob/master/README.md). I tend to initiate a cohort of students on this project in Fall Quarters. 
 
-In Winter quarters, I run the Ralstonia genomics CURE. Around October, I recruit students via a Google Form application that is disseminated by the GDB advisors and Lolita Atkins at the Undergrad Research Center. 
+In Winter quarters, I run the Ralstonia genomics CURE (cohort-based undergraduate research program). Around October, I recruit students via a Google Form application that is disseminated by the GDB advisors and Lolita Atkins at the Undergrad Research Center. If undergraduates demonstrate intellectual engagement in my Biology of Plant Pathogens course (PLP100--Winter Quarters), I often invite them to participate in the CURE. 
 
 Current and prospective students are encouraged to apply for stipend funding through [UC Davis Undergraduate Research Programs](https://urc.ucdavis.edu/programs). The "Provost's Undergraduate Fellowship" (PUF) is usually due mid-Fall and mid-Spring Quarters. **I strongly recommend that current undergrads apply.** I can provide example proposals. 
 

@@ -3,7 +3,7 @@ title: Datasets and Research Resources
 permalink: datasets
 ---
 ## 
-![Dashboard](/assets/imags/dashboard.png){: .align-left width="500px"}
+![Dashboard](/assets/images/dashboard.png){: .align-left width="500px"}
 **Global biogeography of *Ralstonia* pathogens:** Seeking to unify the extensive literature on Ralstonia populations around the globe, we have an ongoing literature meta-analysis of *Ralstonia solanacearum* isolations (over 10,000 strains from over 300 papers). We publish updates to the *Ralstonia* isolation dataset as a ["living" BioRxiv pre-print (Lowe-Power et al.).](https://www.biorxiv.org/content/10.1101/2020.07.13.189936v5). In collaboration with Dr. Tessa Pierce-Ward, also adapted a web-based, interactive Dashboard that allows users to investigate patterns of *Ralstonia* biogeography, phylogeny, and host-of-isolation. Dashboard: https://ralstoniadashboard.shinyapps.io/RalstoniaWiltDashboard/  Our YouTube channel (linked below) has tutorials and case studies to demonstrate how to use the Dashboard to understand Ralstonia. 
 
 ## Lowe-Power Lab YouTube Channel

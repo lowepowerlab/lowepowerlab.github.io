@@ -62,7 +62,7 @@ Jason is working jointly in the Parales lab and Lowe-Power lab at UC Davis.
 **Postdoctoral Training** in Alfenas-Zerbini lab (Universidade Federal de Viçosa, Brazil)<br>
 [Google Scholar](https://scholar.google.com/citations?user=O-ri2HEAAAAJ&hl)<br>
 [LinkedIn Page](https://www.linkedin.com/in/rafael-reis-de-rezende-451916201/)<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Ofir Bahar](/assets/people/portrait_bahar.jpg){: .align-left width="200px"}
 **Ofir Bahar, PhD ** <br>
@@ -204,7 +204,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** Poetry & roller skating<br>
 [LinkedIn Page](https://www.linkedin.com/in/larissa-hayes-b-sc-a72a00328/)<br>
-<br><br><br><br>
+<br><br><br>
 
 ![Matt Dougan](/assets/people/portrait_dougan.png){: .align-left width="200px"}
 **Matt Dougan** <br>
@@ -217,7 +217,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **Email:** skabains@ucdavis.edu <br>
 UC Davis Major: **Biochemistry**<br>
 [LinkedIn Page](https://www.linkedin.com/in/saleena-bains-8735662b3/)<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Riley Hudson](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Riley Hudson** <br>
@@ -232,7 +232,7 @@ UC Davis Major: **Biotechnology**<br>
 **Email:** hiaysheh@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/hussien-aysheh-651755146/) <br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Yali Bai](/assets/people/portrait_bai.jpg){: .align-left width="200px"}
 **Yali Bai** <br>
@@ -240,14 +240,14 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Statistics** and **Applied Mathematics** dual major  <br>
 **For fun:** cooking, reading, playing Lego, and spending time with children<br>
 [LinkedIn Page](https://www.linkedin.com/in/yali-bai-5867aa204/)<br>
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ![Kaitlin White](/assets/people/portrait_white.jpg){: .align-left width="200px"}
 **Kaitlin White** <br>
 **Email:** <br>
 UC Davis Major: **Molecular and Medical Microbiology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/kaitlin-white-a4192025a/) <br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Rolando Lopez](/assets/people/portrait_lopez.jpg){: .align-left width="200px"}
 **Rolando Lopez** <br>
@@ -283,7 +283,7 @@ Visiting undergraduate student from the University of Sydney
 **Ajay Sandhar** <br>
 **Email:** assandhar@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![Noor Shahbaz](/assets/people/portrait_shahbaz.jpg){: .align-left width="200px"}
 **Noor Shahbaz** <br>
@@ -330,7 +330,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 UC Davis Major: **Biological Sciences**<br>
 **For fun:** <br>
 [LinkedIn Page](https://www.linkedin.com/in/rama-parasar-218a44214/)
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ![Su Tun](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Su Tun** <br>
@@ -349,7 +349,7 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:**  I love to spend time with my boyfriend and family. I love going out to eat and just listening to music to relax.  <br>
 [LinkedIn Page](https://www.linkedin.com/in/aracely-hernandez-rivas-135627263/)<br>
-<br>
+<br><br>
 
 ![Hashem Bkayrat](/assets/people/portrait_bkayrat.jpg){: .align-left width="200px"}
 **Hashem Bkayrat** <br>
@@ -433,7 +433,7 @@ Summer 2021 <br>
 **For Fun:** Make acrylic paintings, Read Sci-Fi/Fantasy, and Finding Good Vegan Spots. <br>
 Research Project: Darrielle worked on the global Ralstonia project and on data analysis under Jonathan Beutler and Stratton Georgoulis. 
 [LinkedIn Page](https://www.linkedin.com/in/darrielle-williams-19a372157/)<br>
-<br><br><br>
+<br><br>
 
 ![Jason Avalos](/assets/people/portrait_avalos.jpg){: .align-left width="200px"}
 **Jason Avalos** <br> 

@@ -7,7 +7,7 @@ permalink: /people/
 
 ![Tiffany Lowe-Power, PhD](/assets/people/portrait_lowepower.jpg){: .align-left width="200px"}
 **Tiffany Lowe-Power** <br> 
-Assistant Professor <br>
+Associate Professor <br>
 **Twitter**: [@tlowepower](https://twitter.com/TLowePower) <br>
 **Email:** tlowepower@UCDavis.edu <br>
 **Office:** 282 Hutchison Hall <br> 

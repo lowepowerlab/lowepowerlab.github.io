@@ -124,12 +124,60 @@ For fun: video games, bouldering, gardening, and more!<br>
 [LinkedIn Page](https://www.linkedin.com/in/veronica-casey/)<br><br><br><br><br>
 
 ## #wUndergrads 
+![Clara Araujo](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Clara Araujo** <br>
+**Email:** cdiasdearaujo@ucdavis.edu <br>
+UC Davis Major: **Genetics & Genomics**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Dominic Avila](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Dominic Avila** <br>
+**Email:**  <br>
+UC Davis Major: **Biotechnology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Analiese Boedeker](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Analiese Boedeker** <br>
+**Email:** <br>
+UC Davis Major: **Biochemistry and Molecular Biology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Denny Chen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Denny Chen** <br>
+**Email:** <br>
+UC Davis Major: **Biotechnology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Jasmine Chin](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Jasmine Chin** <br>
+**Email:** <br>
+UC Davis Major: **Genetics and Genomics**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
 ![Nicole Chong](/assets/people/portrait_chong.jpg){: .align-left width="200px"}
 **Nicole Chong** <br>
 **Email:** nicchong@ucdavis.edu <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** Skiing, hiking, baking<br>
 [LinkedIn Page](https://www.linkedin.com/in/nicole-chong-7797ab1bb/)<br>
+<br><br><br><br><br>
+
+![Alex Corona-Vargas](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Alex Corona-Vargas** <br>
+**Email:** <br>
+UC Davis Major: **Biochemistry and Molecular Biology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
 <br><br><br><br><br>
 
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
@@ -140,6 +188,46 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 [Google Scholar](https://scholar.google.com/citations?user=_3Sx2rAAAAAJ&hl=en)<br>
 [LinkedIn Page](https://www.linkedin.com/in/tabitha-cowell-b8a360264/)<br>
 <br><br><br>
+
+![Ziya Faizel Chirammal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Ziya Faizel Chirammal** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Willem Ellings](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Willem Ellings** <br>
+**Email:** <br>
+UC Davis Major: **Environmental Science and Management**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Muhammad Farooq](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Muhammad Farooq** <br>
+**Email:** <br>
+UC Davis Major: **Medicinal Chemistry**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Giancarlo Gonzalez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Giancarlo Gonzalez** <br>
+**Email:** <br>
+UC Davis Major: **Medical and Molecular Microbiology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Paloma Gonzalez Contreras](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Paloma Gonzalez Contreras** <br>
+**Email:** <br>
+UC Davis Major: **Chemical Engineering**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
 
 ![Nicole He](/assets/people/portrait_he.jpg){: .align-left width="200px"}
 **Nicole He** <br>
@@ -157,6 +245,30 @@ UC Davis Major: ** Cell Biology** <br>
 <br>
 <br><br><br><br>
 
+![Anaya Kamat](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Anaya Kamat** <br>
+**Email:** <br>
+UC Davis Major: **Biotechnology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Bhavana Karthik](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Bhavana Karthik** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Nevanmee Kurulugama](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Nevanmee Kurulugama** <br>
+**Email:** <br>
+UC Davis Major: **Biotechnology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
 ![Jia Yu Liou](/assets/people/portrait_liou.jpg){: .align-left width="200px"}
 **Jia Yu Liou** <br>
 **Email:**  jliou@ucdavis.edu <br>
@@ -172,11 +284,52 @@ UC Davis Major: **Microbology** and Minor in **Public Health**<br>
 **For fun:** hiking, horseback riding, traveling
 <br><br><br><br><br><br>
 
-![Neha Prasad](/assets/people/portrait_prasad.png){: .align-left width="200px"}
-**Neha Prasad** <br>
-**Email:** nnprasad@ucdavis.edu <br>
-UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
-[LinkedIn Page](https://www.linkedin.com/in/neha-prasad-1631121ba/)<br>
+![Grace Park](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Grace Park** <br>
+**Email:** <br>
+UC Davis Major: **Global Disease Biology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Ashlee Pilon](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Ashlee Pilon** <br>
+**Email:** <br>
+UC Davis Major: **Systems and Synthetic Biology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Miguel Soto](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Miguel Soto** <br>
+**Email:** <br>
+UC Davis Major: **Medical and Molecular Microbiology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Valerie Whitfield](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Valerie Whitfield** <br>
+**Email:** <br>
+UC Davis Major: **Systems and Synthetic Biology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Daryn Yong](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Daryn Yong** <br>
+**Email:** <br>
+UC Davis Major: **Biotechnology**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
+<br><br><br><br><br>
+
+![Ruxi Zhang](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Ruxi Zhang** <br>
+**Email:** <br>
+UC Davis Major: **Environmental Science and Management**<br>
+**For fun:** <br>
+[LinkedIn Page]<br>
 <br><br><br><br><br>
 
 ## Alumni

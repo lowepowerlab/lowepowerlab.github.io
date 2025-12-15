@@ -130,7 +130,7 @@ For fun: video games, bouldering, gardening, and more!<br>
 UC Davis Major: **Genetics & Genomics**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Dominic Avila](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Dominic Avila** <br>
@@ -138,7 +138,7 @@ UC Davis Major: **Genetics & Genomics**<br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Analiese Boedeker](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Analiese Boedeker** <br>
@@ -146,7 +146,7 @@ UC Davis Major: **Biotechnology**<br>
 UC Davis Major: **Biochemistry and Molecular Biology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Denny Chen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Denny Chen** <br>
@@ -154,7 +154,7 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Jasmine Chin](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Jasmine Chin** <br>
@@ -162,7 +162,7 @@ UC Davis Major: **Biotechnology**<br>
 UC Davis Major: **Genetics and Genomics**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Nicole Chong](/assets/people/portrait_chong.jpg){: .align-left width="200px"}
 **Nicole Chong** <br>
@@ -178,7 +178,7 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Biochemistry and Molecular Biology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>
@@ -195,15 +195,15 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
-![Willem Ellings](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Willem Ellings** <br>
+![Willem Elings](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+**Willem Elings** <br>
 **Email:** <br>
 UC Davis Major: **Environmental Science and Management**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Muhammad Farooq](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Muhammad Farooq** <br>
@@ -211,7 +211,7 @@ UC Davis Major: **Environmental Science and Management**<br>
 UC Davis Major: **Medicinal Chemistry**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Giancarlo Gonzalez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Giancarlo Gonzalez** <br>
@@ -219,7 +219,7 @@ UC Davis Major: **Medicinal Chemistry**<br>
 UC Davis Major: **Medical and Molecular Microbiology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Paloma Gonzalez Contreras](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Paloma Gonzalez Contreras** <br>
@@ -227,7 +227,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 UC Davis Major: **Chemical Engineering**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Nicole He](/assets/people/portrait_he.jpg){: .align-left width="200px"}
 **Nicole He** <br>
@@ -251,7 +251,7 @@ UC Davis Major: ** Cell Biology** <br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Bhavana Karthik](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Bhavana Karthik** <br>
@@ -259,7 +259,7 @@ UC Davis Major: **Biotechnology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Nevanmee Kurulugama](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Nevanmee Kurulugama** <br>
@@ -267,7 +267,7 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Jia Yu Liou](/assets/people/portrait_liou.jpg){: .align-left width="200px"}
 **Jia Yu Liou** <br>
@@ -290,7 +290,7 @@ UC Davis Major: **Microbology** and Minor in **Public Health**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Ashlee Pilon](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Ashlee Pilon** <br>
@@ -298,7 +298,7 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Systems and Synthetic Biology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Miguel Soto](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Miguel Soto** <br>
@@ -306,7 +306,7 @@ UC Davis Major: **Systems and Synthetic Biology**<br>
 UC Davis Major: **Medical and Molecular Microbiology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Valerie Whitfield](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Valerie Whitfield** <br>
@@ -314,7 +314,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 UC Davis Major: **Systems and Synthetic Biology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Daryn Yong](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Daryn Yong** <br>
@@ -322,7 +322,7 @@ UC Davis Major: **Systems and Synthetic Biology**<br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ![Ruxi Zhang](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Ruxi Zhang** <br>
@@ -330,7 +330,7 @@ UC Davis Major: **Biotechnology**<br>
 UC Davis Major: **Environmental Science and Management**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 ## Alumni
 Lab alumni are represented on the [Alumni page](/alumni).

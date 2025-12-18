@@ -389,14 +389,6 @@ UC Davis Major: **Global Disease Biology** <br>
 [LinkedIn Page](https://www.linkedin.com/in/trung-hieu-nguyen-406a8625b/)<br>
 <br><br><br><br><br>
 
-![Cloe Tom](/assets/people/portrait_tom.jpg){: .align-left width="200px"}
-**Cloe Tom** <br>
-**Email:**  cetom@ucdavis.edu <br>
-UC Davis Major:  **Plant Biology** 🌱  <br>
-**For fun:** sewing, cooking, baking, gardening, wishing I had a cat <br>
-**Current Position** Junior Specialist at UC Davis <br>
-<br><br><br><br><br><br><br>
-
 ![Alexandra Olyushinets](/assets/people/portrait_olyushinets.jpg){: .align-left width="200px"}
 **Alexandra Olyushinets** <br>
 **Email:**  asolyushinets@ucdavis.edu <br>

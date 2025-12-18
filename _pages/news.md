@@ -66,7 +66,7 @@ There is a lot to update...
 
 * PhD student Matt Cope-Arguello is becoming a microbial diversity wizard at the 6 week [Microbial Diversity course at MBL](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/microbial-diversity). 
 
-* The lab welcomes Ariana Enriquez to the lab! Dr. Nathalie Aoun is mentoring Ariana on a project to understand host range in Ralstonia. This summer Yali Bai is working with Tiffany to apply her R prowess to visualize the Global Ralstonia Database, and Cloe Tom is learning how to clone with junior specialist Jason Avalos. 
+* The lab welcomes Ariana Enriquez to the lab! Dr. Nathalie Aoun is mentoring Ariana on a project to understand host range in Ralstonia. This summer Yali Bai is working with Tiffany to apply her R prowess to visualize the Global Ralstonia Database.
 
 * PhD student Stratton Georgoulis and Jason Avalos presented their research at the Phyllosphere meeting, and the [COSMOS students](https://cosmos.ucdavis.edu/) voted Jason's poster as one of two "top posters". Way to go, Jason!
 
@@ -77,7 +77,7 @@ There is a lot to update...
 
 ## Spring 2022
 
-* Claudia Enriquez, Trung-Hieu (Huey) Nguyen, Alex Olyushinets, and Cloe Tom participated in a pilot of the IGNITE CURE. We each sequenced and assembled our own two genomes of Ralstonia isolated from the 1960s. Look out for a Genome Announcement soon!
+* UC Davis undergraduate students participated in a pilot of the IGNITE CURE. We each sequenced and assembled our own two genomes of Ralstonia isolated from the 1960s. Look out for a Genome Announcement soon!
 
 * Collaborator Mohommed Arif released a preprint on a new multiplex PCR assay that can simultaneously identify whether the strain is in the Ralstonia species complex, which species it is a part of, and whether it is in the highly regulated pandemic clade ("Race 3 Biovar 2"). [Read about it here](https://twitter.com/ariflab_UH/status/1529870253219426306).
 

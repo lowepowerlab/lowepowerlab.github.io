@@ -201,13 +201,13 @@ UC Davis Major: **Global Disease Biology**<br>
 **Willem Elings** <br>
 **Email:** <br>
 UC Davis Major: **Environmental Science and Management**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+**For fun:** Movies, Exploring Cities, Swimming<br>
+[LinkedIn Page](http://www.linkedin.com/in/abdullah-farooq98)<br>
 <br><br><br><br>
 
-![Muhammad Farooq](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Muhammad Farooq](/assets/people/portrait_farooq.jpg){: .align-left width="200px"}
 **Muhammad Farooq** <br>
-**Email:** <br>
+**Email:** mafarooq@ucdavis.edu <br>
 UC Davis Major: **Medicinal Chemistry**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
@@ -300,19 +300,19 @@ UC Davis Major: **Systems and Synthetic Biology**<br>
 [LinkedIn Page]<br>
 <br><br><br><br>
 
-![Miguel Soto](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Miguel Soto](/assets/people/portrait_soto.jpg){: .align-left width="200px"}
 **Miguel Soto** <br>
-**Email:** <br>
+**Email:** mesoto@ucdavis.edu<br>
 UC Davis Major: **Medical and Molecular Microbiology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+**For fun:** running, piano, video games<br>
+[LinkedIn Page](https://www.linkedin.com/in/miguel-soto-6a1685314/)<br>
 <br><br><br><br>
 
-![Valerie Whitfield](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Valerie Whitfield](/assets/people/portrait_whitfield.jpg){: .align-left width="200px"}
 **Valerie Whitfield** <br>
-**Email:** <br>
+**Email:** vwhitfield@ucdavis.edu <br>
 UC Davis Major: **Systems and Synthetic Biology**<br>
-**For fun:** <br>
+**For fun:** saxophone, video games, knitting<br>
 [LinkedIn Page]<br>
 <br><br><br><br>
 

@@ -148,12 +148,12 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 [LinkedIn Page]<br>
 <br><br><br><br>
 
-![Denny Chen](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Denny Chen](/assets/people/portrait_chen-denny.jpg){: .align-left width="200px"}
 **Denny Chen** <br>
-**Email:** <br>
+**Email:** <br> dsfchen@ucdavis.edu
 UC Davis Major: **Biotechnology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+**For fun:** badminton, biking, listening to music <br>
+[LinkedIn Page](https://www.linkedin.com/in/dennysfchen)<br>
 <br><br><br><br>
 
 ![Jasmine Chin](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -172,12 +172,13 @@ UC Davis Major: **Global Disease Biology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/nicole-chong-7797ab1bb/)<br>
 <br><br><br><br><br>
 
-![Alex Corona-Vargas](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Alex Corona-Vargas](/assets/people/portrait_corona-vargas.jpg){: .align-left width="200px"}
 **Alex Corona-Vargas** <br>
-**Email:** <br>
+**Email:** acoronavargas@ucdavis.edu<br>
 UC Davis Major: **Biochemistry and Molecular Biology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+**For fun:** painting, listening to music, exercising and spending time with my cats, friends, and family<br>
+[LinkedIn Page](https://www.linkedin.com/in/alex-c-5945b019a)<br>
+<br><br><br><br>
 <br><br><br><br>
 
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}

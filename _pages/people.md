@@ -124,12 +124,12 @@ For fun: video games, bouldering, gardening, and more!<br>
 [LinkedIn Page](https://www.linkedin.com/in/veronica-casey/)<br><br><br><br><br>
 
 ## #wUndergrads 
-![Clara Araujo](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Clara Araujo](/assets/people/portrait_dias_de_araujo.jpg){: .align-left width="200px"}
 **Clara Araujo** <br>
 **Email:** cdiasdearaujo@ucdavis.edu <br>
 UC Davis Major: **Genetics & Genomics**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+**For fun:** sports, movies, spending time with family and friends<br>
+[LinkedIn Page](www.linkedin.com/in/clara-araujo-681162250)<br>
 <br><br><br><br>
 
 ![Dominic Avila](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -140,11 +140,11 @@ UC Davis Major: **Biotechnology**<br>
 [LinkedIn Page]<br>
 <br><br><br><br>
 
-![Analiese Boedeker](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Analiese Boedeker](/assets/people/portrait_boedeker.jpg){: .align-left width="200px"}
 **Analiese Boedeker** <br>
-**Email:** <br>
+**Email:** abboedeker@ucdavis.edu <br>
 UC Davis Major: **Biochemistry and Molecular Biology**<br>
-**For fun:** <br>
+**For fun:** reading, anything outdoors, board games, spending time with friends and family <br>
 [LinkedIn Page]<br>
 <br><br><br><br>
 
@@ -190,12 +190,12 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 [LinkedIn Page](https://www.linkedin.com/in/tabitha-cowell-b8a360264/)<br>
 <br><br><br>
 
-![Ziya Faizel Chirammal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Ziya Faizel Chirammal](/assets/people/portrait_faizel_chirammal.jpg){: .align-left width="200px"}
 **Ziya Faizel Chirammal** <br>
-**Email:** <br>
+**Email:** zchirammal@ucdavis.edu<br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+**For fun:** baking, reading, & traveling<br>
+[LinkedIn Page](https://www.linkedin.com/in/ziya-faizel/)<br>
 <br><br><br><br>
 
 ![Willem Elings](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -246,12 +246,12 @@ UC Davis Major: ** Cell Biology** <br>
 <br>
 <br><br><br><br>
 
-![Anaya Kamat](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Anaya Kamat](/assets/people/portrait_kamat.jpg){: .align-left width="200px"}
 **Anaya Kamat** <br>
-**Email:** <br>
+**Email:** anakamat@ucdavis.edu<br>
 UC Davis Major: **Biotechnology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+**For fun:** reading, watching movies, traveling, baking<br>
+[LinkedIn Page](https://www.linkedin.com/in/anaya-kamat-835b143a2)<br>
 <br><br><br><br>
 
 ![Bhavana Karthik](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -317,12 +317,12 @@ UC Davis Major: **Systems and Synthetic Biology**<br>
 [LinkedIn Page]<br>
 <br><br><br><br>
 
-![Daryn Yong](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Daryn Yong](/assets/people/portrait_yong.jpg){: .align-left width="200px"}
 **Daryn Yong** <br>
-**Email:** <br>
+**Email:** dyong@ucdavis.edu<br>
 UC Davis Major: **Biotechnology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+**For fun:** dancing, k-pop, anime, listening to music, embroidery<br>
+[LinkedIn Page](http://www.linkedin.com/in/daryn-yong-0a2b573a2)<br>
 <br><br><br><br>
 
 ![Ruxi Zhang](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}

@@ -150,7 +150,7 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 
 ![Denny Chen](/assets/people/portrait_chen-denny.jpg){: .align-left width="200px"}
 **Denny Chen** <br>
-**Email:** <br> dsfchen@ucdavis.edu
+**Email:** <br> dsfchen@ucdavis.edu <br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** badminton, biking, listening to music <br>
 [LinkedIn Page](https://www.linkedin.com/in/dennysfchen)<br>
@@ -196,7 +196,7 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** baking, reading, & traveling<br>
 [LinkedIn Page](https://www.linkedin.com/in/ziya-faizel/)<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Willem Elings](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Willem Elings** <br>
@@ -252,7 +252,7 @@ UC Davis Major: ** Cell Biology** <br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** reading, watching movies, traveling, baking<br>
 [LinkedIn Page](https://www.linkedin.com/in/anaya-kamat-835b143a2)<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Bhavana Karthik](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Bhavana Karthik** <br>
@@ -323,7 +323,7 @@ UC Davis Major: **Systems and Synthetic Biology**<br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** dancing, k-pop, anime, listening to music, embroidery<br>
 [LinkedIn Page](http://www.linkedin.com/in/daryn-yong-0a2b573a2)<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Ruxi Zhang](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Ruxi Zhang** <br>

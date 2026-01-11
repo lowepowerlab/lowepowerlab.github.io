@@ -156,11 +156,11 @@ UC Davis Major: **Biotechnology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/dennysfchen)<br>
 <br><br><br><br>
 
-![Jasmine Chin](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Jasmine Chin](/assets/people/portrait_chin.jpg){: .align-left width="200px"}
 **Jasmine Chin** <br>
-**Email:** <br>
+**Email:** jfchin@ucdavis.edu<br>
 UC Davis Major: **Genetics and Genomics**<br>
-**For fun:** <br>
+**For fun:** Reading, Crocheting, Cooking, Singing<br>
 [LinkedIn Page]<br>
 <br><br><br><br>
 
@@ -293,12 +293,12 @@ UC Davis Major: **Global Disease Biology**<br>
 [LinkedIn Page]<br>
 <br><br><br><br>
 
-![Ashlee Pilon](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Ashlee Pilon](/assets/people/portrait_pilon.png){: .align-left width="200px"}
 **Ashlee Pilon** <br>
-**Email:** <br>
+**Email:** ampilon@ucdavis.edu<br>
 UC Davis Major: **Systems and Synthetic Biology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+**For fun:** reading, sewing, embroidery, baking <br>
+[LinkedIn Page](https://www.linkedin.com/in/ashlee-pilon/)<br>
 <br><br><br><br>
 
 ![Miguel Soto](/assets/people/portrait_soto.jpg){: .align-left width="200px"}

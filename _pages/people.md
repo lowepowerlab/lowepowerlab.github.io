@@ -265,11 +265,12 @@ UC Davis Major: **Microbology** and Minor in **Public Health**<br>
 **For fun:** hiking, horseback riding, traveling
 <br><br><br><br><br><br>
 
-![Grace Park](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
+![Grace Park](/assets/people/portrait_park.png){: .align-left width="200px"}
 **Grace Park** <br>
 UC Davis Major: **Global Disease Biology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
+Minor: **Public Health** <br>
+**For fun:** hiking, skiing, spending time with friends and family<br>
+[LinkedIn Page](https://www.linkedin.com/in/grace-park-56a679201/)<br>
 <br><br><br><br>
 
 ![Ashlee Pilon](/assets/people/portrait_pilon.png){: .align-left width="200px"}

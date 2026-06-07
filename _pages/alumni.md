@@ -211,7 +211,7 @@ UC Davis Major: **Microbology** and Minor in **Public Health**<br>
 **Neha Prasad** <br>
 UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/neha-prasad-1631121ba/)<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Erin Allyson Adea](/assets/people/portrait_adea.jpg){: .align-left width="200px"}
 **Erin Allyson Adea** <br>

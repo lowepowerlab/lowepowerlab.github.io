@@ -75,10 +75,8 @@ Jason is working jointly in the Parales lab and Lowe-Power lab at UC Davis.
 Principal Investigator from **Volcani Institute**, Israel (currently on Sabbatical leave)
 <br>**Interests:** Phytobacteriology, insect-vectored bacterial pathogens, plant-microbe interactions, Extracellular vesicles
 **Website:** [Bahar lab](https://ofirb7.wix.com/bahar-lab)
+<br><br><br><br><br>
 
-<br><br><br><br>
-
-<br>
 ![Mari Carter](/assets/people/portrait_carter.jpg){: .align-left width="200px"}
 **Mariama Carter** <br>
 **Twitter:** [@themaricart](https://twitter.com/themaricart)<br>
@@ -92,8 +90,7 @@ Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 ![Isis Capella](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Isis Capella** <br>
 **PhD Student** Universidade Federal Rio de Janiero. 
- <br> <br> <br> <br> <br><br><br><br>
-
+<br> <br> <br> <br> <br><br><br><br>
 
 ![Agnès BELLON](/assets/people/portrait_bellon.jpg){: .align-left width="200px"}
 **Agnès Bellon** <br>
@@ -102,7 +99,6 @@ Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 **R&D intern** at UC Davis in the Lowe-Power Laboratory's plant pathology department<br>
 Master’s student in Biological Engineering, specializing in biotechnology at **Polytech Marseille – France**<br>
 [LinkedIn Page](www.linkedin.com/in/agnès-bellon-023041212)
-
 
 ## Collaborating Grad Students and Postdocs
 ![Benjamin Arbaugh](/assets/people/portrait_arbaugh.jpg){: .align-left width="200px"}
@@ -132,9 +128,8 @@ UC Davis Major: **Genetics & Genomics**<br>
 **Dominic Avila** <br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** <br>
-[LinkedIn Page]<br>
+[LinkedIn Page](https://www.linkedin.com/in/dominic-avila-766846360/)<br>
 <br><br><br><br><br>
-
 
 ![Jasmine Chin](/assets/people/portrait_chin.jpg){: .align-left width="200px"}
 **Jasmine Chin** <br>
@@ -169,7 +164,7 @@ UC Davis Major: **Global Disease Biology**<br>
 **Muhammad Farooq** <br>
 UC Davis Major: **Medicinal Chemistry**<br>
 **For fun:** <br>
-[LinkedIn Page]<br>
+[LinkedIn Page](http://www.linkedin.com/in/abdullah-farooq98)<br>
 <br><br><br><br><br>
 
 ![Giancarlo Gonzalez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -183,7 +178,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 **Paloma Gonzalez Contreras** <br>
 UC Davis Major: **Chemical Engineering**<br>
 **For fun:** <br>
-[LinkedIn Page]<br>
+[LinkedIn Page](https://www.linkedin.com/in/paloma-gonzalez-contreras-72a383285/)<br>
 <br><br><br><br><br>
 
 ![Nicole He](/assets/people/portrait_he.jpg){: .align-left width="200px"}
@@ -223,8 +218,8 @@ UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>
 ![Erin Allyson Adea](/assets/people/portrait_adea.jpg){: .align-left width="200px"}
 **Erin Allyson Adea** <br>
 UC Davis Major: **Entomology** <br>
-**For fun:** bug hunting, baking, and video games
-<br><br><br><br><br><br><br><br>
+**For fun:** bug hunting, baking, and video games<br>
+[LinkedIn Page](https://www.linkedin.com/in/erinaradea/)<br><br><br><br><br><br><br>
 
 ![Katherine Bohonak](/assets/people/portrait_bohonak.jpg){: .align-left width="200px"}
 **Katherine Bohonak** <br>
@@ -265,7 +260,8 @@ UC Davis Major: **Global Disease Biology**<br>
 **Tiffany Su** <br>
 UC Davis Major: **Computer Science**<br>
 **For fun**: Hiking, reading, video games
-<br><br><br><br><br><br><br>
+<br>
+[LinkedIn Page](https://www.linkedin.com/in/tiffany-su-203998358/)<br><br><br><br><br><br>
 
 ![Siear Walizada](/assets/people/portrait_walizada.png){: .align-left width="200px"}
 **Siear Walizada** <br>
@@ -370,7 +366,8 @@ Visiting undergraduate student from the University of Sydney
 ![Ajay Sandhar](/assets/people/portrait_sandhar.jpg){: .align-left width="200px"}
 **Ajay Sandhar** <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br><br><br>
+<br>
+[LinkedIn Page](https://www.linkedin.com/in/ajay-s-b4882820b/)<br><br><br><br><br><br><br>
 
 ![Noor Shahbaz](/assets/people/portrait_shahbaz.jpg){: .align-left width="200px"}
 **Noor Shahbaz** <br>
@@ -488,7 +485,8 @@ Summer 2021 <br>
 **B.S. in Animal Science**  Fort Valley State University<br>
 **M.S. in Biotechnology**  Fort Valley State University<br>
 Research Project: Darrell worked on the global Ralstonia project
-<br><br><br><br><br>
+<br>
+[LinkedIn Page](https://www.linkedin.com/in/darrell-sparks-767b162a2/)<br><br><br><br>
 
 ![Darrielle Williams](/assets/people/portrait_williams.jpg){: .align-left width="200px"}**Darrielle Williams** <br> 
 Summer 2021 <br>
@@ -517,15 +515,8 @@ Research Project: Grace was mentored by Tiffany on a meta-analysis of hospital-a
 **Elva Xian** <br> 
 Fall 2019-Spring 2021<br>
 UC Davis Major: **Global Disease Biology**  <br>
-Research Project: Elva was mentored by Stratton to develop an assay that will allow us to investigate inter-bacterial competition, cloned several knockout plasmids, and uses BLAST to compare genomic content of Ralstonia genomes. 
-
-<br><br>
-
-![Hang Le](/assets/people/portrait_le.jpg){: .align-left width="200px"}
-**Hang Le** <br> 
-Winter 2021<br>
-UC Davis Major: **Global Disease Biology**  <br>
-<br><br><br><br><br><br><br>
+Research Project: Elva was mentored by Stratton to develop an assay that will allow us to investigate inter-bacterial competition, cloned several knockout plasmids, and uses BLAST to compare genomic content of Ralstonia genomes. <br>
+[LinkedIn Page](https://www.linkedin.com/in/elvaxian/)<br>
 
 ![Dayna Denver](/assets/people/portrait_denver.jpg){: .align-left width="200px"}
 **Dayna Alyse Denver**<br>
@@ -567,5 +558,3 @@ For fun: Rock climbing, baking bread, hiking<br>
 <br>
 [LinkedIn Page](https://www.linkedin.com/in/katie-shalvarjian-3109a027b/)<br>
 <br><br><br><br>
-
-

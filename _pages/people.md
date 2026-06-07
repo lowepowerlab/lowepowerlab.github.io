@@ -66,7 +66,8 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **Evan Roybal** <br>
 **Email:** earoybal@ucdavis.edu<br>
  **B.S. Biochemistry and Molecular Biology**, UC Davis<br>
-**For fun:** reading, video games, and climbing <br>
+**For fun:** reading, video games, and climbing<br>
+[LinkedIn Page](https://www.linkedin.com/in/evan-roybal/)
 <br><br><br><br>
 
 ## Graduate Student Researchers
@@ -143,15 +144,14 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 **Willem Elings** <br>
 UC Davis Major: **Environmental Science and Management**<br>
 **For fun:** Movies, Exploring Cities, Swimming<br>
-[LinkedIn Page](http://www.linkedin.com/in/abdullah-farooq98)<br>
-<br><br><br><br><br>
+[LinkedIn Page]()<br>
+<br><br><br><br><br> 
 
 ![Miranda Jaramillo](/assets/people/portrait_jaramillo.jpg){: .align-left width="200px"}
 **Miranda Jaramillo** <br>
-UC Davis Major: ** Cell Biology** <br>
+UC Davis Major: **Cell Biology** <br>
 **For fun:** music, knitting, ballroom dancing<br>
-<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Anaya Kamat](/assets/people/portrait_kamat.jpg){: .align-left width="200px"}
 **Anaya Kamat** <br>
@@ -164,14 +164,14 @@ UC Davis Major: **Biotechnology**<br>
 **Bhavana Karthik** <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
-[LinkedIn Page]<br>
+[LinkedIn Page](https://www.linkedin.com/in/bhavanak0/)<br>
 <br><br><br><br><br>
 
 ![Nevanmee Kurulugama](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Nevanmee Kurulugama** <br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** <br>
-[LinkedIn Page]<br>
+[LinkedIn Page](https://www.linkedin.com/in/nevanmee-kurulugama-4a6b74217/)<br>
 <br><br><br><br><br>
 
 ![Ashlee Pilon](/assets/people/portrait_pilon.png){: .align-left width="200px"}
@@ -185,7 +185,7 @@ UC Davis Major: **Systems and Synthetic Biology**<br>
 **Valerie Whitfield** <br>
 UC Davis Major: **Systems and Synthetic Biology**<br>
 **For fun:** saxophone, video games, knitting<br>
-[LinkedIn Page]<br>
+[LinkedIn Page](https://www.linkedin.com/in/valerie-whitfield-740a87329/)<br>
 <br><br><br><br><br>
 
 ![Daryn Yong](/assets/people/portrait_yong.jpg){: .align-left width="200px"}
@@ -199,7 +199,7 @@ UC Davis Major: **Biotechnology**<br>
 **Ruxi Zhang** <br>
 UC Davis Major: **Environmental Science and Management**<br>
 **For fun:** <br>
-[LinkedIn Page]<br>
+[LinkedIn Page](https://www.linkedin.com/in/rxizhang/)<br>
 <br><br><br><br>
 
 ## Alumni

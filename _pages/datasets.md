@@ -3,9 +3,9 @@ title: Datasets and Research Resources
 permalink: datasets
 ---
 
-![Dashboard](/assets/images/dashboard.png){: .align-left width="350px"}
+![Screenshot of dashboard from Elmgreen et al. 2025 publication](/assets/images/dashboard.png){: .align-left width="350px"}
 ## **Global biogeography of *Ralstonia* pathogens:** 
-Seeking to unify the extensive literature on Ralstonia populations around the globe, we have an ongoing literature meta-analysis of *Ralstonia solanacearum* isolations (over 10,000 strains from over 300 papers). We publish updates to the *Ralstonia* isolation dataset as a ["living" BioRxiv pre-print (Lowe-Power et al.).](https://www.biorxiv.org/content/10.1101/2020.07.13.189936v5). In collaboration with Dr. Tessa Pierce-Ward, also adapted a web-based, interactive Dashboard that allows users to investigate patterns of *Ralstonia* biogeography, phylogeny, and host-of-isolation. Dashboard: https://ralstoniadashboard.shinyapps.io/RalstoniaWiltDashboard/  Our YouTube channel (linked below) has tutorials and case studies to demonstrate how to use the Dashboard to understand Ralstonia. 
+Seeking to unify the extensive literature on Ralstonia populations around the globe, we have an ongoing literature meta-analysis of *Ralstonia solanacearum* isolations (over 10,000 strains from over 300 papers). We publish updates to the *Ralstonia* isolation dataset as a ["living" BioRxiv pre-print (Lowe-Power et al.).](https://www.biorxiv.org/content/10.1101/2020.07.13.189936v5). In collaboration with Dr. Tessa Pierce-Ward, also adapted a web-based, interactive Dashboard that allows users to investigate patterns of *Ralstonia* biogeography, phylogeny, and host-of-isolation. Dashboard: [tinyurl.com/ralsto-dashboard](tinyurl.com/ralsto-dashboard). An overview of the dashboard is published as [Elmgreen et al. 2025, *Access Microbiology.*](doi.org/10.1099/acmi.0.001126.v3). Our [YouTube channel]((https://www.youtube.com/channel/UC0x1gbM48khnawBZ8AfAgxA) has tutorials and case studies to demonstrate how to use the Dashboard to understand Ralstonia. 
 
 ## Lowe-Power Lab YouTube Channel
 [Link to the channel](https://www.youtube.com/channel/UC0x1gbM48khnawBZ8AfAgxA)

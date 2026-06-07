@@ -195,7 +195,7 @@ UC Davis Major: **Microbiology** <br>
 [LinkedIn Page](https://www.linkedin.com/in/jia-yu-liou-161b04301/)<br>
 <br><br><br><br><br>
 
-![Grace Park](/assets/people/portrait_park.png){: .align-left width="200px"}
+![Grace Park](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Grace Park** <br>
 UC Davis Major: **Global Disease Biology**<br>
 Minor: **Public Health** <br>
@@ -467,7 +467,7 @@ UC Davis Major: **Microbiology** with a **Statistics** minor <br>
 ![Claudia Enriquez](/assets/people/portrait_enriquez.jpg){: .align-left width="200px"}
 **Claudia Enriquez** <br>
 UC Davis Major: **Microbiology** <br>
-[LinkedIn Page](https://www.linkedin.com/in/claudia-enriquez-b718bb194/)<br>
+[LinkedIn Page](https://www.linkedin.com/in/claudia-penriquez/)<br>
 <br><br><br><br><br><br>
 
 ![Maria Charco Munoz](/assets/people/portrait_charco_munoz.jpg){: .align-left width="200px"}

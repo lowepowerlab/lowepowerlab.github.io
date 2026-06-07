@@ -514,7 +514,7 @@ Research Project: Grace was mentored by Tiffany on a meta-analysis of hospital-a
 Fall 2019-Spring 2021<br>
 UC Davis Major: **Global Disease Biology**  <br>
 Research Project: Elva was mentored by Stratton to develop an assay that will allow us to investigate inter-bacterial competition, cloned several knockout plasmids, and uses BLAST to compare genomic content of Ralstonia genomes. <br>
-[LinkedIn Page](https://www.linkedin.com/in/elvaxian/)<br>
+[LinkedIn Page](https://www.linkedin.com/in/elvaxian/)<br><br>
 
 ![Dayna Denver](/assets/people/portrait_denver.jpg){: .align-left width="200px"}
 **Dayna Alyse Denver**<br>

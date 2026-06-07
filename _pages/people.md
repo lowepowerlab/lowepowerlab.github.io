@@ -99,13 +99,6 @@ For fun: video games, bouldering, gardening, and more!<br>
 [Noah Guillome](https://www.linkedin.com/in/noah-guillome-19250b241/)<br>
 <br><br><br>
 
-![Lisa Repetto](/assets/people/portrait_repetto.png){: .align-left width="200px"}
-**Lisa Repetto** <br>
-**Email:** lerepetto@ucdavis.edu<br>
-**B.S. Global Disease Biology** UC Davis<br>
-**Plant Pathology Graduate Group** UC Davis
-<br><br><br><br><br><br>
-
 ## Collaborating Grad Students and Postdocs
 
 ![Alba Moreno Perez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -124,20 +117,6 @@ For fun: video games, bouldering, gardening, and more!<br>
 [LinkedIn Page](https://www.linkedin.com/in/veronica-casey/)<br><br><br><br><br>
 
 ## #wUndergrads 
-![Clara Araujo](/assets/people/portrait_dias_de_araujo.jpg){: .align-left width="200px"}
-**Clara Araujo** <br>
-UC Davis Major: **Genetics & Genomics**<br>
-**For fun:** sports, movies, spending time with family and friends<br>
-[LinkedIn Page](www.linkedin.com/in/clara-araujo-681162250)<br>
-<br><br><br><br>
-
-![Dominic Avila](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Dominic Avila** <br>
-UC Davis Major: **Biotechnology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
-<br><br><br><br>
-
 ![Analiese Boedeker](/assets/people/portrait_boedeker.jpg){: .align-left width="200px"}
 **Analiese Boedeker** <br>
 UC Davis Major: **Biochemistry and Molecular Biology**<br>
@@ -152,28 +131,6 @@ UC Davis Major: **Biotechnology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/dennysfchen)<br>
 <br><br><br><br>
 
-![Jasmine Chin](/assets/people/portrait_chin.jpg){: .align-left width="200px"}
-**Jasmine Chin** <br>
-UC Davis Major: **Genetics and Genomics**<br>
-**For fun:** Reading, Crocheting, Cooking, Singing<br>
-[LinkedIn Page]<br>
-<br><br><br><br>
-
-![Nicole Chong](/assets/people/portrait_chong.jpg){: .align-left width="200px"}
-**Nicole Chong** <br>
-UC Davis Major: **Global Disease Biology**<br>
-**For fun:** Skiing, hiking, baking<br>
-[LinkedIn Page](https://www.linkedin.com/in/nicole-chong-7797ab1bb/)<br>
-<br><br><br><br><br>
-
-![Alex Corona-Vargas](/assets/people/portrait_corona-vargas.jpg){: .align-left width="200px"}
-**Alex Corona-Vargas** <br>
-UC Davis Major: **Biochemistry and Molecular Biology**<br>
-**For fun:** painting, listening to music, exercising and spending time with my cats, friends, and family<br>
-[LinkedIn Page](https://www.linkedin.com/in/alex-c-5945b019a)<br>
-<br><br><br><br>
-<br><br><br><br>
-
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>
 UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
@@ -182,47 +139,12 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 [LinkedIn Page](https://www.linkedin.com/in/tabitha-cowell-b8a360264/)<br>
 <br><br><br>
 
-![Ziya Faizel Chirammal](/assets/people/portrait_faizel_chirammal.jpg){: .align-left width="200px"}
-**Ziya Faizel Chirammal** <br>
-UC Davis Major: **Global Disease Biology**<br>
-**For fun:** baking, reading, & traveling<br>
-[LinkedIn Page](https://www.linkedin.com/in/ziya-faizel/)<br>
-<br><br><br><br><br>
-
 ![Willem Elings](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Willem Elings** <br>
 UC Davis Major: **Environmental Science and Management**<br>
 **For fun:** Movies, Exploring Cities, Swimming<br>
 [LinkedIn Page](http://www.linkedin.com/in/abdullah-farooq98)<br>
 <br><br><br><br>
-
-![Muhammad Farooq](/assets/people/portrait_farooq.jpg){: .align-left width="200px"}
-**Muhammad Farooq** <br>
-UC Davis Major: **Medicinal Chemistry**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
-<br><br><br><br>
-
-![Giancarlo Gonzalez](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Giancarlo Gonzalez** <br>
-UC Davis Major: **Medical and Molecular Microbiology**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
-<br><br><br><br>
-
-![Paloma Gonzalez Contreras](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
-**Paloma Gonzalez Contreras** <br>
-UC Davis Major: **Chemical Engineering**<br>
-**For fun:** <br>
-[LinkedIn Page]<br>
-<br><br><br><br>
-
-![Nicole He](/assets/people/portrait_he.jpg){: .align-left width="200px"}
-**Nicole He** <br>
-UC Davis Major: **Global Disease Biology**<br>
-**For fun:** Art, Hiking, Travel
-[LinkedIn Page](https://www.linkedin.com/in/nicole-he-9086b0354/)<br>
-<br><br><br><br><br>
 
 ![Miranda Jaramillo](/assets/people/portrait_jaramillo.jpg){: .align-left width="200px"}
 **Miranda Jaramillo** <br>
@@ -250,27 +172,6 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br>
-
-![Jia Yu Liou](/assets/people/portrait_liou.jpg){: .align-left width="200px"}
-**Jia Yu Liou** <br>
-UC Davis Major: **Microbiology** <br>
-**For fun:** looking at cats,  going on walks, and playing games<br>
-[LinkedIn Page](https://www.linkedin.com/in/jia-yu-liou-161b04301/)<br>
-<br><br><br><br>
-
-![Hana Mohammed](/assets/people/portrait_mohammed.png){: .align-left width="200px"}
-**Hana Mohammed** <br>
-UC Davis Major: **Microbology** and Minor in **Public Health**<br>
-**For fun:** hiking, horseback riding, traveling
-<br><br><br><br><br><br>
-
-![Grace Park](/assets/people/portrait_park.png){: .align-left width="200px"}
-**Grace Park** <br>
-UC Davis Major: **Global Disease Biology**<br>
-Minor: **Public Health** <br>
-**For fun:** hiking, skiing, spending time with friends and family<br>
-[LinkedIn Page](https://www.linkedin.com/in/grace-park-56a679201/)<br>
 <br><br><br><br>
 
 ![Ashlee Pilon](/assets/people/portrait_pilon.png){: .align-left width="200px"}

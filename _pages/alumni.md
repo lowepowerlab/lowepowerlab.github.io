@@ -195,12 +195,6 @@ UC Davis Major: **Microbiology** <br>
 [LinkedIn Page](https://www.linkedin.com/in/jia-yu-liou-161b04301/)<br>
 <br><br><br><br><br>
 
-![Hana Mohammed](/assets/people/portrait_mohammed.png){: .align-left width="200px"}
-**Hana Mohammed** <br>
-UC Davis Major: **Microbology** and Minor in **Public Health**<br>
-**For fun:** hiking, horseback riding, traveling
-<br><br><br><br><br><br><br>
-
 ![Grace Park](/assets/people/portrait_park.png){: .align-left width="200px"}
 **Grace Park** <br>
 UC Davis Major: **Global Disease Biology**<br>
@@ -208,6 +202,12 @@ Minor: **Public Health** <br>
 **For fun:** hiking, skiing, spending time with friends and family
 <br>
 [LinkedIn Page](https://www.linkedin.com/in/grace-park-56a679201/)<br><br><br><br><br><br>
+
+![Hana Mohammed](/assets/people/portrait_mohammed.png){: .align-left width="200px"}
+**Hana Mohammed** <br>
+UC Davis Major: **Microbology** and Minor in **Public Health**<br>
+**For fun:** hiking, horseback riding, traveling
+<br><br><br><br><br><br><br>
 
 ![Neha Prasad](/assets/people/portrait_prasad.png){: .align-left width="200px"}
 **Neha Prasad** <br>

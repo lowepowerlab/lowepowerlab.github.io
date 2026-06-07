@@ -75,7 +75,7 @@ Jason is working jointly in the Parales lab and Lowe-Power lab at UC Davis.
 Principal Investigator from **Volcani Institute**, Israel (currently on Sabbatical leave)
 <br>**Interests:** Phytobacteriology, insect-vectored bacterial pathogens, plant-microbe interactions, Extracellular vesicles
 **Website:** [Bahar lab](https://ofirb7.wix.com/bahar-lab)
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![Mari Carter](/assets/people/portrait_carter.jpg){: .align-left width="200px"}
 **Mariama Carter** <br>

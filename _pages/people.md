@@ -59,7 +59,7 @@ For fun: hiking, biking and exploring new places. <br>
 **B.S. Genetics**, Minor Women's Studies, University of Georgia <br>
 **Integrated Genetics and Genomics Graduate Group** UC Davis<br>
 For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
-[LinkedIn Page](linkedin.com/in/vienna-elmgreen-1a0204220)<br>
+[LinkedIn Page](https://www.linkedin.com/in/vienna-elmgreen-1a0204220/)<br>
 <br><br><br>
 
 ![Evan Roybal](/assets/people/portrait_roybal.jpg){: .align-left width="200px"}
@@ -144,7 +144,7 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 **Willem Elings** <br>
 UC Davis Major: **Environmental Science and Management**<br>
 **For fun:** Movies, Exploring Cities, Swimming<br>
-[LinkedIn Page]()<br>
+[LinkedIn Page]<br>
 <br><br><br><br><br> 
 
 ![Miranda Jaramillo](/assets/people/portrait_jaramillo.jpg){: .align-left width="200px"}

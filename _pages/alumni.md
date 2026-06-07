@@ -98,7 +98,7 @@ Visiting from the **Plant Pathology PhD Program** at UW-Madison<br>
 **B.S. Food and Biological Industries** University Institute of Technology of Reunion Island <br>
 **R&D intern** at UC Davis in the Lowe-Power Laboratory's plant pathology department<br>
 Master’s student in Biological Engineering, specializing in biotechnology at **Polytech Marseille – France**<br>
-[LinkedIn Page](www.linkedin.com/in/agnès-bellon-023041212)
+[LinkedIn Page](https://www.linkedin.com/in/agnès-bellon-023041212)
 
 ## Collaborating Grad Students and Postdocs
 ![Benjamin Arbaugh](/assets/people/portrait_arbaugh.jpg){: .align-left width="200px"}
@@ -121,7 +121,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 **Clara Araujo** <br>
 UC Davis Major: **Genetics & Genomics**<br>
 **For fun:** sports, movies, spending time with family and friends<br>
-[LinkedIn Page](www.linkedin.com/in/clara-araujo-681162250)<br>
+[LinkedIn Page](https://www.linkedin.com/in/araujo-mariaclara/)<br>
 <br><br><br><br><br>
 
 ![Dominic Avila](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
@@ -352,7 +352,7 @@ Major: Medical and Molecular Biology (Woodland Community College) <br>
 **Kasey Miqueo** <br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
-[LinkedIn Page](https://www.linkedin.com/in/kasey-m-7315b0208/)
+[LinkedIn Page](https://www.linkedin.com/in/kasey-miqueo-7315b0208/)
 <br><br><br><br><br>
 
 ![Henry Pomeroy](/assets/people/portrait_pomeroy.jpg){: .align-left width="200px"}

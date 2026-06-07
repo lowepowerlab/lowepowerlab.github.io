@@ -179,7 +179,7 @@ UC Davis Major: **Biotechnology**<br>
 UC Davis Major: **Systems and Synthetic Biology**<br>
 **For fun:** reading, sewing, embroidery, baking <br>
 [LinkedIn Page](https://www.linkedin.com/in/ashlee-pilon/)<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Valerie Whitfield](/assets/people/portrait_whitfield.jpg){: .align-left width="200px"}
 **Valerie Whitfield** <br>

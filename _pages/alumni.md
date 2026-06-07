@@ -212,8 +212,8 @@ UC Davis Major: **Global Disease Biology**<br>
 Minor: **Public Health** <br>
 **For fun:** hiking, skiing, spending time with friends and family<br>
 [LinkedIn Page](https://www.linkedin.com/in/grace-park-56a679201/)<br>
-<br><br><br><br>
-<br>
+<br><br><br><br><br>
+
 ![Neha Prasad](/assets/people/portrait_prasad.png){: .align-left width="200px"}
 **Neha Prasad** <br>
 UC Davis Major: **Cell Biology** and Minor in **Global Disease Biology**<br>

@@ -40,7 +40,7 @@ For fun: hiking, biking and exploring new places. <br>
 **PhD Quantitative Biosciences**, Georgia Institute of Technology<br>
 [Google Scholar](https://scholar.google.com/citations?user=XXciNO4AAAAJ&hl=en)<br>
 [LinkedIn Page](https://www.linkedin.com/in/katie-macgillivray/)<br>
-<br><br><br>
+<br><br>
 
 ![Gina Shin](/assets/people/portrait_shin.jpg){: .align-left width="200px"}
 **Gina (Gi Yoon) Shin** <br> 
@@ -87,7 +87,7 @@ For fun: dinosaurs, hiking, podcasts, spending time with friends <br>
 **Plant Pathology Graduate Group** UC Davis<br>
 For fun: video games, bouldering, gardening, and more!<br>
 [LinkedIn Page](https://www.linkedin.com/in/matthew-cope-arguello-7233b322a/)<br>
-[OrcID listing](https://orcid.org/0000-0002-2860-8179)<br><br>
+[OrcID listing](https://orcid.org/0000-0002-2860-8179)<br>
 
 ![Noah Guillome](/assets/people/portrait_guillome.jpg){: .align-left width="200px"}
 **Noah Guillome** <br>
@@ -97,7 +97,7 @@ For fun: video games, bouldering, gardening, and more!<br>
 **Microbiology Graduate Group** UC Davis<br>
 **For fun:** Dungeons and Dragons and dancing<br>
 [Noah Guillome](https://www.linkedin.com/in/noah-guillome-19250b241/)<br>
-<br><br><br>
+<br><br>
 
 ## Collaborating Grad Students and Postdocs
 
@@ -122,7 +122,7 @@ For fun: video games, bouldering, gardening, and more!<br>
 UC Davis Major: **Biochemistry and Molecular Biology**<br>
 **For fun:** reading, anything outdoors, board games, spending time with friends and family <br>
 [LinkedIn Page]<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Denny Chen](/assets/people/portrait_chen-denny.jpg){: .align-left width="200px"}
 **Denny Chen** <br>
@@ -137,7 +137,7 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 **For fun:** photography, reading, crafts <br>
 [Google Scholar](https://scholar.google.com/citations?user=_3Sx2rAAAAAJ&hl=en)<br>
 [LinkedIn Page](https://www.linkedin.com/in/tabitha-cowell-b8a360264/)<br>
-<br><br><br>
+<br><br><br><br>
 
 ![Willem Elings](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Willem Elings** <br>
@@ -151,7 +151,7 @@ UC Davis Major: **Environmental Science and Management**<br>
 UC Davis Major: ** Cell Biology** <br>
 **For fun:** music, knitting, ballroom dancing<br>
 <br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Anaya Kamat](/assets/people/portrait_kamat.jpg){: .align-left width="200px"}
 **Anaya Kamat** <br>
@@ -165,14 +165,14 @@ UC Davis Major: **Biotechnology**<br>
 UC Davis Major: **Global Disease Biology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Nevanmee Kurulugama](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Nevanmee Kurulugama** <br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** <br>
 [LinkedIn Page]<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Ashlee Pilon](/assets/people/portrait_pilon.png){: .align-left width="200px"}
 **Ashlee Pilon** <br>
@@ -186,7 +186,7 @@ UC Davis Major: **Systems and Synthetic Biology**<br>
 UC Davis Major: **Medical and Molecular Microbiology**<br>
 **For fun:** running, piano, video games<br>
 [LinkedIn Page](https://www.linkedin.com/in/miguel-soto-6a1685314/)<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Valerie Whitfield](/assets/people/portrait_whitfield.jpg){: .align-left width="200px"}
 **Valerie Whitfield** <br>
@@ -200,7 +200,7 @@ UC Davis Major: **Systems and Synthetic Biology**<br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** dancing, k-pop, anime, listening to music, embroidery<br>
 [LinkedIn Page](http://www.linkedin.com/in/daryn-yong-0a2b573a2)<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Ruxi Zhang](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Ruxi Zhang** <br>

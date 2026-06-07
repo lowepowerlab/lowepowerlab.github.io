@@ -129,7 +129,7 @@ UC Davis Major: **Biochemistry and Molecular Biology**<br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** badminton, biking, listening to music <br>
 [LinkedIn Page](https://www.linkedin.com/in/dennysfchen)<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Tabitha Cowell](/assets/people/portrait_cowell.jpg){: .align-left width="200px"}
 **Tabitha Cowell** <br>
@@ -144,7 +144,7 @@ UC Davis Major: **Applied Chemistry, Forensic Chemistry Emphasis**<br>
 UC Davis Major: **Environmental Science and Management**<br>
 **For fun:** Movies, Exploring Cities, Swimming<br>
 [LinkedIn Page](http://www.linkedin.com/in/abdullah-farooq98)<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Miranda Jaramillo](/assets/people/portrait_jaramillo.jpg){: .align-left width="200px"}
 **Miranda Jaramillo** <br>
@@ -158,7 +158,7 @@ UC Davis Major: ** Cell Biology** <br>
 UC Davis Major: **Biotechnology**<br>
 **For fun:** reading, watching movies, traveling, baking<br>
 [LinkedIn Page](https://www.linkedin.com/in/anaya-kamat-835b143a2)<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Bhavana Karthik](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Bhavana Karthik** <br>
@@ -179,7 +179,7 @@ UC Davis Major: **Biotechnology**<br>
 UC Davis Major: **Systems and Synthetic Biology**<br>
 **For fun:** reading, sewing, embroidery, baking <br>
 [LinkedIn Page](https://www.linkedin.com/in/ashlee-pilon/)<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Miguel Soto](/assets/people/portrait_soto.jpg){: .align-left width="200px"}
 **Miguel Soto** <br>
@@ -193,7 +193,7 @@ UC Davis Major: **Medical and Molecular Microbiology**<br>
 UC Davis Major: **Systems and Synthetic Biology**<br>
 **For fun:** saxophone, video games, knitting<br>
 [LinkedIn Page]<br>
-<br><br><br><br>
+<br><br><br><br><br>
 
 ![Daryn Yong](/assets/people/portrait_yong.jpg){: .align-left width="200px"}
 **Daryn Yong** <br>

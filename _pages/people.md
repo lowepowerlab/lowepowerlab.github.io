@@ -181,13 +181,6 @@ UC Davis Major: **Systems and Synthetic Biology**<br>
 [LinkedIn Page](https://www.linkedin.com/in/ashlee-pilon/)<br>
 <br><br><br><br><br>
 
-![Miguel Soto](/assets/people/portrait_soto.jpg){: .align-left width="200px"}
-**Miguel Soto** <br>
-UC Davis Major: **Medical and Molecular Microbiology**<br>
-**For fun:** running, piano, video games<br>
-[LinkedIn Page](https://www.linkedin.com/in/miguel-soto-6a1685314/)<br>
-<br><br><br><br><br>
-
 ![Valerie Whitfield](/assets/people/portrait_whitfield.jpg){: .align-left width="200px"}
 **Valerie Whitfield** <br>
 UC Davis Major: **Systems and Synthetic Biology**<br>

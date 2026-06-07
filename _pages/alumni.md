@@ -114,6 +114,13 @@ Master’s student in Biological Engineering, specializing in biotechnology at *
 
 ## #wUndergrads 
 
+![Miguel Soto](/assets/people/portrait_soto.jpg){: .align-left width="200px"}
+**Miguel Soto** <br>
+UC Davis Major: **Medical and Molecular Microbiology**<br>
+**For fun:** running, piano, video games<br>
+[LinkedIn Page](https://www.linkedin.com/in/miguel-soto-6a1685314/)<br>
+<br><br><br><br><br>
+
 ![Clara Araujo](/assets/people/portrait_dias_de_araujo.jpg){: .align-left width="200px"}
 **Clara Araujo** <br>
 UC Davis Major: **Genetics & Genomics**<br>

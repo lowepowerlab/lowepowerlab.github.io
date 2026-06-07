@@ -370,7 +370,7 @@ Visiting undergraduate student from the University of Sydney
 ![Ajay Sandhar](/assets/people/portrait_sandhar.jpg){: .align-left width="200px"}
 **Ajay Sandhar** <br>
 UC Davis Major: **Global Disease Biology**<br>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ![Noor Shahbaz](/assets/people/portrait_shahbaz.jpg){: .align-left width="200px"}
 **Noor Shahbaz** <br>
@@ -435,7 +435,7 @@ UC Davis Major: **Global Disease Biology**<br>
 UC Davis Major: **Biomedical Engineering**<br>
 **For fun:** Travel, Soccer, Reading, and Running <br>
 [LinkedIn Page](https://www.linkedin.com/in/hashem-bkayrat-85b169266/)<br>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ![Angela Cadatal](/assets/people/portrait_tbd.jpg){: .align-left width="200px"}
 **Angela Cadatal** <br>

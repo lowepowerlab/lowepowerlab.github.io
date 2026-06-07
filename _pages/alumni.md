@@ -199,9 +199,7 @@ UC Davis Major: **Microbiology** <br>
 **Grace Park** <br>
 UC Davis Major: **Global Disease Biology**<br>
 Minor: **Public Health** <br>
-**For fun:** hiking, skiing, spending time with friends and family
-<br>
-[LinkedIn Page](https://www.linkedin.com/in/grace-park-56a679201/)<br><br><br><br><br><br>
+[LinkedIn Page](https://www.linkedin.com/in/grace-park-56a679201/)<br><br><br><br><br><br><br>
 
 ![Hana Mohammed](/assets/people/portrait_mohammed.png){: .align-left width="200px"}
 **Hana Mohammed** <br>

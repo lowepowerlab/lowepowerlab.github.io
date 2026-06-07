@@ -530,7 +530,7 @@ Dayna is a research student from Cal Poly Pomona joining the lab through the Nat
 **Kyle Chipman** <br> 
 Winter - Spring 2020 <br>
 UC Davis Major: **Global Disease Biology** <br> 
-Research Project: Kyle was first mentored by Stratton to create knockout plasmids to make mutant bacteria. Then the covid-19 pandemic hit and Kyle and Tiffany devised a remote research project, called the Global Ralstonia Diversity meta-analysis. 
+Research Project: Kyle was first mentored by Stratton to create knockout plasmids to make mutant bacteria. Then the covid-19 pandemic hit and Kyle and Tiffany devised a remote research project, called the Global Ralstonia Diversity meta-analysis. <br>
 [LinkedIn Page](https://www.linkedin.com/in/kyle-chipman-56a668139/)<br>
 <br><br><br>
 
@@ -548,8 +548,7 @@ For fun: shopping, hanging out with my dog 🐶, and traveling <br>
 **Katie Shalvarjian** <br> 
 **Twitter**: [@kshalv](https://twitter.com/kshalv) <br>
 **BS Microbial Biology** UC Berkeley<br>
-Katie was a Summer Undergraduate Research Fellow working with Dr. Lowe-Power in the Lindow lab at Berkeley to investigate <i>Ralstonia solacearum</i>'s growth requirements in tomato xylem sap. 
-
+Katie was a Summer Undergraduate Research Fellow working with Dr. Lowe-Power in the Lindow lab at Berkeley to investigate <i>Ralstonia solacearum</i>'s growth requirements in tomato xylem sap. <br>
 For fun: Rock climbing, baking bread, hiking<br>
  
 **What she did after graduating**: In Fall 2019, Katie joined Dr. Dipti Nayak's lab at UC Berkeley where she is a research technician unraveling the mysteries of Archaea. In Fall 2020, Katie started her PhD in the Plant and Microbial Biology department at UC Berkeley. 
